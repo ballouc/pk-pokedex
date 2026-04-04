@@ -1,9 +1,9 @@
-import { useState, useMemo, useRef, useEffect } from 'react'
+import { useState, useMemo, useRef, useEffect, Fragment } from 'react'
 import { search, typeSprite, categorySprite, getEvoChain, pokemonById, getLearnset } from './pokemon'
 import './App.css'
 
 const STAT_MAX = 255
-const STAT_REF = 75
+const STAT_REF = 75 // reference line — roughly "average" single base stat
 const STAT_ENTRIES = [
   { key: 'hp',      label: 'HP'  },
   { key: 'attack',  label: 'Atk' },
@@ -17,7 +17,7 @@ const TRACK_HEIGHT_PX = 80  // must match .stat-track height in CSS
 const BELOW_TRACK_PX   = 18  // stat-label (~14px) + gap (4px) below the track
 
 function StatGraph({ pokemon }) {
-  // Offset from the bottom of .stat-tracks to where the 75 line should sit
+  // Offset from the bottom of .stat-tracks to where the reference line should sit
   const refBottom = BELOW_TRACK_PX + (STAT_REF / STAT_MAX) * TRACK_HEIGHT_PX
 
   return (
@@ -131,9 +131,8 @@ function EvolutionChain({ pokemon, onSelect }) {
     <div className="evo-section">
       <div className="evo-chain">
         {chain.chain.map((member, i) => (
-          <>
+          <Fragment key={member.id}>
             <div
-              key={member.id}
               className={`evo-member${member.id === pokemon.id ? ' evo-member--current' : ' evo-member--selectable'}`}
               onClick={member.id !== pokemon.id ? () => onSelect(pokemonById[member.id]) : undefined}
             >
@@ -145,7 +144,7 @@ function EvolutionChain({ pokemon, onSelect }) {
             </div>
 
             {i < chain.transitions.length && (
-              <div key={`t${i}`} className="evo-transition">
+              <div className="evo-transition">
                 <div className="evo-arrow">
                   {chain.transitions[i].required && chain.transitions[i].required !== '0'
                     ? chain.transitions[i].required
@@ -154,7 +153,7 @@ function EvolutionChain({ pokemon, onSelect }) {
                 <span className="evo-method">{chain.transitions[i].method}</span>
               </div>
             )}
-          </>
+          </Fragment>
         ))}
       </div>
     </div>
@@ -214,7 +213,11 @@ function App() {
           {results.map(pokemon => (
             <div
               key={pokemon.id}
-              className={`result-row ${pokemon.isPrimary ? '' : 'result-row--secondary'} ${selected?.id === pokemon.id ? 'result-row--active' : ''}`}
+              className={[
+                'result-row',
+                !pokemon.isPrimary && 'result-row--secondary',
+                selected?.id === pokemon.id && 'result-row--active',
+              ].filter(Boolean).join(' ')}
               onClick={() => setSelected(pokemon)}
             >
               <div className="result-sprite">

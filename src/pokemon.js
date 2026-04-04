@@ -17,8 +17,7 @@ const categoryModules = import.meta.glob('../assets/sprites/categories/*.png', {
 export const categorySprite = {}
 for (const [path, mod] of Object.entries(categoryModules)) {
   const filename = path.split('/').pop()
-  const categoryName = filename.replace('.png', '')
-  categorySprite[categoryName] = mod.default
+  categorySprite[filename.replace('.png', '')] = mod.default
 }
 
 // Form entries (IDs 494+) don't have matching sprite IDs — map them manually
@@ -59,7 +58,28 @@ function getSpriteUrl(id) {
   return null
 }
 
+// CSV parser that respects double-quoted fields containing commas
+function parseCsvLine(line) {
+  const fields = []
+  let current = ''
+  let inQuotes = false
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i]
+    if (ch === '"') {
+      inQuotes = !inQuotes
+    } else if (ch === ',' && !inQuotes) {
+      fields.push(current)
+      current = ''
+    } else {
+      current += ch
+    }
+  }
+  fields.push(current)
+  return fields
+}
+
 function getBaseName(name) {
+  // Returns lowercase base species name, stripping form suffixes like " (A)" or " (Heat)"
   return name.replace(/\s*\([^)]*\)\s*$/, '').trim().toLowerCase()
 }
 
@@ -79,7 +99,7 @@ const ALL_POKEMON = csvText
   .slice(1)
   .filter(line => line.trim())
   .map(line => {
-    const parts = line.split(',')
+    const parts = parseCsvLine(line)
     const id = parseInt(parts[0])
     const name = parts[1]?.trim() ?? ''
     const type1 = parts[9]?.trim() ?? ''
@@ -172,7 +192,7 @@ evoCsvText
   .split('\n')
   .slice(1)
   .forEach(line => {
-    const parts = line.split(',')
+    const parts = parseCsvLine(line)
     const id = parseInt(parts[0])
     const name = parts[1]?.trim()
     if (!name) return
@@ -257,27 +277,7 @@ export function getEvoChain(pokemonId) {
 
 // --- Moves ---
 
-// CSV parser that respects double-quoted fields containing commas
-function parseCsvLine(line) {
-  const fields = []
-  let current = ''
-  let inQuotes = false
-  for (let i = 0; i < line.length; i++) {
-    const ch = line[i]
-    if (ch === '"') {
-      inQuotes = !inQuotes
-    } else if (ch === ',' && !inQuotes) {
-      fields.push(current)
-      current = ''
-    } else {
-      current += ch
-    }
-  }
-  fields.push(current)
-  return fields
-}
-
-// lowercase name → { type, category, power, accuracy, pp }
+// lowercase name → { additionalEffect, category, power, type, accuracy, pp, targets, priority }
 const moveDataByName = {}
 
 movesCsvText
@@ -302,7 +302,7 @@ movesCsvText
 
 // --- Learnsets ---
 
-// id → [{ move, level, type, category, power, accuracy, pp }]
+// id → [{ move, level, ...moveData }]
 const learnsetById = {}
 
 learnsetCsvText
@@ -310,16 +310,15 @@ learnsetCsvText
   .split('\n')
   .slice(1)
   .forEach(line => {
-    const parts = line.split(',')
+    const parts = parseCsvLine(line)
     const id = parseInt(parts[0])
     const moves = []
     // Pairs start at column 2: (move, level), (move, level), ...
     for (let i = 2; i < parts.length - 1; i += 2) {
       const move = parts[i]?.trim()
-      const level = parseInt(parts[i + 1])
+      const level = parseInt(parts[i + 1]) || null
       if (!move) continue
-      const data = moveDataByName[move.toLowerCase()] ?? {}
-      moves.push({ move, level, ...data })
+      moves.push({ move, level, ...(moveDataByName[move.toLowerCase()] ?? {}) })
     }
     learnsetById[id] = moves
   })
@@ -335,8 +334,6 @@ export function search(query) {
   const scored = ALL_POKEMON
     .map(p => ({ ...p, score: matchScore(q, p.name.toLowerCase()) }))
     .filter(p => p.score < Infinity)
-
-  if (scored.length === 0) return []
 
   scored.sort((a, b) => a.score - b.score)
 

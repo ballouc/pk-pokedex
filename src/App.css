@@ -1,3 +1,17 @@
+:root {
+  --color-brand: #6c63ff;
+  --color-border: #e5e5e5;
+}
+
+/* Shared: all sprite/badge images use pixelated rendering */
+.result-sprite img,
+.detail-sprite,
+.type-badge,
+.move-type-badge,
+.evo-member img {
+  image-rendering: pixelated;
+}
+
 .app-window {
   display: flex;
   width: 900px;
@@ -13,7 +27,7 @@
 /* Left column — 30% */
 .panel-left {
   width: 30%;
-  border-right: 1px solid #e5e5e5;
+  border-right: 1px solid var(--color-border);
   display: flex;
   flex-direction: column;
   background: #fafafa;
@@ -21,7 +35,7 @@
 
 .search-bar {
   padding: 16px;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid var(--color-border);
 }
 
 .search-bar input {
@@ -35,7 +49,7 @@
 }
 
 .search-bar input:focus {
-  border-color: #6c63ff;
+  border-color: var(--color-brand);
   box-shadow: 0 0 0 2px rgba(108, 99, 255, 0.15);
 }
 
@@ -63,6 +77,10 @@
   opacity: 0.55;
 }
 
+.result-row--active {
+  background: #efefff;
+}
+
 .result-sprite {
   width: 40px;
   height: 40px;
@@ -75,7 +93,6 @@
 .result-sprite img {
   width: 40px;
   height: 40px;
-  image-rendering: pixelated;
   object-fit: contain;
 }
 
@@ -111,7 +128,6 @@
 
 .detail-header {
   display: flex;
-  flex-direction: row;
   align-items: stretch;
   flex-shrink: 0;
 }
@@ -130,7 +146,6 @@
   width: 100%;
   height: 100%;
   object-fit: contain;
-  image-rendering: pixelated;
 }
 
 .detail-info {
@@ -154,14 +169,12 @@
 
 .detail-types {
   display: flex;
-  flex-direction: row;
   gap: 6px;
   align-items: center;
 }
 
 .type-badge {
   height: 20px;
-  image-rendering: pixelated;
 }
 
 .type-badge-text {
@@ -178,14 +191,9 @@
   color: #555;
 }
 
-.result-row--active {
-  background: #efefff;
-}
-
 /* Stat graph */
 .stat-wrap {
   display: flex;
-  flex-direction: row;
   align-items: center;
   gap: 16px;
   padding: 12px 20px;
@@ -224,7 +232,6 @@
 .stat-tracks {
   position: relative;
   display: flex;
-  flex-direction: row;
   align-items: flex-end;
   gap: 6px;
 }
@@ -235,7 +242,6 @@
   right: 0;
   height: 0;
   border-top: 1px dashed rgba(0, 0, 0, 0.15);
-  bottom: 0; /* overridden by inline style computed in StatGraph */
   pointer-events: none;
 }
 
@@ -260,7 +266,7 @@
 
 .stat-fill {
   width: 100%;
-  background: #6c63ff;
+  background: var(--color-brand);
   border-radius: 3px;
   transition: height 0.2s ease;
 }
@@ -281,7 +287,7 @@
 /* Move table */
 .move-table-wrap {
   padding: 0 5%;
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid var(--color-border);
 }
 
 .move-table {
@@ -300,7 +306,7 @@
   text-transform: uppercase;
   letter-spacing: 0.04em;
   padding: 7px 12px;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid var(--color-border);
   text-align: left;
 }
 
@@ -334,12 +340,11 @@
   border-radius: 6px;
   pointer-events: none;
   white-space: nowrap;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 .move-type-badge {
   height: 16px;
-  image-rendering: pixelated;
   display: block;
 }
 
@@ -353,7 +358,6 @@
 
 .evo-chain {
   display: flex;
-  flex-direction: row;
   align-items: center;
   gap: 4px;
 }
@@ -371,7 +375,6 @@
 .evo-member img {
   width: 56px;
   height: 56px;
-  image-rendering: pixelated;
   object-fit: contain;
 }
 
@@ -395,7 +398,7 @@
 }
 
 .evo-member--current .evo-member-name {
-  color: #6c63ff;
+  color: var(--color-brand);
   font-weight: 700;
 }
 
