@@ -1,0 +1,509 @@
+ID Number,Name,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,BST,Type 1,Type 2,Catch Rate,Exp Drop,Uncommon Held Item,Rare Held Item,Gender Ratio,Hatch Multiplier,Base Happiness,Growth Rate,Egg Group 1,Egg Group 2,Ability 1,Ability 2,Safari Zone Run Chance,DO NOT TOUCH
+0,-----,0,0,0,0,0,0,0,Normal,Normal,0,0,None,None,0,0,0,Medium Fast,~,~,-,-,0,0
+1,BULBASAUR,45,49,49,65,65,45,318,Grass,Poison,59,64,None,None,31,20,70,Medium Slow,Monster,Grass,Overgrow,Overgrow,45,3
+2,IVYSAUR,60,62,63,80,80,60,405,Grass,Poison,59,141,None,None,31,20,70,Medium Slow,Monster,Grass,Overgrow,Overgrow,45,3
+3,VENUSAUR,80,92 (+10),83,100,100,80,535 (+10),Grass,Poison,20,208,None,None,31,20,70,Medium Slow,Monster,Grass,Chlorophyll,Overgrow,45,3
+4,CHARMANDER,39,52,43,60,50,65,309,Fire,Fire,59,65,None,None,31,20,70,Medium Slow,Monster,Dragon,Blaze,Blaze,0,0
+5,CHARMELEON,58,64,58,80,65,80,405,Fire,Fire,46,142,None,None,31,20,70,Medium Slow,Monster,Dragon,Blaze,Blaze,0,0
+6,CHARIZARD,78,84,78,110 (+1),85,100,535 (+1),Fire,Flying,20,209,None,None,31,20,70,Medium Slow,Monster,Dragon,Solar Power,Blaze,0,0
+7,SQUIRTLE,44,48,65,50,64,43,314,Water,Water,59,66,None,None,31,20,70,Medium Slow,Monster,Water 1,Shell Armor,Shell Armor,45,1
+8,WARTORTLE,59,63,80,65,80,58,405,Water,Water,46,143,None,None,31,20,70,Medium Slow,Monster,Water 1,Shell Armor,Shell Armor,45,1
+9,BLASTOISE,79,81 (-2),100,110 (+25),105,60 (-18),535 (+5),Water,Water,20,210,None,None,31,20,70,Medium Slow,Monster,Water 1,Torrent,Shell Armor,45,1
+10,CATERPIE,45,30,35,20,20,45,195,Bug,Bug,255,53,None,None,127,15,70,Medium Fast,Bug,Bug,Tinted Lens,-,0,3
+11,METAPOD,50,20,55,25,55 (+30),30,235 (+30),Bug,Bug,156,72,None,None,127,15,70,Medium Fast,Bug,Bug,Shed Skin,-,0,3
+12,BUTTERFREE,60,45,50,90 (+10),80,70,395 (+10),Bug,Flying,59,160,None,None,127,15,70,Medium Fast,Bug,Bug,Compoundeyes,-,0,8
+13,WEEDLE,40,35,30,20,20,50,195,Bug,Poison,255,52,None,None,127,15,70,Medium Fast,Bug,Bug,Shield Dust,-,0,5
+14,KAKUNA,45,25,50,25,55 (+30),35,235 (+30),Bug,Poison,156,71,None,None,127,15,70,Medium Fast,Bug,Bug,Shed Skin,-,0,2
+15,BEEDRILL,65,90 (+10),40,45,80,75,395 (+10),Bug,Poison,59,159,None,None,127,15,70,Medium Fast,Bug,Bug,Swarm,-,0,2
+16,PIDGEY,40,45,40,35,35,56,251,Normal,Flying,255,55,None,None,127,15,70,Medium Slow,Flying,Flying,Tangled Feet,Tangled Feet,0,5
+17,PIDGEOTTO,63,60,55,50,50,71,349,Normal,Flying,156,113,None,None,127,15,70,Medium Slow,Flying,Flying,Tangled Feet,Tangled Feet,0,5
+18,PIDGEOT,83,100 (+20),75,100 (+30),70,101 (+10),529 (+60),Normal,Flying,59,172,None,None,127,15,70,Medium Slow,Flying,Flying,Intimidate,Intimidate,0,5
+19,RATTATA,30,56,35,25,35,72,253,Normal,Normal,255,57,None,None,127,15,70,Medium Fast,Field,Field,Guts,Guts,100,6
+20,RATICATE,55,81,60,50,70,97,413,Normal,Normal,165,116,None,None,127,15,70,Medium Fast,Field,Field,Guts,Guts,0,5
+21,SPEAROW,40,60,30,31,31,70,262,Normal,Flying,255,58,None,None,127,15,70,Medium Fast,Flying,Flying,Sniper,-,0,5
+22,FEAROW,65,110 (+20),75 (+10),31,61,100,472 (+30),Normal,Flying,117,162,None,None,127,15,70,Medium Fast,Flying,Flying,Sniper,-,90,5
+23,EKANS,35,60,44,40,54,55,288,Poison,Poison,255,62,None,None,127,20,70,Medium Fast,Field,Dragon,Intimidate,Intimidate,0,6
+24,ARBOK,60,95 (+10),69,65,79,80,448 (+10),Poison,Poison,117,147,None,None,127,20,70,Medium Fast,Field,Dragon,Intimidate,Intimidate,120,6
+25,PIKACHU,35,55,30,50,40,90,300,Electric,Electric,247,82,None,None,127,10,70,Medium Fast,Field,Fairy,Reckless,-,0,2
+26,RAICHU,60,90,60 (+5),90,85 (+5),110 (+10),495 (+20),Electric,Electric,98,122,None,None,127,10,70,Medium Fast,Field,Fairy,Lightningrod,-,0,2
+27,SANDSHREW,50,75,90 (+5),10 (-10),35 (+5),40,300,Ground,Ground,255,93,None,None,127,20,70,Medium Fast,Field,Field,Rough Skin,Rough Skin,0,2
+28,SANDSLASH,75,100,120 (+10),25 (-20),65 (+10),65,450,Ground,Ground,117,163,None,None,127,20,70,Medium Fast,Field,Field,Rough Skin,Rough Skin,0,2
+29,NIDORAN♀,55,47,52,40,40,41,275,Poison,Poison,255,59,None,None,254,20,70,Medium Slow,Monster,Field,Poison Point,Rivalry,60,1
+30,NIDORINA,70,62,67,55,55,56,365,Poison,Poison,156,117,None,None,254,20,70,Medium Slow,Undiscovered,Undiscovered,Poison Point,Rivalry,60,1
+31,NIDOQUEEN,90,92 (+10),97 (+10),85 (+10),95 (+10),76,535 (+40),Poison,Ground,59,194,None,None,254,20,70,Medium Slow,Undiscovered,Undiscovered,Battle Armor,Battle Armor,60,1
+32,NIDORAN♂,46,57,40,40,40,50,273,Poison,Poison,255,60,None,None,0,20,70,Medium Slow,Monster,Field,Poison Point,Rivalry,60,6
+33,NIDORINO,61,72,57,55,55,65,365,Poison,Poison,156,118,None,None,0,20,70,Medium Slow,Monster,Field,Poison Point,Rivalry,60,6
+34,NIDOKING,81,102 (+10),87 (+10),95 (+10),85 (+10),85,535 (+40),Poison,Ground,59,195,None,None,0,20,70,Medium Slow,Monster,Field,Mold Breaker,Mold Breaker,60,6
+35,CLEFAIRY,70,45,48,60,65,35,323,Normal,Normal,46,68,None,None,191,10,140,Fast,Fairy,Fairy,Magic Guard,Magic Guard,60,9
+36,CLEFABLE,95,70,73,95 (+10),90,65 (+5),488 (+15),Normal,Normal,17,129,None,None,191,10,140,Fast,Fairy,Fairy,Magic Guard,Magic Guard,0,9
+37,VULPIX,38,41,40,65 (+15),65,65,314 (+15),Fire,Fire,247,63,None,None,191,20,70,Medium Fast,Field,Field,Flame Body,-,0,5
+38,NINETALES,79 (+6),89 (+13),79 (+4),109 (+28),99 (-1),100,555 (+50),Fire,Fire,90,178,None,None,191,20,70,Medium Fast,Field,Field,Magic Guard,-,0,2
+39,JIGGLYPUFF,115,45,38 (+18),60 (+15),55 (+30),20,333 (+63),Normal,Normal,221,76,None,None,191,10,70,Fast,Fairy,Fairy,Aftermath,-,0,9
+40,WIGGLYTUFF,140,80 (+10),75 (+30),85 (+10),70 (+20),45,495 (+70),Normal,Normal,65,109,None,None,191,10,70,Fast,Fairy,Fairy,Aftermath,-,0,9
+41,ZUBAT,40,45,35,30,40,55,245,Poison,Flying,117,54,None,None,127,15,70,Medium Fast,Flying,Flying,Inner Focus,-,0,6
+42,GOLBAT,75,80,70,65,75,90,455,Poison,Flying,72,171,None,None,127,15,70,Medium Fast,Flying,Flying,Inner Focus,-,0,6
+43,ODDISH,45,50,55,75,65,30,320,Grass,Poison,255,78,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,0,1
+44,GLOOM,60,65,70,85,75,40,395,Grass,Poison,156,132,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,0,1
+45,VILEPLUME,75,80,85,110 (+10),90,50,490 (+10),Grass,Poison,59,184,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,0,0
+46,PARAS,35,70,55,45,55,25,285,Bug,Grass,247,70,TinyMushroom,TinyMushroom,127,20,70,Medium Fast,Bug,Grass,Dry Skin,Dry Skin,120,0
+47,PARASECT,60,95,80,60,80,30,405,Bug,Grass,98,128,Big Mushroom,Big Mushroom,127,20,70,Medium Fast,Bug,Grass,Dry Skin,Dry Skin,0,0
+48,VENONAT,60,55,50,40,55,45,305,Bug,Poison,247,75,None,None,127,20,70,Medium Fast,Bug,Bug,Compoundeyes,Tinted Lens,0,6
+49,VENOMOTH,70,65,60,90,75,90,450,Bug,Poison,98,138,None,None,127,20,70,Medium Fast,Bug,Bug,Tinted Lens,Tinted Lens,0,6
+50,DIGLETT,10,55,25,35,45,95,265,Ground,Ground,255,81,None,None,127,20,70,Medium Fast,Field,Field,Arena Trap,Arena Trap,0,5
+51,DUGTRIO,35,100 (+20),50,50,70,120,425 (+20),Ground,Ground,65,153,None,None,127,20,70,Medium Fast,Field,Field,Arena Trap,Arena Trap,0,5
+52,MEOWTH,40,45,35,40,40,90,290,Normal,Normal,255,69,None,None,127,20,70,Medium Fast,Field,Field,Super Luck,Limber,0,2
+53,PERSIAN,65,92 (+22),60,65,65,115,462 (+22),Normal,Normal,117,148,None,None,127,20,70,Medium Fast,Field,Field,Super Luck,Limber,0,2
+54,PSYDUCK,50,52,48,65,50,55,320,Water,Water,247,80,None,None,127,20,70,Medium Fast,Water 1,Field,Simple,Unaware,90,2
+55,GOLDUCK,80,82,78,95,80,85,500,Water,Water,98,174,None,None,127,20,70,Medium Fast,Water 1,Field,Swift Swim,Swift Swim,60,1
+56,MANKEY,40,80,35,35,45,70,305,Fighting,Fighting,247,74,None,None,127,20,70,Medium Fast,Field,Field,Reckless,Reckless,0,5
+57,PRIMEAPE,75 (+10),115 (+10),80 (+20),50 (-10),90 (+20),95,505 (+50),Fighting,Fighting,98,149,None,None,127,20,70,Medium Fast,Field,Field,Reckless,Reckless,0,5
+58,GROWLITHE,55,70,45,70,50,60,350,Fire,Fire,247,91,None,None,63,20,70,Slow,Field,Field,Intimidate,Intimidate,0,5
+59,ARCANINE,90,110,80,100,80,95,555,Fire,Fire,98,213,None,None,63,20,70,Slow,Field,Field,Intimidate,Intimidate,0,5
+60,POLIWAG,40,50,40,40,40,90,300,Water,Water,255,77,None,None,127,20,70,Medium Slow,Water 1,Water 1,Swift Swim,Swift Swim,0,129
+61,POLIWHIRL,65,65,65,50,50,90,385,Water,Water,156,131,None,None,127,20,70,Medium Slow,Water 1,Water 1,Swift Swim,Swift Swim,0,129
+62,POLIWRATH,90,95 (+10),95,70,90,90 (+20),530 (+30),Water,Fighting,59,185,None,None,127,20,70,Medium Slow,Water 1,Water 1,Swift Swim,Swift Swim,90,129
+63,ABRA,25,20,15,105,55,90,310,Psychic,Psychic,65,75,None,None,63,20,70,Medium Slow,Human-Like,Human-Like,Magic Guard,Magic Guard,0,5
+64,KADABRA,55 (+15),35,45 (+15),120,85 (+15),120 (+15),460 (+60),Psychic,Psychic,33,145,None,None,63,20,70,Medium Slow,Human-Like,Human-Like,Magic Guard,Inner Focus,0,5
+65,ALAKAZAM,55,50,45,135,85,120,490,Psychic,Psychic,17,186,None,None,63,20,70,Medium Slow,Human-Like,Human-Like,Magic Guard,Inner Focus,0,5
+66,MACHOP,70,75 (-5),50,35,35,35,300 (-5),Fighting,Fighting,65,75,None,None,63,20,70,Medium Slow,Human-Like,Human-Like,No Guard,No Guard,0,7
+67,MACHOKE,80,55 (-45),70,50,70 (+10),45,370 (-35),Fighting,Fighting,33,146,None,None,63,20,70,Medium Slow,Human-Like,Human-Like,Huge Power,Huge Power,0,135
+68,MACHAMP,90,140 (+10),80,65,85,55,515 (+10),Fighting,Fighting,17,193,None,None,63,20,70,Medium Slow,Human-Like,Human-Like,No Guard,No Guard,0,7
+69,BELLSPROUT,50,75,35,70,30,40,300,Grass,Poison,255,84,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,0,3
+70,WEEPINBELL,65,90,50,85,45,55,390,Grass,Poison,156,151,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,0,3
+71,VICTREEBEL,80,105,65,105 (+5),85 (+25),70,510 (+30),Grass,Poison,59,191,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,75,3
+72,TENTACOOL,40,40,35,50,100,70,335,Water,Poison,247,105,None,None,127,20,70,Slow,Water 3,Water 3,Rain Dish,Clear Body,0,1
+73,TENTACRUEL,80,80 (+10),65,90 (+10),120,100,535 (+20),Water,Poison,78,205,None,None,127,20,70,Slow,Water 3,Water 3,Rain Dish,Clear Body,0,1
+74,GEODUDE,55 (+15),80,110 (+10),30,30,20,325 (+25),Rock,Ground,255,73,None,None,127,15,70,Medium Slow,Mineral,Mineral,Rock Head,Rough Skin,0,5
+75,GRAVELER,75 (+20),110 (+15),130 (+15),45,65 (+20),45 (+10),470 (+80),Rock,Ground,156,134,None,None,127,15,70,Medium Slow,Mineral,Mineral,Rock Head,Rough Skin,0,5
+76,GOLEM,85 (+5),130 (+20),140 (+10),55,65,45,520 (+35),Rock,Ground,59,177,None,None,127,15,70,Medium Slow,Mineral,Mineral,Shell Armor,Shell Armor,0,5
+77,PONYTA,50,85,55,65,65,90,410,Fire,Fire,247,152,None,None,127,20,70,Medium Fast,Field,Field,Reckless,Reckless,0,2
+78,RAPIDASH,70 (+5),105 (+5),75 (+5),85 (+5),85 (+5),110 (+5),530 (+30),Fire,Fire,78,192,None,None,127,20,70,Medium Fast,Field,Field,Reckless,Reckless,0,2
+79,SLOWPOKE,90,65,65,40,40,15,315,Water,Psychic,247,99,None,None,127,20,70,Medium Fast,Monster,Water 1,Simple,Unaware,0,9
+80,SLOWBRO,95,75,110,100,80,30,490,Water,Psychic,98,164,None,None,127,20,70,Medium Fast,Monster,Water 1,Simple,Shell Armor,0,9
+81,MAGNEMITE,25,35,70,95,55,45,325,Electric,Steel,247,89,None,None,255,20,70,Medium Fast,Mineral,Mineral,Magnet Pull,Magnet Pull,0,7
+82,MAGNETON,50,60,95,120,70,70,465,Electric,Steel,78,161,None,None,255,20,70,Medium Fast,Mineral,Mineral,Magnet Pull,Magnet Pull,0,7
+83,FARFETCH’D,52,95 (+30),85 (+30),58,82 (+20),65 (+5),437 (+85),Normal,Flying,59,94,Stick,Stick,127,20,70,Medium Fast,Flying,Field,Super Luck,Scrappy,0,5
+84,DODUO,35,85,45,35,35,75,310,Normal,Flying,247,96,None,None,127,20,70,Medium Fast,Flying,Flying,Tangled Feet,Tangled Feet,0,5
+85,DODRIO,70 (+10),120 (+10),70,60,60,110 (+10),490 (+30),Normal,Flying,59,158,None,None,127,20,70,Medium Fast,Flying,Flying,Quick Feet,Tangled Feet,0,5
+86,SEEL,65,45,55,45,70,45,325,Water,Water,247,100,None,None,127,20,70,Medium Fast,Water 1,Field,Thick Fat,Thick Fat,0,8
+87,DEWGONG,90,70,80,70,95,70,475,Water,Ice,98,176,None,None,127,20,70,Medium Fast,Water 1,Field,Swift Swim,Ice Body,0,8
+88,GRIMER,80,80,50,40,75 (+25),25,350 (+25),Poison,Poison,247,90,None,None,127,20,70,Medium Fast,Amorphous,Amorphous,Aftermath,Aftermath,0,6
+89,MUK,105,105,75,65,100,50,500,Poison,Poison,98,157,None,None,127,20,70,Medium Fast,Amorphous,Amorphous,Aftermath,Aftermath,10,6
+90,SHELLDER,30,65,100,45,45 (+20),40,325 (+20),Water,Water,72,97,None,None,127,20,70,Slow,Water 3,Water 3,Filter,Shell Armor,0,6
+91,CLOYSTER,50,95,180,85,75 (+30),70,555 (+30),Water,Ice,33,203,None,None,127,20,70,Slow,Water 3,Water 3,Filter,Shell Armor,0,6
+92,GASTLY,30,35,30,100,35,80,310,Ghost,Poison,59,95,None,None,127,20,70,Medium Slow,Amorphous,Amorphous,Levitate,-,0,6
+93,HAUNTER,60 (+15),50,60 (+15),115,75 (+20),110 (+15),470 (+65),Ghost,Poison,33,126,None,None,127,20,70,Medium Slow,Amorphous,Amorphous,Levitate,-,0,6
+94,GENGAR,60,65,60,130,75,110,500,Ghost,Poison,13,190,None,None,127,20,70,Medium Slow,Amorphous,Amorphous,Shadow Tag,-,0,6
+95,ONIX,55 (+20),80 (+35),160,10 (-20),55 (+10),70,430 (+45),Rock,Ground,13,108,None,None,127,25,70,Slow,Mineral,Mineral,Rock Head,Rock Head,0,7
+96,DROWZEE,60,48,45,43,90,42,328,Psychic,Psychic,247,102,None,None,127,20,70,Medium Fast,Human-Like,Human-Like,Bad Dreams,Bad Dreams,100,2
+97,HYPNO,85,93 (+20),70,93 (+20),115,67,523 (+40),Psychic,Psychic,98,165,None,None,127,20,70,Medium Fast,Human-Like,Human-Like,Bad Dreams,Bad Dreams,0,2
+98,KRABBY,30,105,90,25,25,50,325,Water,Water,255,115,None,None,127,20,70,Medium Fast,Water 3,Water 3,Hyper Cutter,Hyper Cutter,0,0
+99,KINGLER,55,130,115,50,50,75,475,Water,Water,78,206,None,None,127,20,70,Medium Fast,Water 3,Water 3,Swift Swim,Hyper Cutter,0,128
+100,VOLTORB,40,30,50,55,55,100,330,Electric,Electric,247,103,None,None,255,20,70,Medium Fast,Mineral,Mineral,Aftermath,Aftermath,0,0
+101,ELECTRODE,60,50,70,80,80,140,480,Electric,Electric,78,150,None,None,255,20,70,Medium Fast,Mineral,Mineral,Aftermath,Aftermath,55,0
+102,EXEGGCUTE,60,40,80,60,45,40,325,Grass,Psychic,117,98,None,None,127,20,70,Slow,Grass,Grass,Chlorophyll,-,120,9
+103,EXEGGUTOR,95,95,85,125,85 (+20),55,540 (+20),Grass,Psychic,59,212,None,None,127,20,70,Slow,Grass,Grass,Chlorophyll,-,45,2
+104,CUBONE,50,50,95,40,50,35,320,Ground,Ground,247,87,None,None,127,20,70,Medium Fast,Monster,Monster,Lightningrod,Rock Head,0,5
+105,MAROWAK,60,80,110,50,80,45,425,Ground,Ground,98,124,None,None,127,20,70,Medium Fast,Monster,Monster,Lightningrod,Rock Head,0,5
+106,HITMONLEE,50,120,53,35,110,87,455,Fighting,Fighting,59,139,None,None,0,25,70,Medium Fast,Human-Like,Human-Like,Quick Feet,Quick Feet,0,5
+107,HITMONCHAN,50,105,79,35,110,76,455,Fighting,Fighting,59,140,None,None,0,25,70,Medium Fast,Human-Like,Human-Like,Scrappy,Scrappy,0,5
+108,LICKITUNG,90,60 (+5),75,60,75,30,390 (+5),Normal,Normal,33,127,None,None,127,20,70,Medium Fast,Monster,Monster,Gluttony,Gluttony,0,9
+109,KOFFING,40,65,95,60,45,35,340,Poison,Poison,247,114,None,None,127,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,6
+110,WEEZING,65,90,120,90 (+5),85 (+15),60,510 (+20),Poison,Poison,78,173,None,None,127,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,6
+111,RHYHORN,80,85,95,30,30,25,345,Ground,Rock,156,135,None,None,127,20,70,Slow,Monster,Field,Lightningrod,Rock Head,0,7
+112,RHYDON,105,130,120,45,45,40,485,Ground,Rock,78,204,None,None,127,20,70,Slow,Monster,Field,Lightningrod,Rock Head,0,7
+113,CHANSEY,250,5,25 (+20),35,105,50,470 (+20),Normal,Normal,14,1,Sticky Barb,Sticky Barb,254,40,140,Slow,Fairy,Fairy,Natural Cure,Natural Cure,0,9
+114,TANGELA,65,55,115,100,50 (+10),60,445 (+10),Grass,Grass,33,166,None,None,127,20,70,Medium Fast,Grass,Grass,Chlorophyll,Overgrow,90,1
+115,KANGASKHAN,105,95,80,40,80,90,490,Normal,Normal,33,175,None,None,254,20,70,Medium Fast,Monster,Monster,Scrappy,Scrappy,150,5
+116,HORSEA,30,40,70,70,25,60,295,Water,Water,255,83,None,None,127,20,70,Medium Fast,Water 1,Dragon,Swift Swim,Swift Swim,0,1
+117,SEADRA,55,65,95,95,45,85,440,Water,Water,98,155,None,None,127,20,70,Medium Fast,Water 1,Dragon,Sniper,Sniper,60,1
+118,GOLDEEN,45,67,60,35,50,63,320,Water,Water,255,111,None,None,127,20,70,Medium Fast,Water 2,Water 2,Swift Swim,Swift Swim,0,0
+119,SEAKING,80,92,65,65,80,68,450,Water,Water,78,170,None,None,127,20,70,Medium Fast,Water 2,Water 2,Swift Swim,Swift Swim,0,0
+120,STARYU,30,45,55,70,55,85,340,Water,Water,255,106,None,None,255,20,70,Slow,Water 3,Water 3,Magic Guard,Natural Cure,0,133
+121,STARMIE,60,80 (+5),85,100,100 (+15),115,540 (+20),Water,Psychic,78,207,None,None,255,20,70,Slow,Water 3,Water 3,Magic Guard,Natural Cure,0,6
+122,MR. MIME,65 (+25),25 (-20),95 (+30),100,120,90,495 (+35),Psychic,Psychic,59,136,None,None,127,25,70,Medium Fast,Human-Like,Human-Like,Filter,Filter,0,9
+123,SCYTHER,70,110,80,55,80,105,500,Bug,Flying,59,187,None,None,127,25,70,Medium Fast,Bug,Bug,Technician,Technician,76,3
+124,JYNX,65,50,57 (+22),115,113 (+18),95,495 (+40),Ice,Psychic,59,137,None,None,254,25,70,Medium Fast,Human-Like,Human-Like,Snow Cloak,Snow Cloak,0,0
+125,ELECTABUZZ,65,87 (+4),57,95,85,105,494 (+4),Electric,Electric,59,156,None,None,63,25,70,Medium Fast,Human-Like,Human-Like,Static,-,0,130
+126,MAGMAR,65,95,57,100,85,93,495,Fire,Fire,59,167,None,None,63,25,70,Medium Fast,Human-Like,Human-Like,Flame Body,Flame Body,0,0
+127,PINSIR,65,125,100,55,70,85,500,Bug,Bug,59,200,None,None,127,25,70,Slow,Bug,Bug,Hyper Cutter,Mold Breaker,60,5
+128,TAUROS,85 (+10),110 (+10),105 (+10),40,70,110,520 (+30),Normal,Normal,14,211,None,None,0,20,70,Slow,Field,Field,Intimidate,Intimidate,0,5
+129,MAGIKARP,20,10,55,15,20,80,200,Water,Water,59,20,None,None,127,5,70,Slow,Water 2,Dragon,Swift Swim,-,90,0
+130,GYARADOS,95,125,79,75 (+15),100,81,555 (+15),Water,Flying,14,214,None,None,127,5,70,Slow,Water 2,Dragon,Intimidate,-,60,1
+131,LAPRAS,130,95 (+10),80,95 (+10),95,60,555 (+20),Water,Ice,13,219,None,None,127,40,70,Slow,Monster,Water 1,Serene Grace,Shell Armor,0,1
+132,DITTO,100 (+52),100 (+52),100 (+52),100 (+52),100 (+52),100 (+52),600 (+312),Normal,Normal,46,61,None,None,255,20,70,Medium Fast,Ditto,Ditto,Shadow Tag,-,0,6
+133,EEVEE,55,55,50,45,65,55,325,Normal,Normal,59,92,None,None,31,35,70,Medium Fast,Field,Field,Adaptability,Adaptability,0,5
+134,VAPOREON,130,65,60,110,95,65,525,Water,Water,59,196,None,None,31,35,70,Medium Fast,Field,Field,Hydration,Hydration,0,1
+135,JOLTEON,65,65,60,110,95,130,525,Electric,Electric,59,197,None,None,31,35,70,Medium Fast,Field,Field,Static,Rough Skin,0,2
+136,FLAREON,65,130,60,95,110,65,525,Fire,Fire,59,198,None,None,31,35,70,Medium Fast,Field,Field,Adaptability,Adaptability,0,0
+137,PORYGON,65,60,70,85,75,40,395,Normal,Normal,59,130,None,None,255,20,70,Medium Fast,Mineral,Mineral,Download,Download,0,9
+138,OMANYTE,35,40,100,90,55,35,355,Rock,Water,59,99,None,None,31,30,70,Medium Fast,Water 1,Water 3,Swift Swim,Shell Armor,0,1
+139,OMASTAR,70,60,125,115,70,55,495,Rock,Water,59,199,None,None,31,30,70,Medium Fast,Water 1,Water 3,Swift Swim,Shell Armor,0,1
+140,KABUTO,30,80,90,55,45,55,355,Rock,Water,59,99,None,None,31,30,70,Medium Fast,Water 1,Water 3,Swift Swim,Battle Armor,0,5
+141,KABUTOPS,60,115,105,65,70,80,495,Rock,Water,59,199,None,None,31,30,70,Medium Fast,Water 1,Water 3,Swift Swim,Battle Armor,0,5
+142,AERODACTYL,80,105,65,60,75,130,515,Rock,Flying,26,202,None,None,31,35,70,Slow,Flying,Flying,Rock Head,Rock Head,0,6
+143,SNORLAX,165 (+5),110,75 (+10),65,110,30,555 (+15),Normal,Normal,13,154,None,None,31,40,70,Slow,Monster,Monster,Thick Fat,Thick Fat,0,4
+144,ARTICUNO,90,85,100,125 (+30),115 (-10),85,600 (+20),Ice,Flying,11,215,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Snow Cloak,Snow Warning,0,1
+145,ZAPDOS,90,90,85,125,110 (+20),100,600 (+20),Electric,Flying,11,216,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Drizzle,Pressure,0,2
+146,MOLTRES,90,100,90,125,105 (+20),90,600 (+20),Fire,Flying,11,217,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Drought,Pressure,0,2
+147,DRATINI,41,64,45,50,50,50,300,Dragon,Dragon,14,67,None,None,127,40,35,Slow,Water 1,Dragon,Shed Skin,Shed Skin,0,1
+148,DRAGONAIR,61,84,65,70,70,70,420,Dragon,Dragon,14,144,None,None,127,40,35,Slow,Water 1,Dragon,Drizzle,Shed Skin,0,1
+149,DRAGONITE,91,134,95,100,100,85 (+5),605 (+5),Dragon,Flying,11,218,None,None,127,40,35,Slow,Water 1,Dragon,Thick Fat,Thick Fat,0,5
+150,MEWTWO,106,110,90,154,90,130,680,Psychic,Psychic,11,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Insomnia,-,0,6
+151,MEW,100,100,100,100,100,100,600,Psychic,Psychic,20,64,None,None,255,120,100,Medium Slow,Undiscovered,Undiscovered,Simple,Magic Guard,0,9
+152,CHIKORITA,45,49,65,49,65,45,318,Grass,Grass,59,64,None,None,31,20,70,Medium Slow,Monster,Grass,Overgrow,-,45,3
+153,BAYLEEF,60,62,80,63,80,60,405,Grass,Grass,59,141,None,None,31,20,70,Medium Slow,Monster,Grass,Overgrow,-,45,3
+154,MEGANIUM,91 (+11),89 (+7),90 (-10),100 (+17),90 (-10),80,540 (+15),Grass,Grass,20,208,None,None,31,20,70,Medium Slow,Monster,Grass,Thick Fat,-,45,3
+155,CYNDAQUIL,39,52,43,60,50,65,309,Fire,Fire,59,65,None,None,31,20,70,Medium Slow,Field,Field,Blaze,-,0,2
+156,QUILAVA,58,64,58,80,65,80,405,Fire,Fire,59,142,None,None,31,20,70,Medium Slow,Field,Field,Blaze,-,0,2
+157,TYPHLOSION,78,84,78,110 (+1),85,100,535 (+1),Fire,Fire,20,209,None,None,31,20,70,Medium Slow,Field,Field,Blaze,-,0,2
+158,TOTODILE,50,65,64,44,48,43,314,Water,Water,59,66,None,None,31,20,70,Medium Slow,Monster,Water 1,Torrent,Torrent,45,1
+159,CROCONAW,65,80,80,59,63,58,405,Water,Water,33,143,None,None,31,20,70,Medium Slow,Monster,Water 1,Torrent,Torrent,45,129
+160,FERALIGATR,85,125 (+20),100,64 (-15),85 (+2),81 (+3),540 (+10),Water,Water,20,210,None,None,31,20,70,Medium Slow,Monster,Water 1,Intimidate,Battle Armor,45,1
+161,SENTRET,35,46,34,35,45,20,215,Normal,Normal,255,57,None,None,127,15,70,Medium Fast,Field,Field,Adaptability,Adaptability,0,5
+162,FURRET,85,86 (+10),64,45,55,90,425 (+10),Normal,Normal,117,116,Oran Berry,None,127,15,70,Medium Fast,Field,Field,Adaptability,Adaptability,0,5
+163,HOOTHOOT,60,36 (+6),30,36,56,50,268 (+6),Normal,Flying,255,58,None,None,127,15,70,Medium Fast,Flying,Flying,Insomnia,Insomnia,90,5
+164,NOCTOWL,100,86 (+36),50,86 (+10),96,70,488 (+46),Normal,Flying,117,162,None,None,127,15,70,Medium Fast,Flying,Flying,Tinted Lens,Tinted Lens,60,5
+165,LEDYBA,40,50 (+30),30,40,80,55,295 (+30),Bug,Flying,255,54,None,None,127,15,70,Fast,Bug,Bug,Swarm,Swarm,0,0
+166,LEDIAN,55,85 (+50),50,55,110,85,440 (+50),Bug,Flying,117,134,None,None,127,15,70,Fast,Bug,Bug,Iron Fist,Iron Fist,0,0
+167,SPINARAK,40,60,40,40,40,50 (+20),270 (+20),Bug,Poison,255,54,None,None,127,15,70,Fast,Bug,Bug,Intimidate,Insomnia,0,3
+168,ARIADOS,70,95 (+5),80 (+10),60,80 (+20),70 (+30),455 (+65),Bug,Poison,117,134,None,None,127,15,70,Fast,Bug,Bug,Intimidate,Insomnia,0,0
+169,CROBAT,85,90,80,70,80,130,535,Poison,Flying,33,204,None,None,127,15,70,Medium Fast,Flying,Flying,Inner Focus,-,0,6
+170,CHINCHOU,75,38,38,56,56,67,330,Water,Electric,247,90,None,None,127,20,70,Slow,Water 2,Water 2,Volt Absorb,Volt Absorb,0,1
+171,LANTURN,125,58,58,76,76,67,460,Water,Electric,98,156,None,None,127,20,70,Slow,Water 2,Water 2,Volt Absorb,Volt Absorb,0,1
+172,PICHU,20,40,15,35,35,60,205,Electric,Electric,247,42,None,None,127,10,70,Medium Fast,Undiscovered,Undiscovered,Static,-,0,2
+173,CLEFFA,50,25,28,45,55,15,218,Normal,Normal,117,37,None,None,191,10,140,Fast,Undiscovered,Undiscovered,Magic Guard,Cute Charm,0,9
+174,IGGLYBUFF,90,45 (+15),20 (+5),45 (+5),25 (+5),20 (+5),245 (+35),Normal,Normal,247,39,None,None,191,10,70,Fast,Undiscovered,Undiscovered,Cute Charm,-,0,137
+175,TOGEPI,35,20,65,40,65,20,245,Normal,Normal,91,74,None,None,31,10,70,Fast,Undiscovered,Undiscovered,Serene Grace,Serene Grace,0,8
+176,TOGETIC,55,40,85,80,105,40,405,Normal,Flying,46,114,None,None,31,10,70,Fast,Flying,Fairy,Serene Grace,Serene Grace,0,8
+177,NATU,40,50,45,70,45,70,320,Psychic,Flying,247,73,None,None,127,20,70,Medium Fast,Flying,Flying,Magic Guard,Magic Guard,0,3
+178,XATU,65,95 (+20),70,95,70,95,490 (+20),Psychic,Flying,98,171,None,None,127,20,70,Medium Fast,Flying,Flying,Magic Guard,Magic Guard,0,3
+179,MAREEP,55,40,40,65,45,35,280,Electric,Electric,255,59,None,None,127,20,70,Medium Slow,Monster,Field,Static,-,0,8
+180,FLAAFFY,70,55,55,80,60,45,365,Electric,Electric,156,117,None,None,127,20,70,Medium Slow,Monster,Field,Static,-,0,9
+181,AMPHAROS,90,75,75,125 (+10),90,55,510 (+10),Electric,Electric,59,194,None,None,127,20,70,Medium Slow,Monster,Field,No Guard,-,0,2
+182,BELLOSSOM,75,80,85,100 (+10),100,50,490 (+10),Grass,Grass,59,184,None,None,127,20,70,Medium Slow,Grass,Grass,Chlorophyll,-,120,3
+183,MARILL,70,40 (+20),50,20,50,40,270 (+20),Water,Water,117,58,None,None,127,10,70,Fast,Water 1,Fairy,Huge Power,Huge Power,60,1
+184,AZUMARILL,100,60 (+10),80,50,80,50,420 (+10),Water,Water,98,153,None,None,127,10,70,Fast,Water 1,Fairy,Huge Power,Huge Power,0,1
+185,SUDOWOODO,70,100,115,30,65,30,410,Rock,Rock,85,135,None,None,127,20,70,Medium Fast,Mineral,Mineral,Rock Head,Rock Head,0,5
+186,POLITOED,90,85 (+10),75,90,100,90 (+20),530 (+30),Water,Water,59,185,None,None,127,20,70,Medium Slow,Water 1,Water 1,Swift Swim,Swift Swim,120,131
+187,HOPPIP,35,35,40,35,55,50,250,Grass,Flying,255,74,None,None,127,20,70,Medium Slow,Fairy,Grass,Chlorophyll,Chlorophyll,0,9
+188,SKIPLOOM,55,45,50,45,65,80,340,Grass,Flying,156,136,None,None,127,20,70,Medium Slow,Fairy,Grass,Chlorophyll,Chlorophyll,0,3
+189,JUMPLUFF,75,55,70,55,85,110,450,Grass,Flying,59,176,None,None,127,20,70,Medium Slow,Fairy,Grass,Chlorophyll,Chlorophyll,0,1
+190,AIPOM,55,70,55,40,55,85,360,Normal,Normal,59,94,None,None,127,20,70,Fast,Field,Field,Technician,Technician,0,6
+191,SUNKERN,30,30,30,30,30,30,180,Grass,Grass,255,52,Sun Stone,Sun Stone,127,20,70,Medium Slow,Grass,Grass,Solar Power,Solar Power,0,2
+192,SUNFLORA,75,75,55,105,85,30,425,Grass,Grass,156,146,None,None,127,20,70,Medium Slow,Grass,Grass,Solar Power,Solar Power,0,2
+193,YANMA,65,65,45,75,45,95,390,Bug,Flying,0,147,None,None,127,20,70,Medium Fast,Bug,Bug,Compoundeyes,Compoundeyes,255,0
+194,WOOPER,55,45,45,25,25,15,210,Water,Ground,255,52,None,None,127,20,70,Medium Fast,Water 1,Field,Water Absorb,Water Absorb,120,1
+195,QUAGSIRE,95,85,85,65,65,35,430,Water,Ground,117,137,None,None,127,20,70,Medium Fast,Water 1,Field,Simple,Poison Point,60,1
+196,ESPEON,65,65,60,130,95,110,525,Psychic,Psychic,59,197,None,None,31,35,70,Medium Fast,Field,Field,Synchronize,Synchronize,0,6
+197,UMBREON,95,65,110,60,130,65,525,Dark,Dark,59,197,None,None,31,35,35,Medium Fast,Field,Field,Synchronize,Synchronize,0,4
+198,MURKROW,60,85,42,85,42,91,405,Dark,Flying,59,107,None,None,127,20,35,Medium Slow,Flying,Flying,Super Luck,Super Luck,0,4
+199,SLOWKING,95,75,80,100,110,30,490,Water,Psychic,91,164,None,King’s Rock,127,20,70,Medium Fast,Monster,Water 1,Simple,Magic Guard,0,9
+200,MISDREAVUS,60,60,60,85,85,85,435,Ghost,Ghost,59,147,None,None,127,25,35,Fast,Amorphous,Amorphous,Levitate,-,0,7
+201,UNOWN,48,102 (+30),48,102 (+30),48,48,396 (+60),Psychic,Psychic,255,61,None,None,255,40,70,Medium Fast,Undiscovered,Undiscovered,Wonder Guard,Wonder Guard,0,132
+202,WOBBUFFET,190,33,58,33,58,33,405,Psychic,Psychic,11,177,None,None,127,20,70,Slow,Amorphous,Amorphous,Shadow Tag,-,0,1
+203,GIRAFARIG,85 (+15),100 (+20),70 (+5),110 (+20),70 (+5),85,520 (+65),Normal,Psychic,59,149,None,None,127,20,70,Medium Fast,Field,Field,Quick Feet,Quick Feet,0,2
+204,PINECO,50,65,90,35,35,15,290,Bug,Bug,52,60,None,None,127,20,70,Medium Fast,Bug,Bug,Rough Skin,-,0,7
+205,FORRETRESS,75,90,140,60,90 (+30),40,495 (+30),Bug,Steel,14,118,None,None,127,20,70,Medium Fast,Bug,Bug,Heatproof,-,0,6
+206,DUNSPARCE,100,90 (+20),80 (+10),85 (+20),80 (+15),55 (+10),490 (+75),Normal,Normal,247,125,None,None,127,20,70,Medium Fast,Field,Field,Serene Grace,Serene Grace,0,2
+207,GLIGAR,65,75,105,35,65,85,430,Ground,Flying,78,108,None,None,127,20,70,Medium Slow,Bug,Bug,Sand Veil,Sand Veil,25,6
+208,STEELIX,100 (+25),115 (+30),200,35 (-20),75 (+10),30,555 (+45),Steel,Ground,14,196,None,None,127,25,70,Slow,Mineral,Mineral,Solid Rock,Rock Head,0,7
+209,SNUBBULL,60,80,50,40,40,30,300,Normal,Normal,247,63,None,None,191,20,70,Fast,Field,Fairy,Intimidate,Intimidate,0,9
+210,GRANBULL,90,120,75,60,60,45,450,Normal,Normal,98,178,None,None,191,20,70,Fast,Field,Fairy,Intimidate,Intimidate,0,6
+211,QWILFISH,75 (+10),115 (+20),95 (+20),65 (+10),65 (+10),85,500 (+70),Water,Poison,33,100,None,None,127,20,70,Medium Fast,Water 2,Water 2,Swift Swim,Swift Swim,0,7
+212,SCIZOR,70,130,100,55,80,65,500,Bug,Steel,33,200,None,None,127,25,70,Medium Fast,Bug,Bug,Technician,Technician,0,0
+213,SHUCKLE,50 (+30),10,230,10,230,5,535 (+30),Bug,Rock,247,80,Oran Berry,Oran Berry,127,20,70,Medium Slow,Bug,Bug,Solid Rock,Solid Rock,0,2
+214,HERACROSS,80,125,75,40,95,85,500,Bug,Fighting,33,200,Toxic Orb,Toxic Orb,127,25,70,Slow,Bug,Bug,Guts,Guts,0,1
+215,SNEASEL,55,95,55,35,75,115,430,Dark,Ice,33,132,None,None,127,20,35,Medium Slow,Field,Field,Inner Focus,Inner Focus,0,132
+216,TEDDIURSA,60,80,50,50,50,40,330,Normal,Normal,156,124,None,None,127,20,70,Medium Fast,Field,Field,Guts,Quick Feet,0,133
+217,URSARING,100 (+10),140 (+10),105 (+30),55 (-20),80 (+5),55,535 (+35),Normal,Normal,59,189,None,None,127,20,70,Medium Fast,Field,Field,Guts,Quick Feet,20,5
+218,SLUGMA,70 (+30),50 (+10),80 (+40),90 (+20),80 (+40),20,390 (+140),Fire,Fire,117,78,None,None,127,20,70,Medium Fast,Amorphous,Amorphous,Drought,Vital Spirit,0,0
+219,MAGCARGO,70 (+20),80 (+30),120,109 (+29),100 (+20),30,509 (+99),Fire,Rock,46,154,None,None,127,20,70,Medium Fast,Amorphous,Amorphous,Drought,Solid Rock,0,0
+220,SWINUB,50,50,40,30,30,50,250,Ice,Ground,130,78,None,None,127,20,70,Slow,Field,Field,Snow Cloak,Snow Cloak,0,5
+221,PILOSWINE,100,110 (+10),80,60,60,80 (+30),490 (+40),Ice,Ground,98,160,None,None,127,20,70,Slow,Field,Field,Snow Cloak,Snow Cloak,0,5
+222,CORSOLA,65 (+10),95 (+40),105 (+20),65,105 (+20),35,470 (+90),Water,Rock,78,113,None,None,191,20,70,Fast,Water 1,Water 3,Solid Rock,Solid Rock,0,9
+223,REMORAID,35,65,35,65,35,65,300,Water,Water,247,78,None,None,127,20,70,Medium Fast,Water 1,Water 2,Sniper,Sniper,0,7
+224,OCTILLERY,84 (+9),108 (+3),88 (+13),108 (+3),88 (+13),48 (+3),524 (+44),Water,Water,98,164,None,None,127,20,70,Medium Fast,Water 1,Water 2,Rock Head,Rock Head,0,0
+225,DELIBIRD,45,85 (+30),45,85 (+20),45,85 (+10),390 (+60),Ice,Flying,255,183,None,None,127,20,70,Fast,Water 1,Field,Adaptability,Adaptability,0,0
+226,MANTINE,85 (+20),40,80 (+10),80,140,70,495 (+30),Water,Flying,33,168,None,None,127,25,70,Slow,Water 1,Water 1,Swift Swim,Swift Swim,0,6
+227,SKARMORY,85 (+20),85 (+5),140,40,80 (+10),70,500 (+35),Steel,Flying,33,168,None,None,127,25,70,Slow,Flying,Flying,Filter,Filter,0,7
+228,HOUNDOUR,45,60,30,80,50,65,330,Dark,Fire,156,114,None,None,127,20,35,Slow,Field,Field,Solar Power,Solar Power,0,4
+229,HOUNDOOM,75,90,50,120 (+10),80,105 (+10),520 (+20),Dark,Fire,59,204,None,None,127,20,35,Slow,Field,Field,Solar Power,Solar Power,0,4
+230,KINGDRA,75,95,95,95,95,85,540,Water,Dragon,59,207,None,None,127,20,70,Medium Fast,Water 1,Dragon,Swift Swim,Swift Swim,0,1
+231,PHANPY,90,60,60,40,40,40,330,Ground,Ground,156,124,None,None,127,20,70,Medium Fast,Field,Field,Dry Skin,-,0,1
+232,DONPHAN,95 (+5),120,130 (+10),55 (-5),60,50,510 (+10),Ground,Ground,78,189,None,None,127,20,70,Medium Fast,Field,Field,Battle Armor,-,0,7
+233,PORYGON2,85,80,90,105,95,60,515,Normal,Normal,20,180,None,None,255,20,70,Medium Fast,Mineral,Mineral,Trace,Trace,0,0
+234,STANTLER,73,105 (+10),72 (+10),105 (+20),75 (+10),85,515 (+50),Normal,Normal,59,165,None,None,127,20,70,Slow,Field,Field,Intimidate,Intimidate,20,5
+235,SMEARGLE,60 (+5),70 (+50),75 (+40),70 (+50),85 (+40),95 (+20),455 (+205),Normal,Normal,59,106,None,None,127,20,70,Fast,Field,Field,Trace,Trace,0,8
+236,TYROGUE,35,35,35,35,35,35,210,Fighting,Fighting,98,91,None,None,0,25,70,Medium Fast,Undiscovered,Undiscovered,Scrappy,Scrappy,0,6
+237,HITMONTOP,50,95,95,35,110,70,455,Fighting,Fighting,59,138,None,None,0,25,70,Medium Fast,Human-Like,Human-Like,Technician,Technician,0,5
+238,SMOOCHUM,45,30,15,85,65,65,305,Ice,Psychic,59,87,None,None,254,25,70,Medium Fast,Undiscovered,Undiscovered,Snow Cloak,Snow Cloak,0,9
+239,ELEKID,45,63,37,65,55,95,360,Electric,Electric,59,106,None,None,63,25,70,Medium Fast,Undiscovered,Undiscovered,Static,-,0,130
+240,MAGBY,45,75,37,70,55,83,365,Fire,Fire,59,117,None,None,63,25,70,Medium Fast,Undiscovered,Undiscovered,Flame Body,-,0,128
+241,MILTANK,95,90 (+10),105,40,70,100,500 (+10),Normal,Normal,59,200,None,None,254,20,70,Slow,Field,Field,Scrappy,Scrappy,20,9
+242,BLISSEY,255,5 (-5),30 (+20),75,135,55,555 (+15),Normal,Normal,11,1,Sticky Barb,Sticky Barb,254,40,140,Fast,Fairy,Fairy,Serene Grace,Serene Grace,0,9
+243,RAIKOU,90,85,75,135 (+20),100,115,600 (+20),Electric,Electric,14,216,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Pressure,-,0,2
+244,ENTEI,115,135 (+20),85,90,75,100,600 (+20),Fire,Fire,14,217,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Pressure,-,0,5
+245,SUICUNE,120 (+20),75,115,90,115,85,600 (+20),Water,Water,14,215,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Pressure,-,0,1
+246,LARVITAR,50,64,50,45,50,41,300,Rock,Ground,33,67,None,None,127,40,35,Slow,Monster,Monster,Guts,Guts,0,3
+247,PUPITAR,70,84,70,65,70,51,410,Rock,Ground,75,144,None,None,127,40,35,Slow,Monster,Monster,Shed Skin,Shed Skin,0,7
+248,TYRANITAR,100,134,110,100 (+5),100,61,605 (+5),Rock,Dark,59,218,None,None,127,40,35,Slow,Monster,Monster,Solid Rock,Battle Armor,0,3
+249,LUGIA,106,90,130,90,154,110,680,Psychic,Flying,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Filter,-,0,8
+250,HO-OH,106,130,90,110,154,90,680,Fire,Flying,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Magic Guard,-,0,0
+251,CELEBI,100,100,100,100,100,100,600,Psychic,Grass,59,64,None,None,255,120,100,Medium Slow,Undiscovered,Undiscovered,Natural Cure,-,0,3
+252,TREECKO,40,45,35,65,55,70,310,Grass,Grass,59,65,None,None,31,20,70,Medium Slow,Monster,Dragon,Overgrow,-,45,3
+253,GROVYLE,50,65,45,85,65,95,405,Grass,Grass,59,141,None,None,31,20,70,Medium Slow,Monster,Dragon,Overgrow,-,45,3
+254,SCEPTILE,70,100 (+15),65,100 (-5),80 (-5),120,535 (+5),Grass,Grass,20,208,None,None,31,20,70,Medium Slow,Monster,Dragon,Overgrow,-,45,3
+255,TORCHIC,45,60,40,70,50,45,310,Fire,Fire,59,65,None,None,31,20,70,Medium Slow,Field,Field,Blaze,-,0,0
+256,COMBUSKEN,60,85,60,85,60,55,405,Fire,Fighting,59,142,None,None,31,20,70,Medium Slow,Field,Field,Blaze,-,0,0
+257,BLAZIKEN,80,120,70,115 (+5),70,80,535 (+5),Fire,Fighting,20,209,None,None,31,20,70,Medium Slow,Field,Field,Blaze,-,0,0
+258,MUDKIP,50,55 (-15),50,50,50,40,295 (-15),Water,Water,59,65,None,None,31,20,70,Medium Slow,Monster,Water 1,Huge Power,Huge Power,45,1
+259,MARSHTOMP,70,85,70,60,70,50,405,Water,Ground,59,143,None,None,31,20,70,Medium Slow,Monster,Water 1,Torrent,Torrent,45,1
+260,SWAMPERT,100,110,90,85,90,60,535,Water,Ground,20,210,None,None,31,20,70,Medium Slow,Monster,Water 1,Swift Swim,Torrent,45,1
+261,POOCHYENA,35,55,35,30,30,35,220,Dark,Dark,255,55,None,None,127,15,70,Medium Fast,Field,Field,Quick Feet,Quick Feet,0,7
+262,MIGHTYENA,70,100 (+10),70,60,70 (+10),70,440 (+20),Dark,Dark,165,128,None,None,127,15,70,Medium Fast,Field,Field,Intimidate,Intimidate,0,7
+263,ZIGZAGOON,38,30,41,30,41,60,240,Normal,Normal,255,60,None,None,127,15,70,Medium Fast,Field,Field,Gluttony,Gluttony,0,5
+264,LINOONE,78,70,61,50,61,100,420,Normal,Normal,117,128,None,None,127,15,70,Medium Fast,Field,Field,Gluttony,Gluttony,120,8
+265,WURMPLE,45,45,35,20,30,20,195,Bug,Bug,255,54,None,None,127,15,70,Medium Fast,Bug,Bug,Shield Dust,Shield Dust,0,0
+266,SILCOON,50,35,55,25,25,15,205,Bug,Bug,156,72,None,None,127,15,70,Medium Fast,Bug,Bug,Shed Skin,Shed Skin,0,8
+267,BEAUTIFLY,60,70,50,100 (+10),50,65,395 (+10),Bug,Flying,59,161,None,None,127,15,70,Medium Fast,Bug,Bug,Tinted Lens,Shield Dust,0,2
+268,CASCOON,50,35,55,25,55 (+30),15,235 (+30),Bug,Bug,156,72,None,None,127,15,70,Medium Fast,Bug,Bug,Shed Skin,Shed Skin,0,6
+269,DUSTOX,60,50,70,70 (+20),90,65,405 (+20),Bug,Poison,59,161,None,None,127,15,70,Medium Fast,Bug,Bug,Tinted Lens,Shield Dust,0,3
+270,LOTAD,40,30,30,40,50,30,220,Water,Grass,255,74,None,None,127,15,70,Medium Slow,Water 1,Grass,Swift Swim,Rain Dish,0,3
+271,LOMBRE,60,50,50,60,70,50,340,Water,Grass,156,141,None,None,127,15,70,Medium Slow,Water 1,Grass,Swift Swim,Rain Dish,0,3
+272,LUDICOLO,80,70,70,90,100,70,480,Water,Grass,59,181,None,None,127,15,70,Medium Slow,Water 1,Grass,Swift Swim,Rain Dish,0,3
+273,SEEDOT,40,40,50,30,30,30,220,Grass,Grass,255,74,None,None,127,15,70,Medium Slow,Field,Grass,Chlorophyll,Chlorophyll,0,5
+274,NUZLEAF,70,70,40,60,40,60,340,Grass,Dark,156,141,None,None,127,15,70,Medium Slow,Field,Grass,Chlorophyll,Chlorophyll,120,5
+275,SHIFTRY,90,100,60,90,60,80,480,Grass,Dark,59,181,None,None,127,15,70,Medium Slow,Field,Grass,Chlorophyll,Chlorophyll,60,5
+276,TAILLOW,40,55,30,30,30,85,270,Normal,Flying,156,59,None,None,127,15,70,Medium Slow,Flying,Flying,Guts,-,0,1
+277,SWELLOW,60,85,60,50,50,125,430,Normal,Flying,59,162,None,None,127,15,70,Medium Slow,Flying,Flying,Guts,-,0,1
+278,WINGULL,40,30,30,55,30,85,270,Water,Flying,247,64,None,None,127,20,70,Medium Fast,Water 1,Flying,Gluttony,-,0,8
+279,PELIPPER,60,80 (+30),100,95 (+10),70,65,470 (+40),Water,Flying,59,164,None,None,127,20,70,Medium Fast,Water 1,Flying,Unburden,-,0,2
+280,RALTS,28,25,25,45,35,40,198,Psychic,Psychic,255,70,None,None,127,20,35,Slow,Amorphous,Amorphous,Trace,Trace,0,8
+281,KIRLIA,38,35,35,65,55,50,278,Psychic,Psychic,156,140,None,None,127,20,35,Slow,Amorphous,Amorphous,Trace,Trace,0,8
+282,GARDEVOIR,68,65,65,135 (+10),115,80,528 (+10),Psychic,Psychic,33,208,None,None,127,20,35,Slow,Amorphous,Amorphous,Magic Guard,Trace,0,8
+283,SURSKIT,70 (+30),30,62 (+30),100 (+50),82 (+30),65,409 (+140),Bug,Water,98,63,None,None,127,15,70,Medium Fast,Water 1,Bug,Swift Swim,-,0,1
+284,MASQUERAIN,70,80 (+20),62,100 (+20),82,60,454 (+40),Bug,Flying,98,128,None,None,127,15,70,Medium Fast,Water 1,Bug,Intimidate,-,0,1
+285,SHROOMISH,60,40,60,40,60,35,295,Grass,Grass,130,65,None,None,127,15,70,Fluctuating,Fairy,Grass,Poison Heal,Poison Heal,120,5
+286,BRELOOM,60,130,80,60,60,70,460,Grass,Fighting,117,165,None,None,127,15,70,Fluctuating,Fairy,Grass,Technician,Technician,0,3
+287,SLAKOTH,60,60,60,35,35,30,280,Normal,Normal,255,83,None,None,127,15,70,Slow,Field,Field,Truant,-,5,5
+288,VIGOROTH,80,80,80,55,65 (+10),90,450 (+10),Normal,Normal,59,126,None,None,127,15,70,Slow,Field,Field,Vital Spirit,-,120,8
+289,SLAKING,150,170 (+10),100,95,65,100,680 (+10),Normal,Normal,20,210,None,None,127,15,70,Slow,Field,Field,Truant,-,5,5
+290,NINCADA,31,45,90,30,30,40,266,Bug,Ground,255,65,None,None,127,15,70,Erratic,Bug,Bug,Compoundeyes,-,0,7
+291,NINJASK,61,100 (+10),45,50,50,160,466 (+10),Bug,Flying,156,155,None,None,127,15,70,Erratic,Bug,Bug,Speed Boost,-,0,2
+292,SHEDINJA,1,100 (+10),5 (-40),100 (+70),10 (-20),80 (+40),296 (+60),Bug,Ghost,59,95,None,None,255,15,70,Erratic,Mineral,Mineral,Wonder Guard,-,0,5
+293,WHISMUR,64,51,23,51,23,28,240,Normal,Normal,247,68,None,None,127,20,70,Medium Slow,Monster,Field,Scrappy,Soundproof,0,9
+294,LOUDRED,84,71,43,71,43,48,360,Normal,Normal,156,126,None,None,127,20,70,Medium Slow,Monster,Field,Scrappy,Soundproof,0,1
+295,EXPLOUD,104,101 (+10),73 (+10),101 (+10),73 (+10),78 (+10),530 (+50),Normal,Normal,59,184,None,None,127,20,70,Medium Slow,Monster,Field,Scrappy,Soundproof,0,1
+296,MAKUHITA,72,60,30,20,30,25,237,Fighting,Fighting,255,87,None,None,63,20,70,Fluctuating,Human-Like,Human-Like,Guts,Guts,0,2
+297,HARIYAMA,144,120,60,40,60,50,474,Fighting,Fighting,234,184,None,None,63,20,70,Fluctuating,Human-Like,Human-Like,Guts,Guts,0,5
+298,AZURILL,50,30 (+10),40,20,40,20,200 (+10),Normal,Normal,195,33,None,None,127,10,70,Fast,Undiscovered,Undiscovered,Huge Power,Huge Power,120,1
+299,NOSEPASS,30,45,135,45,90,30,375,Rock,Rock,195,108,None,None,127,20,70,Medium Fast,Mineral,Mineral,Solid Rock,Solid Rock,0,7
+300,SKITTY,50,45,45,35,35,50,260,Normal,Normal,255,65,None,None,191,15,70,Fast,Field,Fairy,Cute Charm,Cute Charm,0,9
+301,DELCATTY,70,80 (+15),75 (+10),80 (+25),75 (+20),112 (+42),492 (+112),Normal,Normal,78,138,None,None,191,15,70,Fast,Field,Fairy,Cute Charm,Cute Charm,0,6
+302,SABLEYE,60 (+10),105 (+30),105 (+30),65,95 (+30),50,480 (+100),Dark,Ghost,59,98,None,None,127,25,35,Medium Slow,Human-Like,Human-Like,Clear Body,Clear Body,0,6
+303,MAWILE,50,105 (+20),85,55,55,50,400 (+20),Steel,Steel,59,98,None,None,127,20,70,Fast,Field,Fairy,Intimidate,Intimidate,0,4
+304,ARON,50,70,120 (+20),40,40,30,350 (+20),Steel,Rock,234,96,None,None,127,35,35,Slow,Monster,Monster,Rock Head,Rock Head,0,7
+305,LAIRON,60,90,140,50,50,40,430,Steel,Rock,117,152,None,None,127,35,35,Slow,Monster,Monster,Rock Head,Rock Head,0,7
+306,AGGRON,70,110,180,60,60,50,530,Steel,Rock,59,205,None,None,127,35,35,Slow,Monster,Monster,Rock Head,Rock Head,0,7
+307,MEDITITE,30,45 (+5),55,40,55,60,285 (+5),Fighting,Psychic,117,91,None,None,127,20,70,Medium Fast,Human-Like,Human-Like,Pure Power,-,0,1
+308,MEDICHAM,60,75 (+15),75,60,75,80,425 (+15),Fighting,Psychic,33,153,None,None,127,20,70,Medium Fast,Human-Like,Human-Like,Pure Power,-,0,0
+309,ELECTRIKE,40,45,40,65,40,65,295,Electric,Electric,156,104,None,None,127,20,70,Slow,Field,Field,Lightningrod,Lightningrod,0,3
+310,MANECTRIC,70,75,60,105,60,105,475,Electric,Electric,59,168,None,None,127,20,70,Slow,Field,Field,Lightningrod,Lightningrod,0,2
+311,PLUSLE,60,50,40,85,75,95,405,Electric,Electric,255,120,None,None,127,20,70,Medium Fast,Fairy,Fairy,Plus,-,0,2
+312,MINUN,60,40,50,75,85,95,405,Electric,Electric,255,120,None,None,127,20,70,Medium Fast,Fairy,Fairy,Minus,-,0,2
+313,VOLBEAT,65,73,55,77 (+30),75,85,430 (+30),Bug,Bug,195,146,None,None,0,15,70,Erratic,Bug,Human-Like,Tinted Lens,Tinted Lens,120,7
+314,ILLUMISE,65,77 (+30),55,73,75,85,430 (+30),Bug,Bug,195,146,None,None,254,15,70,Fluctuating,Bug,Human-Like,Tinted Lens,Tinted Lens,120,6
+315,ROSELIA,50,60,45,100,80,65,400,Grass,Poison,195,152,None,None,127,20,70,Medium Slow,Fairy,Grass,Natural Cure,Natural Cure,60,131
+316,GULPIN,70,43,53,43,53,40,302,Poison,Poison,255,75,None,None,127,20,70,Fluctuating,Amorphous,Amorphous,Gluttony,Gluttony,120,3
+317,SWALOT,100,73,83,73,83,55,467,Poison,Poison,98,168,None,None,127,20,70,Fluctuating,Amorphous,Amorphous,Gluttony,Gluttony,0,6
+318,CARVANHA,45,90,20,65,20,65,305,Water,Dark,255,88,None,None,127,20,35,Slow,Water 2,Water 2,Rough Skin,-,90,0
+319,SHARPEDO,70,120,40,95,40,95,460,Water,Dark,78,175,None,None,127,20,35,Slow,Water 2,Water 2,Tinted Lens,-,0,1
+320,WAILMER,140 (+10),70,45 (+10),70,45 (+10),60,430 (+30),Water,Water,14,137,None,None,127,40,70,Fluctuating,Field,Water 2,Pressure,Pressure,0,1
+321,WAILORD,165 (-5),110 (+20),65 (+20),110 (+20),100 (+55),5 (-55),555 (+55),Water,Water,14,206,None,None,127,40,70,Fluctuating,Field,Water 2,Pressure,Pressure,0,1
+322,NUMEL,60,60,40,65,45,35,305,Fire,Ground,255,88,None,None,127,20,70,Medium Fast,Field,Field,Drought,Simple,0,2
+323,CAMERUPT,90 (+20),100,80 (+10),105,85 (+10),40,500 (+40),Fire,Ground,195,175,None,None,127,20,70,Medium Fast,Field,Field,Drought,Solid Rock,0,0
+324,TORKOAL,70,85,140,85,105 (+35),20,505 (+35),Fire,Fire,117,161,None,None,127,20,70,Medium Fast,Field,Field,White Smoke,Shell Armor,0,5
+325,SPOINK,60,55 (+30),35,70,80,60,360 (+30),Psychic,Psychic,255,89,None,None,127,20,70,Fast,Field,Field,Thick Fat,Own Tempo,0,4
+326,GRUMPIG,80,75 (+30),65,90,110,80,500 (+30),Psychic,Psychic,78,164,None,None,127,20,70,Fast,Field,Field,Thick Fat,Own Tempo,85,6
+327,SPINDA,80 (+20),80 (+20),80 (+20),80 (+20),80 (+20),80 (+20),480 (+120),Normal,Normal,255,85,None,None,127,15,70,Fast,Field,Human-Like,Tangled Feet,Tangled Feet,0,133
+328,TRAPINCH,45,100,45,45,45,10,290,Ground,Ground,255,73,None,None,127,20,70,Medium Slow,Bug,Bug,Arena Trap,Arena Trap,0,5
+329,VIBRAVA,50,80 (+10),70 (+20),100 (+50),70 (+20),100 (+30),470 (+130),Ground,Dragon,156,126,None,None,127,20,70,Medium Slow,Bug,Bug,Tinted Lens,Levitate,0,3
+330,FLYGON,80,100,80,110 (+30),80,100,550 (+30),Ground,Dragon,20,197,None,None,127,20,70,Medium Slow,Bug,Bug,Sand Stream,Levitate,0,3
+331,CACNEA,50,85,60 (+20),85,60 (+20),35,375 (+40),Grass,Grass,247,97,None,None,127,20,35,Medium Slow,Grass,Human-Like,Sand Veil,-,0,3
+332,CACTURNE,70,115,85 (+25),115,85 (+25),55,525 (+50),Grass,Dark,78,177,None,None,127,20,35,Medium Slow,Grass,Human-Like,Sand Veil,-,0,3
+333,SWABLU,45,40,60,40,75,50,310,Normal,Flying,255,74,None,None,127,20,70,Erratic,Flying,Dragon,Natural Cure,-,0,1
+334,ALTARIA,75,80 (+10),90,80 (+10),105,80,510 (+20),Dragon,Flying,59,188,None,None,127,20,70,Erratic,Flying,Dragon,Serene Grace,-,0,1
+335,ZANGOOSE,73,115,60,60,60,90,458,Normal,Normal,117,165,None,None,127,20,70,Erratic,Field,Field,Hyper Cutter,Immunity,75,136
+336,SEVIPER,73,105 (+5),60,60 (-40),60,100 (+35),458,Poison,Poison,117,165,None,None,127,20,70,Fluctuating,Field,Dragon,Hyper Cutter,Shed Skin,0,132
+337,LUNATONE,90 (+20),55,75 (+10),95,85,70,470 (+30),Rock,Psychic,59,150,None,None,255,25,70,Fast,Mineral,Mineral,Levitate,-,0,2
+338,SOLROCK,90 (+20),95,85,55,75 (+10),70,470 (+30),Rock,Psychic,59,150,None,None,255,25,70,Fast,Mineral,Mineral,Levitate,-,0,0
+339,BARBOACH,50,48,43,46,41,60,288,Water,Ground,247,92,None,None,127,20,70,Medium Fast,Water 2,Water 2,Swift Swim,Swift Swim,120,7
+340,WHISCASH,110,78,73,76,71,60,468,Water,Ground,98,158,None,None,127,20,70,Medium Fast,Water 2,Water 2,Hydration,Swift Swim,0,1
+341,CORPHISH,43,80,65,50,35,35,308,Water,Water,255,111,None,None,127,15,70,Fluctuating,Water 1,Water 3,Adaptability,Hyper Cutter,0,0
+342,CRAWDAUNT,63,120,85,90,55,55,468,Water,Dark,202,161,None,None,127,15,70,Fluctuating,Water 1,Water 3,Adaptability,Hyper Cutter,0,0
+343,BALTOY,40,40,55,40,70,55,300,Ground,Psychic,255,58,None,None,255,20,70,Medium Fast,Mineral,Mineral,Levitate,-,0,5
+344,CLAYDOL,80 (+20),80 (+10),105,80 (+10),120,80 (+5),545 (+45),Ground,Psychic,117,189,None,None,255,20,70,Medium Fast,Mineral,Mineral,Levitate,-,0,4
+345,LILEEP,66,41,77,61,87,23,355,Rock,Grass,59,99,None,None,31,30,70,Erratic,Water 3,Water 3,Solid Rock,-,0,6
+346,CRADILY,86,81,97,81,107,43,495,Rock,Grass,59,199,None,None,31,30,70,Erratic,Water 3,Water 3,Solid Rock,-,0,3
+347,ANORITH,45,95,50,40,50,75,355,Rock,Bug,59,99,None,None,31,30,70,Erratic,Water 3,Water 3,Swift Swim,Battle Armor,0,7
+348,ARMALDO,75,125,100,70,80,45,495,Rock,Bug,59,199,None,None,31,30,70,Erratic,Water 3,Water 3,Swift Swim,Battle Armor,0,7
+349,FEEBAS,20,15,20,10,55,80,200,Water,Water,59,61,None,None,127,20,70,Erratic,Water 1,Dragon,Swift Swim,-,0,5
+350,MILOTIC,95,60,79,100,125,81,540,Water,Water,20,213,None,None,127,20,70,Erratic,Water 1,Dragon,Filter,Marvel Scale,0,9
+351,CASTFORM,70,70,75 (+5),110 (+40),75 (+5),100 (+30),500 (+80),Normal,Normal,59,145,None,None,127,25,70,Medium Fast,Fairy,Amorphous,Forecast,-,0,8
+352,KECLEON,65 (+5),90,135 (+65),60,135 (+15),40,525 (+85),Normal,Normal,255,132,None,None,127,20,70,Medium Slow,Field,Field,Adaptability,Color Change,120,3
+353,SHUPPET,44,85 (+10),35,83 (+20),33,45,325 (+30),Ghost,Ghost,255,97,None,None,127,25,35,Fast,Amorphous,Amorphous,Clear Body,Insomnia,0,4
+354,BANETTE,64,125 (+10),65,83,63,85 (+20),485 (+30),Ghost,Ghost,59,179,None,None,127,25,35,Fast,Amorphous,Amorphous,Clear Body,Insomnia,0,4
+355,DUSKULL,40 (+20),40,90,40 (+10),90,25,325 (+30),Ghost,Ghost,59,97,None,None,127,25,35,Fast,Amorphous,Amorphous,Levitate,-,0,4
+356,DUSCLOPS,75 (+35),90 (+20),130,40 (-20),130,25,490 (+35),Ghost,Ghost,46,179,None,None,127,25,35,Fast,Amorphous,Amorphous,Pressure,-,0,4
+357,TROPIUS,105 (+6),92 (+24),105 (+22),92 (+20),105 (+18),51,550 (+90),Grass,Flying,234,169,None,None,127,25,70,Slow,Monster,Grass,Chlorophyll,Overgrow,60,3
+358,CHIMECHO,65,50,70,105 (+10),85 (+5),75 (+10),450 (+25),Psychic,Psychic,98,147,None,None,127,25,70,Fast,Amorphous,Amorphous,Levitate,-,0,1
+359,ABSOL,70 (+5),130,60,115 (+40),60,95 (+20),530 (+65),Dark,Dark,39,174,None,None,127,25,35,Medium Slow,Field,Field,Super Luck,Super Luck,100,136
+360,WYNAUT,95,23,48,23,48,23,260,Psychic,Psychic,14,44,None,None,127,20,70,Slow,Undiscovered,Undiscovered,Shadow Tag,-,0,1
+361,SNORUNT,50,50,50,70 (+20),50,50,320 (+20),Ice,Ice,130,74,None,None,127,20,70,Medium Fast,Fairy,Mineral,Snow Cloak,Snow Cloak,0,7
+362,GLALIE,80,80,80,100 (+20),80,100 (+20),520 (+40),Ice,Ice,59,187,None,None,127,20,70,Medium Fast,Fairy,Mineral,Solid Rock,Ice Body,0,7
+363,SPHEAL,70,40,50,55,50,25,290,Ice,Water,255,75,None,None,127,20,70,Medium Slow,Water 1,Field,Thick Fat,Ice Body,0,1
+364,SEALEO,90,60,90 (+20),75,90 (+20),45,450 (+40),Ice,Water,156,128,None,None,127,20,70,Medium Slow,Water 1,Field,Ice Body,Ice Body,0,1
+365,WALREIN,110,95 (+15),90,95,90,65,545 (+15),Ice,Water,59,192,None,None,127,20,70,Medium Slow,Water 1,Field,Filter,Ice Body,0,1
+366,CLAMPERL,35,64,85,74,55,32,345,Water,Water,124,142,None,None,127,20,70,Erratic,Water 1,Water 1,Shell Armor,-,0,1
+367,HUNTAIL,55,114 (+10),105,84 (-10),75,52,485,Water,Water,78,178,None,None,127,20,70,Erratic,Water 1,Water 1,Swift Swim,-,0,1
+368,GOREBYSS,55,84,105,114,75,52,485,Water,Water,78,178,None,None,127,20,70,Erratic,Water 1,Water 1,Swift Swim,-,0,9
+369,RELICANTH,100,90,130,45,65,55,485,Water,Rock,33,198,None,None,31,40,70,Slow,Water 1,Water 2,Swift Swim,Rock Head,0,7
+370,LUVDISC,43,30,55,40,65,97,330,Water,Water,255,110,None,None,191,20,70,Fast,Water 2,Water 2,Swift Swim,-,0,9
+371,BAGON,45,75,60,40,30,50,300,Dragon,Dragon,65,89,None,None,127,40,35,Slow,Dragon,Dragon,Rock Head,Rock Head,0,1
+372,SHELGON,65,95,100,60,80 (+30),50,450 (+30),Dragon,Dragon,35,144,None,None,127,40,35,Slow,Dragon,Dragon,Rock Head,Shell Armor,0,8
+373,SALAMENCE,95,135,80,110,85 (+5),100,605 (+5),Dragon,Flying,15,218,None,None,127,40,35,Slow,Dragon,Dragon,Intimidate,Intimidate,0,1
+374,BELDUM,40,55,80,35,60,30,300,Steel,Psychic,15,103,None,None,255,40,35,Slow,Mineral,Mineral,Clear Body,-,0,1
+375,METANG,60,85 (+10),100,55,80,50,430 (+10),Steel,Psychic,15,153,None,None,255,40,35,Slow,Mineral,Mineral,Clear Body,-,0,1
+376,METAGROSS,80,135,130,100 (+5),90,70,605 (+5),Steel,Psychic,15,210,None,None,255,40,35,Slow,Mineral,Mineral,Clear Body,-,0,1
+377,REGIROCK,80,120 (+20),200,50,100,50,600 (+20),Rock,Rock,14,217,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Solid Rock,Clear Body,0,5
+378,REGICE,80,50,100,120 (+20),200,50,600 (+20),Ice,Ice,14,216,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Filter,Ice Body,0,1
+379,REGISTEEL,80,80 (+5),200 (+50),35 (-40),200 (+50),5 (-45),600 (+20),Steel,Steel,14,215,None,None,255,80,35,Slow,Undiscovered,Undiscovered,Filter,Clear Body,0,7
+380,LATIAS,80,80,90,110,130,110,600,Dragon,Psychic,14,211,None,None,254,120,90,Slow,Undiscovered,Undiscovered,Levitate,-,0,0
+381,LATIOS,80,90,80,130,110,110,600,Dragon,Psychic,14,211,None,None,0,120,90,Slow,Undiscovered,Undiscovered,Levitate,-,0,1
+382,KYOGRE,100,100,90,150,140,90,670,Water,Water,14,218,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Drizzle,-,0,1
+383,GROUDON,100,150,140,100,90,90,670,Ground,Ground,14,218,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Drought,-,0,0
+384,RAYQUAZA,105,150,90,150,90,95,680,Dragon,Flying,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Air Lock,-,0,3
+385,JIRACHI,100,100,100,100,100,100,600,Steel,Psychic,14,215,None,None,255,120,100,Slow,Undiscovered,Undiscovered,Serene Grace,-,0,2
+386,DEOXYS,90 (+40),150,70 (+20),150,70 (+20),150,680 (+80),Psychic,Psychic,14,215,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Magic Guard,-,0,0
+387,TURTWIG,55,68,64,45,55,31,318,Grass,Grass,59,64,None,None,31,20,70,Medium Slow,Monster,Grass,Overgrow,Shell Armor,0,3
+388,GROTLE,75,89,85,55,65,36,405,Grass,Grass,59,141,None,None,31,20,70,Medium Slow,Monster,Grass,Leaf Guard,Shell Armor,0,3
+389,TORTERRA,95,111 (+2),105,63 (-12),105 (+20),56,535 (+10),Grass,Ground,20,208,None,None,31,20,70,Medium Slow,Monster,Grass,Thick Fat,Shell Armor,0,131
+390,CHIMCHAR,44,58,44,58,44,61,309,Fire,Fire,59,65,None,None,31,20,70,Medium Slow,Field,Human-Like,Blaze,Blaze,0,133
+391,MONFERNO,64,78,52,78,52,81,405,Fire,Fighting,59,142,None,None,31,20,70,Medium Slow,Field,Human-Like,Blaze,Blaze,0,133
+392,INFERNAPE,77 (+1),104,71,104,71,108,535 (+1),Fire,Fighting,20,209,None,None,31,20,70,Medium Slow,Field,Human-Like,Iron Fist,Blaze,0,5
+393,PIPLUP,53,61 (+10),53,51 (-10),56,40,314,Water,Water,59,66,None,None,31,20,70,Medium Slow,Water 1,Field,Torrent,Torrent,0,1
+394,PRINPLUP,64,81 (+15),68,66 (-15),76,50,405,Water,Water,59,143,None,None,31,20,70,Medium Slow,Water 1,Field,Swift Swim,Torrent,0,1
+395,EMPOLEON,84,111 (+25),93 (+5),86 (-25),101,60,535 (+5),Water,Steel,20,210,None,None,31,20,70,Medium Slow,Water 1,Field,Swift Swim,Torrent,0,1
+396,STARLY,40,55,30,30,30,60,245,Normal,Flying,255,56,None,None,127,15,70,Medium Slow,Flying,Flying,Keen Eye,-,90,5
+397,STARAVIA,55,75,50,40,40,80,340,Normal,Flying,156,113,None,None,127,15,70,Medium Slow,Flying,Flying,Reckless,-,60,5
+398,STARAPTOR,85,120,70,50,50,105 (+5),480 (+5),Normal,Flying,59,172,None,None,127,15,70,Medium Slow,Flying,Flying,Reckless,-,60,5
+399,BIDOOF,59,45,40,35,40,31,250,Normal,Normal,255,58,None,None,127,15,70,Medium Fast,Water 1,Field,Simple,Unaware,90,5
+400,BIBAREL,79,85,60,55,60,71,410,Normal,Water,165,116,None,None,127,15,70,Medium Fast,Water 1,Field,Simple,Unaware,60,5
+401,KRICKETOT,37,25,41,25,41,25,194,Bug,Bug,255,54,None,None,127,15,70,Medium Slow,Bug,Bug,Shed Skin,-,0,0
+402,KRICKETUNE,77,85,51,55,51,65,384,Bug,Bug,98,159,None,None,127,15,70,Medium Slow,Bug,Bug,Hyper Cutter,-,0,0
+403,SHINX,45,65,34,40,34,45,263,Electric,Electric,255,60,None,None,127,20,70,Medium Slow,Field,Field,Rivalry,Rivalry,0,1
+404,LUXIO,60,85,49,60,49,60,363,Electric,Electric,156,117,None,None,127,20,100,Medium Slow,Field,Field,Hyper Cutter,Hyper Cutter,0,1
+405,LUXRAY,80,120,79,70 (-25),79,95 (+25),523,Electric,Electric,33,194,None,None,127,20,70,Medium Slow,Field,Field,Tinted Lens,Reckless,60,1
+406,BUDEW,40,30,35,50,70,55,280,Grass,Poison,255,68,None,None,127,20,70,Medium Slow,Undiscovered,Undiscovered,Natural Cure,Natural Cure,120,131
+407,ROSERADE,60,70,55,125,105,90,505,Grass,Poison,98,204,None,None,127,20,70,Medium Slow,Fairy,Grass,Natural Cure,Natural Cure,60,131
+408,CRANIDOS,67,125,50 (+10),10 (-20),40 (+10),58,350,Rock,Rock,59,99,None,None,31,30,70,Erratic,Monster,Monster,Rock Head,Mold Breaker,0,1
+409,RAMPARDOS,97,180 (+15),80 (+20),15 (-50),70 (+20),58,500 (+5),Rock,Rock,59,199,None,None,31,30,70,Erratic,Monster,Monster,Rock Head,Mold Breaker,0,1
+410,SHIELDON,60 (+30),82 (+40),118,2 (-40),88,30,380 (+30),Rock,Steel,59,99,None,None,31,30,70,Erratic,Monster,Monster,Solid Rock,Battle Armor,0,7
+411,BASTIODON,80 (+20),92 (+40),168,7 (-40),138,30,515 (+20),Rock,Steel,59,199,None,None,31,30,70,Erratic,Monster,Monster,Solid Rock,Battle Armor,0,7
+412,BURMY,40,29,45,29,45,36,224,Bug,Bug,156,61,None,None,127,15,70,Medium Fast,Bug,Bug,Snow Cloak,-,0,7
+413,WORMADAM,60,79 (+20),85,79,105,36,444 (+20),Bug,Grass,59,159,None,None,254,15,70,Medium Fast,Bug,Bug,Snow Cloak,-,0,7
+414,MOTHIM,70,94,50,94,50,66,424,Bug,Flying,59,159,None,None,0,15,70,Medium Fast,Bug,Bug,Tinted Lens,-,0,2
+415,COMBEE,30,50 (+20),42,50 (+20),42,70,284 (+40),Bug,Flying,156,63,Honey,Honey,207,15,70,Medium Slow,Bug,Bug,Honey Gather,-,0,2
+416,VESPIQUEN,80 (+10),102 (+22),102,102 (+22),102,70 (+30),558 (+84),Bug,Flying,59,188,None,None,254,15,70,Medium Slow,Bug,Bug,Tinted Lens,Swarm,0,2
+417,PACHIRISU,60,65 (+20),70,65 (+20),90,95,445 (+40),Electric,Electric,255,120,None,None,127,10,100,Medium Fast,Field,Fairy,Adaptability,Adaptability,0,8
+418,BUIZEL,55,65,35,60,30,85,330,Water,Water,247,75,None,None,127,20,70,Medium Fast,Water 1,Field,Swift Swim,-,0,5
+419,FLOATZEL,85,105,55,85,50,115,495,Water,Water,98,178,None,None,127,20,70,Medium Fast,Water 1,Field,Swift Swim,-,0,5
+420,CHERUBI,45,35,45,62,53,35,275,Grass,Grass,247,68,None,None,127,20,70,Medium Fast,Fairy,Grass,Chlorophyll,-,0,9
+421,CHERRIM,70,87 (+27),90 (+20),87,98 (+20),85,517 (+67),Grass,Grass,98,133,None,None,127,20,70,Medium Fast,Fairy,Grass,Flower Gift,-,0,9
+422,SHELLOS,76,48,48,57,62,34,325,Water,Water,247,73,None,None,127,20,70,Medium Fast,Water 1,Amorphous,Dry Skin,Dry Skin,0,6
+423,GASTRODON,111,83,68,92,82,39,475,Water,Ground,59,176,None,None,127,20,70,Medium Fast,Water 1,Amorphous,Dry Skin,Dry Skin,0,6
+424,AMBIPOM,75,100,66,60,66,115,482,Normal,Normal,59,186,None,None,127,20,100,Fast,Field,Field,Technician,Technician,0,6
+425,DRIFLOON,90,50,34,60,44,70,348,Ghost,Flying,163,127,None,None,127,30,70,Fluctuating,Amorphous,Amorphous,Unburden,Unburden,0,6
+426,DRIFBLIM,150,80,44,90,54,80,498,Ghost,Flying,78,204,None,None,127,30,70,Fluctuating,Amorphous,Amorphous,Unburden,Unburden,0,6
+427,BUNEARY,55,66,44,44,56,85,350,Normal,Normal,247,84,None,None,127,20,0,Medium Fast,Field,Human-Like,Scrappy,Scrappy,0,5
+428,LOPUNNY,65,86 (+10),84,54,116 (+20),105,510 (+30),Normal,Normal,78,178,None,None,127,20,140,Medium Fast,Field,Human-Like,Scrappy,Scrappy,90,5
+429,MISMAGIUS,60,60,60,115 (+10),105,105,505 (+10),Ghost,Ghost,33,187,None,None,127,25,35,Fast,Amorphous,Amorphous,Levitate,-,0,6
+430,HONCHKROW,100,125,62 (+10),100 (-5),62 (+10),91 (+20),540 (+35),Dark,Flying,33,187,None,None,127,20,35,Medium Slow,Flying,Flying,Super Luck,Super Luck,0,4
+431,GLAMEOW,49,55,42,42,37,85,310,Normal,Normal,247,71,None,None,191,20,70,Fast,Field,Field,Limber,Limber,0,7
+432,PURUGLY,91 (+20),82,74 (+10),64,69 (+10),112,492 (+40),Normal,Normal,98,183,None,None,191,20,70,Fast,Field,Field,Limber,Thick Fat,0,7
+433,CHINGLING,45,30,50,65,50,45,285,Psychic,Psychic,156,74,None,None,127,25,70,Fast,Undiscovered,Undiscovered,Levitate,-,0,2
+434,STUNKY,63,63,47,61 (+20),41,74,349 (+20),Poison,Dark,255,79,None,None,127,20,70,Medium Fast,Field,Field,Aftermath,Aftermath,0,6
+435,SKUNTANK,103,93,67,91 (+20),61,84,499 (+20),Poison,Dark,78,209,None,None,127,20,70,Medium Fast,Field,Field,Aftermath,Aftermath,0,6
+436,BRONZOR,77 (+20),99 (+75),116 (+30),89 (+65),116 (+30),33 (+10),530 (+230),Steel,Psychic,14,72,None,None,255,20,70,Medium Fast,Mineral,Mineral,Levitate,Levitate,0,3
+437,BRONZONG,77 (+10),99 (+10),116,89 (+10),116,33,530 (+30),Steel,Psychic,11,188,None,None,255,20,70,Medium Fast,Mineral,Mineral,Drizzle,Levitate,0,3
+438,BONSLY,50,80,95,10,45,10,290,Rock,Rock,255,68,None,None,127,20,70,Medium Fast,Undiscovered,Undiscovered,Rock Head,Rock Head,0,5
+439,MIME JR.,20,25,45,70,90,60,310,Psychic,Psychic,189,78,None,None,127,25,70,Medium Fast,Undiscovered,Undiscovered,Filter,Filter,0,9
+440,HAPPINY,100,5,5,15,65,30,220,Normal,Normal,169,255,None,None,254,15,140,Fast,Undiscovered,Undiscovered,Natural Cure,Serene Grace,0,9
+441,CHATOT,76,91 (+26),45,102 (+10),42,110 (+19),466 (+55),Normal,Flying,130,107,None,None,127,20,35,Medium Slow,Flying,Flying,Scrappy,Scrappy,0,4
+442,SPIRITOMB,73 (+23),108 (+16),108,108 (+16),108,35,540 (+55),Ghost,Dark,10,168,None,None,127,30,70,Medium Fast,Amorphous,Amorphous,Pressure,-,0,6
+443,GIBLE,58,70,45,40,45,42,300,Dragon,Ground,14,67,None,None,127,40,70,Slow,Monster,Dragon,Sand Veil,Rough Skin,0,1
+444,GABITE,68,90,65,50,55,82,410,Dragon,Ground,14,144,None,None,127,40,70,Slow,Monster,Dragon,Sand Veil,Shed Skin,0,1
+445,GARCHOMP,108,130,95,85 (+5),85,102,605 (+5),Dragon,Ground,14,218,None,None,127,40,70,Slow,Monster,Dragon,Sand Veil,Rough Skin,0,1
+446,MUNCHLAX,135,85,40,40,85,5,390,Normal,Normal,39,94,None,None,31,40,70,Slow,Undiscovered,Undiscovered,Guts,Gluttony,0,4
+447,RIOLU,40,70,40,35,40,60,285,Fighting,Fighting,98,72,None,None,31,25,70,Medium Slow,Undiscovered,Undiscovered,Adaptability,Adaptability,0,1
+448,LUCARIO,70,110,70,115,70,90,525,Fighting,Steel,59,204,None,None,31,25,70,Medium Slow,Field,Human-Like,Iron Fist,Adaptability,0,1
+449,HIPPOPOTAS,68,72,78,38,42,32,330,Ground,Ground,182,95,None,None,127,30,70,Slow,Field,Field,Sand Stream,Thick Fat,0,5
+450,HIPPOWDON,108,112,118,68,72,47,525,Ground,Ground,78,198,None,None,127,30,70,Slow,Field,Field,Sand Stream,Thick Fat,0,5
+451,SKORUPI,40,50,90,30,55,65,330,Poison,Bug,156,114,None,None,127,20,70,Slow,Bug,Water 3,Sand Veil,Sniper,60,6
+452,DRAPION,70,90,110,60,75,95,500,Poison,Dark,59,204,None,None,127,20,70,Slow,Bug,Water 3,Sand Veil,Hyper Cutter,60,6
+453,CROAGUNK,48,61,40,61,40,50,300,Poison,Fighting,98,83,None,None,127,10,100,Medium Fast,Human-Like,Human-Like,Dry Skin,Dry Skin,150,1
+454,TOXICROAK,83,106,65,86,65,85,490,Poison,Fighting,59,181,None,None,127,20,70,Medium Fast,Human-Like,Human-Like,Dry Skin,Dry Skin,120,1
+455,CARNIVINE,74,105 (+5),72,100 (+10),72,70 (+24),493 (+39),Grass,Grass,255,164,None,None,127,25,70,Slow,Grass,Grass,Chlorophyll,Levitate,60,3
+456,FINNEON,49,49,56,49,61,66,330,Water,Water,255,90,None,None,127,20,70,Erratic,Water 2,Water 2,Swift Swim,Chlorophyll,0,1
+457,LUMINEON,69,85 (+16),76,75 (+6),86,91,482 (+22),Water,Water,163,156,None,None,127,20,70,Erratic,Water 2,Water 2,Swift Swim,Chlorophyll,0,1
+458,MANTYKE,45,20,50,60,120,50,345,Water,Flying,33,108,None,None,127,25,70,Slow,Undiscovered,Undiscovered,Swift Swim,Swift Swim,0,1
+459,SNOVER,60,62,50,62,60,40,334,Grass,Ice,156,131,None,None,127,20,70,Slow,Monster,Grass,Snow Warning,Adaptability,0,8
+460,ABOMASNOW,90,92,75,92,85,60,494,Grass,Ice,78,214,None,None,127,20,70,Slow,Monster,Grass,Snow Warning,Adaptability,0,8
+461,WEAVILE,70,120,65,45,85,125,510,Dark,Ice,59,199,None,None,127,20,35,Medium Slow,Field,Field,Technician,Inner Focus,0,4
+462,MAGNEZONE,70,70,115,130,90,60,535,Electric,Steel,13,211,None,None,255,20,70,Medium Fast,Mineral,Mineral,Levitate,Magnet Pull,0,7
+463,LICKILICKY,110,85,95,80,95,50,515,Normal,Normal,20,193,None,None,127,20,70,Medium Fast,Monster,Monster,Poison Heal,Guts,0,9
+464,RHYPERIOR,115,140,130,55,55,40,535,Ground,Rock,33,217,None,None,127,20,70,Slow,Monster,Field,Solid Rock,Solid Rock,0,7
+465,TANGROWTH,100,100,125,110,90 (+40),10 (-40),535,Grass,Grass,14,211,None,None,127,20,70,Medium Fast,Grass,Grass,Magic Guard,Magic Guard,0,1
+466,ELECTIVIRE,75,123,67,95,85,105 (+10),550 (+10),Electric,Electric,39,199,None,None,63,25,70,Medium Fast,Human-Like,Human-Like,Adaptability,-,0,2
+467,MAGMORTAR,75,95,67,125,95,93 (+10),550 (+10),Fire,Fire,39,199,None,None,63,25,70,Medium Fast,Human-Like,Human-Like,Flame Body,Flame Body,0,128
+468,TOGEKISS,85,50,95,120,115,80,545,Normal,Flying,39,220,None,None,31,10,70,Fast,Flying,Fairy,Serene Grace,Serene Grace,0,136
+469,YANMEGA,86,76,86,116,56,95,515,Bug,Flying,20,198,None,None,127,20,70,Medium Fast,Bug,Bug,Speed Boost,Tinted Lens,0,3
+470,LEAFEON,65,110,130,60,65,95,525,Grass,Grass,59,196,None,None,31,35,35,Medium Fast,Field,Field,Magic Guard,Natural Cure,0,3
+471,GLACEON,65,60,110,130,95,65,525,Ice,Ice,59,196,None,None,31,35,35,Medium Fast,Field,Field,Snow Cloak,Ice Body,0,1
+472,GLISCOR,75,95,125,45,75,95,510,Ground,Flying,39,192,None,None,127,20,70,Medium Slow,Bug,Bug,Sand Veil,Sand Veil,0,6
+473,MAMOSWINE,110,135 (+5),80,70,80 (+20),80,555 (+25),Ice,Ground,33,207,None,None,127,20,70,Slow,Field,Field,Thick Fat,Thick Fat,0,5
+474,PORYGON-Z,85,80,70,135,75,90,535,Normal,Normal,20,185,None,None,255,20,70,Medium Fast,Mineral,Mineral,Download,Download,0,0
+475,GALLADE,68,125,65,65,115,80,518,Psychic,Fighting,59,208,None,None,0,20,35,Slow,Amorphous,Amorphous,Hyper Cutter,Steadfast,0,8
+476,PROBOPASS,70 (+10),75 (+20),145,75,150,40,555 (+30),Rock,Steel,26,198,None,None,127,20,70,Medium Fast,Mineral,Mineral,Solid Rock,Solid Rock,0,7
+477,DUSKNOIR,105 (+60),100,135,35 (-30),135,45,555 (+30),Ghost,Ghost,33,210,None,None,127,25,35,Fast,Amorphous,Amorphous,Levitate,-,0,4
+478,FROSLASS,80 (+10),80,70,110 (+30),70,110,520 (+40),Ice,Ghost,33,187,None,None,254,20,70,Medium Fast,Fairy,Mineral,Snow Cloak,Snow Cloak,0,8
+479,ROTOM,50,65 (+15),107 (+30),105 (+10),107 (+30),91,525 (+85),Electric,Ghost,85,132,None,None,255,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,0
+480,UXIE,95 (+20),75,130,75,130,95,600 (+20),Psychic,Psychic,14,210,None,None,255,80,140,Slow,Undiscovered,Undiscovered,Levitate,-,0,2
+481,MESPRIT,80,110 (+5),110 (+5),110 (+5),110 (+5),80,600 (+20),Psychic,Psychic,14,210,None,None,255,80,140,Slow,Undiscovered,Undiscovered,Magic Guard,-,0,9
+482,AZELF,75,135 (+10),70,135 (+10),70,115,600 (+20),Psychic,Psychic,14,210,None,None,255,80,140,Slow,Undiscovered,Undiscovered,Levitate,-,0,1
+483,DIALGA,100,120,120,150,100,90,680,Steel,Dragon,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Pressure,-,0,8
+484,PALKIA,90,120,100,150,120,100,680,Water,Dragon,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Pressure,-,0,6
+485,HEATRAN,91,90,106,130,106,77,600,Fire,Steel,14,215,None,None,127,10,100,Slow,Undiscovered,Undiscovered,Flash Fire,-,0,5
+486,REGIGIGAS,110,160,110,80,110,100,670,Normal,Normal,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Clear Body,-,0,8
+487,GIRATINA,150,100,120,100,120,90,680,Ghost,Dragon,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Pressure,-,0,4
+488,CRESSELIA,120,70,120,75,130,85,600,Psychic,Psychic,14,210,None,None,254,120,100,Slow,Undiscovered,Undiscovered,Levitate,-,0,2
+489,PHIONE,80,90 (+10),90 (+10),90 (+10),90 (+10),80,520 (+40),Water,Water,104,165,None,None,255,40,70,Slow,Water 1,Fairy,Hydration,-,0,1
+490,MANAPHY,100,100,100,100,100,100,600,Water,Water,14,215,None,None,255,10,70,Slow,Water 1,Fairy,Hydration,-,0,1
+491,DARKRAI,70,90,90,135,90,125,600,Dark,Dark,14,210,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Bad Dreams,-,0,4
+492,SHAYMIN,100,100,100,100,100,100,600,Grass,Grass,59,64,Lum Berry,Lum Berry,255,120,100,Medium Slow,Undiscovered,Undiscovered,Natural Cure,-,0,3
+493,ARCEUS,120,120,120,120,120,120,720,Normal,Normal,14,255,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Multitype,-,0,7
+494,Egg,10,10,10,10,10,10,60,Normal,Normal,14,255,None,None,255,120,0,Slow,Undiscovered,Undiscovered,-,-,0,10
+495,Bad Egg,10,10,10,10,10,10,60,Normal,Normal,14,255,None,None,255,120,0,Slow,Undiscovered,Undiscovered,-,-,0,10
+496,Deoxys (A),90 (+40),200 (+20),20,200 (+20),20,150,680 (+80),Psychic,Psychic,14,215,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Magic Guard,-,0,0
+497,Deoxys (D),90 (+40),100 (+30),150 (-10),100 (+30),150 (-10),90,680 (+80),Psychic,Psychic,14,215,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Magic Guard,-,0,0
+498,Deoxys (S),90 (+40),100 (+5),100 (+10),100 (+5),100 (+10),190 (+10),680 (+80),Psychic,Psychic,14,215,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Magic Guard,-,0,0
+499,Wormadam (S),60,79,105,59,85,36,424,Bug,Ground,59,159,None,None,254,15,70,Medium Fast,Bug,Bug,Snow Cloak,-,0,7
+500,Wormadam (T),60,69,95,69,95,36,424,Bug,Steel,59,159,None,None,254,15,70,Medium Fast,Bug,Bug,Snow Cloak,-,0,7
+501,Giratina (O),150,120,100,120,100,90,680,Ghost,Dragon,14,220,None,None,255,120,0,Slow,Undiscovered,Undiscovered,Levitate,-,0,4
+502,Shaymin (S),100,103,75,120,75,127,600,Grass,Flying,59,64,Lum Berry,Lum Berry,255,120,100,Medium Slow,Undiscovered,Undiscovered,Serene Grace,-,0,131
+503,Rotom (Heat),50,65,107,105,107,91 (+5),525 (+5),Electric,Ghost,59,132,None,None,255,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,0
+504,Rotom (Wash),50,65,107,105,107,91 (+5),525 (+5),Electric,Ghost,59,132,None,None,255,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,0
+505,Rotom (Frost),50,65,107,105,107,91 (+5),525 (+5),Electric,Ghost,59,132,None,None,255,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,0
+506,Rotom (Fan),50,65,107,105,107,91 (+5),525 (+5),Electric,Ghost,59,132,None,None,255,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,0
+507,Rotom (Mow),50,65,107,105,107,91 (+5),525 (+5),Electric,Ghost,59,132,None,None,255,20,70,Medium Fast,Amorphous,Amorphous,Levitate,-,0,0

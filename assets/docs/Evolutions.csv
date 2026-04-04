@@ -1,0 +1,509 @@
+ID Number,Name,Method,Required,Result,Method,Required,Result,Method,Required,Result,Method,Required,Result,Method,Required,Result,Method,Required,Result,Method,Required,Result
+0,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+1,BULBASAUR,Level Up,16,IVYSAUR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+2,IVYSAUR,Level Up,32,VENUSAUR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+3,VENUSAUR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+4,CHARMANDER,Level Up,16,CHARMELEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+5,CHARMELEON,Level Up,36,CHARIZARD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+6,CHARIZARD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+7,SQUIRTLE,Level Up,16,WARTORTLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+8,WARTORTLE,Level Up,36,BLASTOISE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+9,BLASTOISE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+10,CATERPIE,Level Up,7,METAPOD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+11,METAPOD,Level Up,10,BUTTERFREE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+12,BUTTERFREE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+13,WEEDLE,Level Up,7,KAKUNA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+14,KAKUNA,Level Up,10,BEEDRILL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+15,BEEDRILL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+16,PIDGEY,Level Up,14,PIDGEOTTO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+17,PIDGEOTTO,Level Up,36,PIDGEOT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+18,PIDGEOT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+19,RATTATA,Level Up,20,RATICATE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+20,RATICATE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+21,SPEAROW,Level Up,20,FEAROW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+22,FEAROW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+23,EKANS,Level Up,22,ARBOK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+24,ARBOK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+25,PIKACHU,Use Item,Thunderstone,RAICHU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+26,RAICHU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+27,SANDSHREW,Level Up,22,SANDSLASH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+28,SANDSLASH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+29,NIDORAN♀,Level Up,16,NIDORINA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+30,NIDORINA,Use Item,Moon Stone,NIDOQUEEN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+31,NIDOQUEEN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+32,NIDORAN♂,Level Up,16,NIDORINO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+33,NIDORINO,Use Item,Moon Stone,NIDOKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+34,NIDOKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+35,CLEFAIRY,Use Item,Moon Stone,CLEFABLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+36,CLEFABLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+37,VULPIX,Use Item,Fire Stone,NINETALES,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+38,NINETALES,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+39,JIGGLYPUFF,Use Item,Moon Stone,WIGGLYTUFF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+40,WIGGLYTUFF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+41,ZUBAT,Level Up,22,GOLBAT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+42,GOLBAT,Level Up,48,CROBAT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+43,ODDISH,Level Up,15,GLOOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+44,GLOOM,Use Item,Leaf Stone,VILEPLUME,Use Item,Sun Stone,BELLOSSOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+45,VILEPLUME,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+46,PARAS,Level Up,24,PARASECT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+47,PARASECT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+48,VENONAT,Level Up,28,VENOMOTH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+49,VENOMOTH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+50,DIGLETT,Level Up,26,DUGTRIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+51,DUGTRIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+52,MEOWTH,Level Up,28,PERSIAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+53,PERSIAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+54,PSYDUCK,Level Up,33,GOLDUCK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+55,GOLDUCK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+56,MANKEY,Level Up,28,PRIMEAPE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+57,PRIMEAPE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+58,GROWLITHE,Use Item,Fire Stone,ARCANINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+59,ARCANINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+60,POLIWAG,Level Up,25,POLIWHIRL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+61,POLIWHIRL,Use Item,Water Stone,POLIWRATH,Level Up,36,POLITOED,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+62,POLIWRATH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+63,ABRA,Level Up,45,KADABRA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+64,KADABRA,Held Item (Day),TwistedSpoon,ALAKAZAM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+65,ALAKAZAM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+66,MACHOP,Level Up,48,MACHOKE,Use Item,Hard Stone,MACHOKE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+67,MACHOKE,Pokemon in Party,GRAVELER,MACHAMP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+68,MACHAMP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+69,BELLSPROUT,Level Up,15,WEEPINBELL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+70,WEEPINBELL,Use Item,Leaf Stone,VICTREEBEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+71,VICTREEBEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+72,TENTACOOL,Level Up,30,TENTACRUEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+73,TENTACRUEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+74,GEODUDE,Level Up,48,GRAVELER,Use Item,Hard Stone,GRAVELER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+75,GRAVELER,Pokemon in Party,MACHOKE,GOLEM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+76,GOLEM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+77,PONYTA,Level Up,34,RAPIDASH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+78,RAPIDASH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+79,SLOWPOKE,Pokemon in Party,SHELLDER,SLOWBRO,Use Item,King’s Rock,SLOWKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+80,SLOWBRO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+81,MAGNEMITE,Level (Mt. Coronet),,MAGNETON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+82,MAGNETON,Level Up,80,MAGNEZONE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+83,FARFETCH’D,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+84,DODUO,Level Up,31,DODRIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+85,DODRIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+86,SEEL,Level Up,34,DEWGONG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+87,DEWGONG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+88,GRIMER,Level Up,25,MUK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+89,MUK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+90,SHELLDER,Use Item,Water Stone,CLOYSTER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+91,CLOYSTER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+92,GASTLY,Level Up,45,HAUNTER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+93,HAUNTER,Held Item (Night),TwistedSpoon,GENGAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+94,GENGAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+95,ONIX,Use Item,Metal Coat,STEELIX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+96,DROWZEE,Level Up,38,HYPNO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+97,HYPNO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+98,KRABBY,Level Up,28,KINGLER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+99,KINGLER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+100,VOLTORB,Level Up,30,ELECTRODE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+101,ELECTRODE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+102,EXEGGCUTE,Use Item,Leaf Stone,EXEGGUTOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+103,EXEGGUTOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+104,CUBONE,Level Up,28,MAROWAK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+105,MAROWAK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+106,HITMONLEE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+107,HITMONCHAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+108,LICKITUNG,Attack Known,Power Whip,LICKILICKY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+109,KOFFING,Level Up,25,WEEZING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+110,WEEZING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+111,RHYHORN,Level Up,42,RHYDON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+112,RHYDON,Use Item,Protector,RHYPERIOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+113,CHANSEY,Happiness,0,BLISSEY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+114,TANGELA,Level (Eterna Forest),90,TANGROWTH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+115,KANGASKHAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+116,HORSEA,Level Up,32,SEADRA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+117,SEADRA,Use Item,Dragon Scale,KINGDRA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+118,GOLDEEN,Level Up,23,SEAKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+119,SEAKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+120,STARYU,Held Item (Night),Water Stone,STARMIE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+121,STARMIE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+122,MR. MIME,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+123,SCYTHER,Use Item,Metal Coat,SCIZOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+124,JYNX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+125,ELECTABUZZ,Use Item,Electirizer,ELECTIVIRE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+126,MAGMAR,Use Item,Magmarizer,MAGMORTAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+127,PINSIR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+128,TAUROS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+129,MAGIKARP,Level Up,20,GYARADOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+130,GYARADOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+131,LAPRAS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+132,DITTO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+133,EEVEE,Level (Eterna Forest),0,LEAFEON,Level (Route 217),0,GLACEON,Use Item,Thunderstone,JOLTEON,Use Item,Water Stone,VAPOREON,Use Item,Fire Stone,FLAREON,Use Item,Dawn Stone,ESPEON,Use Item,Dusk Stone,UMBREON
+134,VAPOREON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+135,JOLTEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+136,FLAREON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+137,PORYGON,Use Item,Up-Grade,PORYGON2,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+138,OMANYTE,Level (Mt. Coronet),,OMASTAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+139,OMASTAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+140,KABUTO,Level (Mt. Coronet),,KABUTOPS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+141,KABUTOPS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+142,AERODACTYL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+143,SNORLAX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+144,ARTICUNO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+145,ZAPDOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+146,MOLTRES,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+147,DRATINI,Level Up,45,DRAGONAIR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+148,DRAGONAIR,Level Up,100,DRAGONITE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+149,DRAGONITE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+150,MEWTWO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+151,MEW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+152,CHIKORITA,Level Up,16,BAYLEEF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+153,BAYLEEF,Level Up,32,MEGANIUM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+154,MEGANIUM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+155,CYNDAQUIL,Level Up,14,QUILAVA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+156,QUILAVA,Level Up,36,TYPHLOSION,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+157,TYPHLOSION,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+158,TOTODILE,Level Up,16,CROCONAW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+159,CROCONAW,Level Up,30,FERALIGATR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+160,FERALIGATR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+161,SENTRET,Level Up,15,FURRET,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+162,FURRET,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+163,HOOTHOOT,Level Up,20,NOCTOWL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+164,NOCTOWL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+165,LEDYBA,Level Up,14,LEDIAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+166,LEDIAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+167,SPINARAK,Level Up,16,ARIADOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+168,ARIADOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+169,CROBAT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+170,CHINCHOU,Level Up,27,LANTURN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+171,LANTURN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+172,PICHU,Level Up,15,PIKACHU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+173,CLEFFA,Level (Mt. Coronet),,CLEFAIRY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+174,IGGLYBUFF,Level Up,15,JIGGLYPUFF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+175,TOGEPI,Level Up,15,TOGETIC,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+176,TOGETIC,Use Item,Shiny Stone,TOGEKISS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+177,NATU,Level Up,25,XATU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+178,XATU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+179,MAREEP,Level Up,15,FLAAFFY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+180,FLAAFFY,Level Up,30,AMPHAROS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+181,AMPHAROS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+182,BELLOSSOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+183,MARILL,Level Up,25,AZUMARILL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+184,AZUMARILL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+185,SUDOWOODO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+186,POLITOED,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+187,HOPPIP,Level Up,18,SKIPLOOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+188,SKIPLOOM,Level Up,27,JUMPLUFF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+189,JUMPLUFF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+190,AIPOM,Attack Known,Double Hit,AMBIPOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+191,SUNKERN,Use Item,Sun Stone,SUNFLORA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+192,SUNFLORA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+193,YANMA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+194,WOOPER,Level Up,30,QUAGSIRE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+195,QUAGSIRE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+196,ESPEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+197,UMBREON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+198,MURKROW,Use Item,Dusk Stone,HONCHKROW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+199,SLOWKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+200,MISDREAVUS,Use Item,Dusk Stone,MISMAGIUS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+201,UNOWN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+202,WOBBUFFET,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+203,GIRAFARIG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+204,PINECO,Level Up,41,FORRETRESS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+205,FORRETRESS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+206,DUNSPARCE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+207,GLIGAR,Held Item (Night),Razor Fang,GLISCOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+208,STEELIX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+209,SNUBBULL,Level Up,23,GRANBULL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+210,GRANBULL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+211,QWILFISH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+212,SCIZOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+213,SHUCKLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+214,HERACROSS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+215,SNEASEL,Held Item (Night),Razor Claw,WEAVILE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+216,TEDDIURSA,Level Up,34,URSARING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+217,URSARING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+218,SLUGMA,Level Up,24,MAGCARGO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+219,MAGCARGO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+220,SWINUB,Level Up,38,PILOSWINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+221,PILOSWINE,Level (Route 217),80,MAMOSWINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+222,CORSOLA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+223,REMORAID,Level Up,25,OCTILLERY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+224,OCTILLERY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+225,DELIBIRD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+226,MANTINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+227,SKARMORY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+228,HOUNDOUR,Level Up,54,HOUNDOOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+229,HOUNDOOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+230,KINGDRA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+231,PHANPY,Level Up,34,DONPHAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+232,DONPHAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+233,PORYGON2,Use Item,Dubious Disc,PORYGON-Z,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+234,STANTLER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+235,SMEARGLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+236,TYROGUE,Level (Attack < Defense),20,HITMONCHAN,Level (Attack > Defense),20,HITMONLEE,Level (Attack = Defense),20,HITMONTOP,None,,-----,None,,-----,None,,-----,None,,-----
+237,HITMONTOP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+238,SMOOCHUM,Level Up,30,JYNX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+239,ELEKID,Level Up,30,ELECTABUZZ,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+240,MAGBY,Level Up,30,MAGMAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+241,MILTANK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+242,BLISSEY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+243,RAIKOU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+244,ENTEI,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+245,SUICUNE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+246,LARVITAR,Level Up,64,PUPITAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+247,PUPITAR,Level (Mt. Coronet),,TYRANITAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+248,TYRANITAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+249,LUGIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+250,HO-OH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+251,CELEBI,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+252,TREECKO,Level Up,16,GROVYLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+253,GROVYLE,Level Up,36,SCEPTILE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+254,SCEPTILE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+255,TORCHIC,Level Up,16,COMBUSKEN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+256,COMBUSKEN,Level Up,36,BLAZIKEN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+257,BLAZIKEN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+258,MUDKIP,Level Up,16,MARSHTOMP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+259,MARSHTOMP,Level Up,36,SWAMPERT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+260,SWAMPERT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+261,POOCHYENA,Level Up,16,MIGHTYENA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+262,MIGHTYENA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+263,ZIGZAGOON,Level Up,20,LINOONE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+264,LINOONE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+265,WURMPLE,Level (PID > 5),7,SILCOON,Level (PID < 5),7,CASCOON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+266,SILCOON,Level Up,10,BEAUTIFLY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+267,BEAUTIFLY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+268,CASCOON,Level Up,10,DUSTOX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+269,DUSTOX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+270,LOTAD,Level Up,14,LOMBRE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+271,LOMBRE,Use Item,Water Stone,LUDICOLO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+272,LUDICOLO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+273,SEEDOT,Level Up,14,NUZLEAF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+274,NUZLEAF,Use Item,Leaf Stone,SHIFTRY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+275,SHIFTRY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+276,TAILLOW,Level Up,30,SWELLOW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+277,SWELLOW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+278,WINGULL,Level Up,25,PELIPPER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+279,PELIPPER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+280,RALTS,Level Up,20,KIRLIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+281,KIRLIA,Use Item,Dawn Stone,GARDEVOIR,Level Up,36,GALLADE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+282,GARDEVOIR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+283,SURSKIT,Use Item,Water Stone,MASQUERAIN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+284,MASQUERAIN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+285,SHROOMISH,Level Up,23,BRELOOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+286,BRELOOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+287,SLAKOTH,Level Up,18,VIGOROTH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+288,VIGOROTH,Level Up,90,SLAKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+289,SLAKING,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+290,NINCADA,Level (1 of 2),20,NINJASK,Level (2 of 2),20,SHEDINJA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+291,NINJASK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+292,SHEDINJA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+293,WHISMUR,Level Up,16,LOUDRED,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+294,LOUDRED,Level Up,36,EXPLOUD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+295,EXPLOUD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+296,MAKUHITA,Level Up,36,HARIYAMA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+297,HARIYAMA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+298,AZURILL,Level Up,15,MARILL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+299,NOSEPASS,Level (Mt. Coronet),,PROBOPASS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+300,SKITTY,Use Item,Moon Stone,DELCATTY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+301,DELCATTY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+302,SABLEYE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+303,MAWILE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+304,ARON,Level Up,26,LAIRON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+305,LAIRON,Level Up,42,AGGRON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+306,AGGRON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+307,MEDITITE,Level Up,47,MEDICHAM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+308,MEDICHAM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+309,ELECTRIKE,Level Up,26,MANECTRIC,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+310,MANECTRIC,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+311,PLUSLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+312,MINUN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+313,VOLBEAT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+314,ILLUMISE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+315,ROSELIA,Use Item,Leaf Stone,ROSERADE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+316,GULPIN,Level Up,26,SWALOT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+317,SWALOT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+318,CARVANHA,Level Up,30,SHARPEDO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+319,SHARPEDO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+320,WAILMER,Level Up,95,WAILORD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+321,WAILORD,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+322,NUMEL,Level Up,36,CAMERUPT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+323,CAMERUPT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+324,TORKOAL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+325,SPOINK,Level Up,25,GRUMPIG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+326,GRUMPIG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+327,SPINDA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+328,TRAPINCH,Level Up,35,VIBRAVA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+329,VIBRAVA,Level Up,64,FLYGON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+330,FLYGON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+331,CACNEA,Level Up,28,CACTURNE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+332,CACTURNE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+333,SWABLU,Level Up,35,ALTARIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+334,ALTARIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+335,ZANGOOSE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+336,SEVIPER,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+337,LUNATONE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+338,SOLROCK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+339,BARBOACH,Level Up,30,WHISCASH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+340,WHISCASH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+341,CORPHISH,Level Up,30,CRAWDAUNT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+342,CRAWDAUNT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+343,BALTOY,Level (Mt. Coronet),,CLAYDOL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+344,CLAYDOL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+345,LILEEP,Level (Mt. Coronet),,CRADILY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+346,CRADILY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+347,ANORITH,Level (Mt. Coronet),,ARMALDO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+348,ARMALDO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+349,FEEBAS,Max Beauty,170,MILOTIC,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+350,MILOTIC,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+351,CASTFORM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+352,KECLEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+353,SHUPPET,Level Up,37,BANETTE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+354,BANETTE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+355,DUSKULL,Level Up,47,DUSCLOPS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+356,DUSCLOPS,Use Item,Reaper Cloth,DUSKNOIR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+357,TROPIUS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+358,CHIMECHO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+359,ABSOL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+360,WYNAUT,Level (Mt. Coronet),,WOBBUFFET,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+361,SNORUNT,Level Up,33,GLALIE,Use Item (Female),Dawn Stone,FROSLASS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+362,GLALIE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+363,SPHEAL,Level Up,24,SEALEO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+364,SEALEO,Level Up,44,WALREIN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+365,WALREIN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+366,CLAMPERL,Use Item,DeepSeaTooth,HUNTAIL,Use Item,DeepSeaScale,GOREBYSS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+367,HUNTAIL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+368,GOREBYSS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+369,RELICANTH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+370,LUVDISC,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+371,BAGON,Level Up,45,SHELGON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+372,SHELGON,Level Up,100,SALAMENCE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+373,SALAMENCE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+374,BELDUM,Level (Mt. Coronet),,METANG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+375,METANG,Level (Mt. Coronet),,METAGROSS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+376,METAGROSS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+377,REGIROCK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+378,REGICE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+379,REGISTEEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+380,LATIAS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+381,LATIOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+382,KYOGRE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+383,GROUDON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+384,RAYQUAZA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+385,JIRACHI,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+386,DEOXYS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+387,TURTWIG,Level Up,16,GROTLE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+388,GROTLE,Level Up,32,TORTERRA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+389,TORTERRA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+390,CHIMCHAR,Level Up,15,MONFERNO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+391,MONFERNO,Level Up,34,INFERNAPE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+392,INFERNAPE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+393,PIPLUP,Level Up,14,PRINPLUP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+394,PRINPLUP,Level Up,36,EMPOLEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+395,EMPOLEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+396,STARLY,Level Up,16,STARAVIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+397,STARAVIA,Level Up,36,STARAPTOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+398,STARAPTOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+399,BIDOOF,Level Up,15,BIBAREL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+400,BIBAREL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+401,KRICKETOT,Level Up,10,KRICKETUNE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+402,KRICKETUNE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+403,SHINX,Level Up,15,LUXIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+404,LUXIO,Level Up,30,LUXRAY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+405,LUXRAY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+406,BUDEW,Level Up,16,ROSELIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+407,ROSERADE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+408,CRANIDOS,Level (Mt. Coronet),,RAMPARDOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+409,RAMPARDOS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+410,SHIELDON,Level (Mt. Coronet),,BASTIODON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+411,BASTIODON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+412,BURMY,Level (Female),16,WORMADAM,Level (Male),16,MOTHIM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+413,WORMADAM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+414,MOTHIM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+415,COMBEE,Level (Female),21,VESPIQUEN,Level (Male),67,VESPIQUEN,Max Beauty,46,VESPIQUEN,None,,-----,None,,-----,None,,-----,None,,-----
+416,VESPIQUEN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+417,PACHIRISU,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+418,BUIZEL,Level Up,26,FLOATZEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+419,FLOATZEL,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+420,CHERUBI,Level Up,25,CHERRIM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+421,CHERRIM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+422,SHELLOS,Level Up,30,GASTRODON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+423,GASTRODON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+424,AMBIPOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+425,DRIFLOON,Level Up,38,DRIFBLIM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+426,DRIFBLIM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+427,BUNEARY,Level Up,28,LOPUNNY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+428,LOPUNNY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+429,MISMAGIUS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+430,HONCHKROW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+431,GLAMEOW,Level Up,28,PURUGLY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+432,PURUGLY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+433,CHINGLING,Level Up,21,CHIMECHO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+434,STUNKY,Level Up,34,SKUNTANK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+435,SKUNTANK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+436,BRONZOR,None,,BRONZONG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+437,BRONZONG,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+438,BONSLY,Level Up,25,SUDOWOODO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+439,MIME JR.,Level Up,25,MR. MIME,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+440,HAPPINY,Use Item (Day),Oval Stone,CHANSEY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+441,CHATOT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+442,SPIRITOMB,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+443,GIBLE,Level Up,45,GABITE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+444,GABITE,Level Up,100,GARCHOMP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+445,GARCHOMP,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+446,MUNCHLAX,Level (Eterna Forest),70,SNORLAX,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+447,RIOLU,Level Up,36,LUCARIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+448,LUCARIO,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+449,HIPPOPOTAS,Level Up,64,HIPPOWDON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+450,HIPPOWDON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+451,SKORUPI,Level Up,40,DRAPION,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+452,DRAPION,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+453,CROAGUNK,Level Up,37,TOXICROAK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+454,TOXICROAK,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+455,CARNIVINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+456,FINNEON,Level Up,24,LUMINEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+457,LUMINEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+458,MANTYKE,Pokemon in Party,REMORAID,MANTINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+459,SNOVER,Level Up,40,ABOMASNOW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+460,ABOMASNOW,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+461,WEAVILE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+462,MAGNEZONE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+463,LICKILICKY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+464,RHYPERIOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+465,TANGROWTH,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+466,ELECTIVIRE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+467,MAGMORTAR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+468,TOGEKISS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+469,YANMEGA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+470,LEAFEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+471,GLACEON,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+472,GLISCOR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+473,MAMOSWINE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+474,PORYGON-Z,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+475,GALLADE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+476,PROBOPASS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+477,DUSKNOIR,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+478,FROSLASS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+479,ROTOM,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+480,UXIE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+481,MESPRIT,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+482,AZELF,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+483,DIALGA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+484,PALKIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+485,HEATRAN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+486,REGIGIGAS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+487,GIRATINA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+488,CRESSELIA,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+489,PHIONE,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+490,MANAPHY,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+491,DARKRAI,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+492,SHAYMIN,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+493,ARCEUS,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+494,Egg,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+495,Bad Egg,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+496,Deoxys (A),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+497,Deoxys (D),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+498,Deoxys (S),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+499,Wormadam (S),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+500,Wormadam (T),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+501,Giratina (O),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+502,Shaymin (S),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+503,Rotom (Heat),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+504,Rotom (Wash),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+505,Rotom (Frost),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+506,Rotom (Fan),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
+507,Rotom (Mow),None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----,None,,-----
