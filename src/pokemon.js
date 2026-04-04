@@ -257,6 +257,26 @@ export function getEvoChain(pokemonId) {
 
 // --- Moves ---
 
+// CSV parser that respects double-quoted fields containing commas
+function parseCsvLine(line) {
+  const fields = []
+  let current = ''
+  let inQuotes = false
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i]
+    if (ch === '"') {
+      inQuotes = !inQuotes
+    } else if (ch === ',' && !inQuotes) {
+      fields.push(current)
+      current = ''
+    } else {
+      current += ch
+    }
+  }
+  fields.push(current)
+  return fields
+}
+
 // lowercase name → { type, category, power, accuracy, pp }
 const moveDataByName = {}
 
@@ -265,15 +285,18 @@ movesCsvText
   .split('\n')
   .slice(1)
   .forEach(line => {
-    const parts = line.split(',')
+    const parts = parseCsvLine(line)
     const name = parts[1]?.trim()
     if (!name || name === '-') return
     moveDataByName[name.toLowerCase()] = {
-      category: parts[3]?.trim() ?? '',
-      power:    parseInt(parts[4]) || 0,
-      type:     parts[5]?.trim() ?? '',
-      accuracy: parseInt(parts[6]) || 0,
-      pp:       parseInt(parts[7]) || 0,
+      additionalEffect: parts[2]?.trim() ?? '',
+      category:         parts[3]?.trim() ?? '',
+      power:            parseInt(parts[4]) || 0,
+      type:             parts[5]?.trim() ?? '',
+      accuracy:         parseInt(parts[6]) || 0,
+      pp:               parseInt(parts[7]) || 0,
+      targets:          parts[9]?.trim() ?? '',
+      priority:         parseInt(parts[10]) || 0,
     }
   })
 

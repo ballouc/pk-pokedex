@@ -324,6 +324,19 @@
   width: 48px;
 }
 
+.move-tooltip {
+  position: fixed;
+  z-index: 100;
+  background: #222;
+  color: #fff;
+  font-size: 11px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  pointer-events: none;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
 .move-type-badge {
   height: 16px;
   image-rendering: pixelated;

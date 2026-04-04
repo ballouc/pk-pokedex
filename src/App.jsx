@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useRef, useEffect } from 'react'
 import { search, typeSprite, categorySprite, getEvoChain, pokemonById, getLearnset } from './pokemon'
 import './App.css'
 
@@ -49,10 +49,42 @@ function StatGraph({ pokemon }) {
 
 function MoveTable({ pokemon }) {
   const moves = useMemo(() => getLearnset(pokemon.id), [pokemon.id])
+  const [tooltip, setTooltip] = useState(null)
+  const timerRef = useRef(null)
+  const posRef = useRef({ x: 0, y: 0 })
+
+  useEffect(() => () => clearTimeout(timerRef.current), [])
+
+  function handleMouseMove(e) {
+    posRef.current = { x: e.clientX, y: e.clientY }
+  }
+
+  function handleRowEnter(move) {
+    clearTimeout(timerRef.current)
+    timerRef.current = setTimeout(() => {
+      const priorityStr = move.priority > 0 ? `+${move.priority}` : String(move.priority ?? 0)
+      setTooltip({
+        x: posRef.current.x,
+        y: posRef.current.y,
+        text: `${move.targets}; ${move.additionalEffect}; (${priorityStr})`,
+      })
+    }, 1000)
+  }
+
+  function handleRowLeave() {
+    clearTimeout(timerRef.current)
+    setTooltip(null)
+  }
+
   if (moves.length === 0) return null
 
   return (
-    <div className="move-table-wrap">
+    <div className="move-table-wrap" onMouseMove={handleMouseMove}>
+      {tooltip && (
+        <div className="move-tooltip" style={{ left: tooltip.x + 14, top: tooltip.y + 14 }}>
+          {tooltip.text}
+        </div>
+      )}
       <table className="move-table">
         <thead>
           <tr>
@@ -66,23 +98,23 @@ function MoveTable({ pokemon }) {
           </tr>
         </thead>
         <tbody>
-          {moves.map(({ move, level, type, category, power, accuracy, pp }, i) => (
-            <tr key={i}>
-              <td>{level}</td>
-              <td>{move}</td>
+          {moves.map((move, i) => (
+            <tr key={i} onMouseEnter={() => handleRowEnter(move)} onMouseLeave={handleRowLeave}>
+              <td>{move.level}</td>
+              <td>{move.move}</td>
               <td>
-                {type && typeSprite[type.toLowerCase()]
-                  ? <img src={typeSprite[type.toLowerCase()]} alt={type} className="move-type-badge" />
-                  : type ?? ''}
+                {move.type && typeSprite[move.type.toLowerCase()]
+                  ? <img src={typeSprite[move.type.toLowerCase()]} alt={move.type} className="move-type-badge" />
+                  : move.type ?? ''}
               </td>
               <td>
-                {category && categorySprite[category.toLowerCase()]
-                  ? <img src={categorySprite[category.toLowerCase()]} alt={category} className="move-type-badge" />
-                  : category ?? ''}
+                {move.category && categorySprite[move.category.toLowerCase()]
+                  ? <img src={categorySprite[move.category.toLowerCase()]} alt={move.category} className="move-type-badge" />
+                  : move.category ?? ''}
               </td>
-              <td>{power ? power : '—'}</td>
-              <td>{accuracy ? accuracy : '—'}</td>
-              <td>{pp ?? ''}</td>
+              <td>{move.power || '—'}</td>
+              <td>{move.accuracy || '—'}</td>
+              <td>{move.pp ?? ''}</td>
             </tr>
           ))}
         </tbody>
