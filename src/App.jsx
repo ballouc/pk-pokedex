@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { search, typeSprite, getEvoChain, pokemonById } from './pokemon'
+import { search, typeSprite, categorySprite, getEvoChain, pokemonById, getLearnset } from './pokemon'
 import './App.css'
 
 const STAT_MAX = 255
@@ -13,8 +13,12 @@ const STAT_ENTRIES = [
   { key: 'speed',   label: 'Spe' },
 ]
 
+const TRACK_HEIGHT_PX = 80  // must match .stat-track height in CSS
+const BELOW_TRACK_PX   = 18  // stat-label (~14px) + gap (4px) below the track
+
 function StatGraph({ pokemon }) {
-  const refPct = (STAT_REF / STAT_MAX) * 100
+  // Offset from the bottom of .stat-tracks to where the 75 line should sit
+  const refBottom = BELOW_TRACK_PX + (STAT_REF / STAT_MAX) * TRACK_HEIGHT_PX
 
   return (
     <div className="stat-wrap">
@@ -23,8 +27,8 @@ function StatGraph({ pokemon }) {
         <span className="stat-bst-label">BST</span>
       </div>
       <div className="stat-graph">
-        <div className="stat-tracks" style={{ '--ref-pct': `${refPct}%` }}>
-          <div className="stat-ref-line" />
+        <div className="stat-tracks">
+          <div className="stat-ref-line" style={{ bottom: refBottom }} />
           {STAT_ENTRIES.map(({ key, label }) => (
             <div key={key} className="stat-col">
               <span className="stat-value">{pokemon.stats[key]}</span>
@@ -39,6 +43,50 @@ function StatGraph({ pokemon }) {
           ))}
         </div>
       </div>
+    </div>
+  )
+}
+
+function MoveTable({ pokemon }) {
+  const moves = useMemo(() => getLearnset(pokemon.id), [pokemon.id])
+  if (moves.length === 0) return null
+
+  return (
+    <div className="move-table-wrap">
+      <table className="move-table">
+        <thead>
+          <tr>
+            <th>Level</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Cat.</th>
+            <th>Pow.</th>
+            <th>Acc.</th>
+            <th>PP</th>
+          </tr>
+        </thead>
+        <tbody>
+          {moves.map(({ move, level, type, category, power, accuracy, pp }, i) => (
+            <tr key={i}>
+              <td>{level}</td>
+              <td>{move}</td>
+              <td>
+                {type && typeSprite[type.toLowerCase()]
+                  ? <img src={typeSprite[type.toLowerCase()]} alt={type} className="move-type-badge" />
+                  : type ?? ''}
+              </td>
+              <td>
+                {category && categorySprite[category.toLowerCase()]
+                  ? <img src={categorySprite[category.toLowerCase()]} alt={category} className="move-type-badge" />
+                  : category ?? ''}
+              </td>
+              <td>{power ? power : '—'}</td>
+              <td>{accuracy ? accuracy : '—'}</td>
+              <td>{pp ?? ''}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   )
 }
@@ -108,6 +156,7 @@ function PokemonDetail({ pokemon, onSelect }) {
 
       <StatGraph pokemon={pokemon} />
       <EvolutionChain pokemon={pokemon} onSelect={onSelect} />
+      <MoveTable pokemon={pokemon} />
     </div>
   )
 }

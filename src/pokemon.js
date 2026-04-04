@@ -1,14 +1,24 @@
 import csvText from '../assets/docs/Personal.csv?raw'
 import evoCsvText from '../assets/docs/Evolutions.csv?raw'
+import learnsetCsvText from '../assets/docs/Learnsets.csv?raw'
+import movesCsvText from '../assets/docs/Moves.csv?raw'
 
 // Type sprites — keyed by lowercase type name
 const typeModules = import.meta.glob('../assets/sprites/types/*.png', { eager: true })
 export const typeSprite = {}
 for (const [path, mod] of Object.entries(typeModules)) {
   const filename = path.split('/').pop()
-  // Filename format: "{n}_{type}.png"
   const typeName = filename.replace(/^\d+_/, '').replace('.png', '')
   typeSprite[typeName] = mod.default
+}
+
+// Category sprites — keyed by lowercase category name (physical, special, status)
+const categoryModules = import.meta.glob('../assets/sprites/categories/*.png', { eager: true })
+export const categorySprite = {}
+for (const [path, mod] of Object.entries(categoryModules)) {
+  const filename = path.split('/').pop()
+  const categoryName = filename.replace('.png', '')
+  categorySprite[categoryName] = mod.default
 }
 
 // Form entries (IDs 494+) don't have matching sprite IDs — map them manually
@@ -243,6 +253,56 @@ export function getEvoChain(pokemonId) {
   }
 
   return chain.length > 1 ? { chain, transitions } : null
+}
+
+// --- Moves ---
+
+// lowercase name → { type, category, power, accuracy, pp }
+const moveDataByName = {}
+
+movesCsvText
+  .trim()
+  .split('\n')
+  .slice(1)
+  .forEach(line => {
+    const parts = line.split(',')
+    const name = parts[1]?.trim()
+    if (!name || name === '-') return
+    moveDataByName[name.toLowerCase()] = {
+      category: parts[3]?.trim() ?? '',
+      power:    parseInt(parts[4]) || 0,
+      type:     parts[5]?.trim() ?? '',
+      accuracy: parseInt(parts[6]) || 0,
+      pp:       parseInt(parts[7]) || 0,
+    }
+  })
+
+// --- Learnsets ---
+
+// id → [{ move, level, type, category, power, accuracy, pp }]
+const learnsetById = {}
+
+learnsetCsvText
+  .trim()
+  .split('\n')
+  .slice(1)
+  .forEach(line => {
+    const parts = line.split(',')
+    const id = parseInt(parts[0])
+    const moves = []
+    // Pairs start at column 2: (move, level), (move, level), ...
+    for (let i = 2; i < parts.length - 1; i += 2) {
+      const move = parts[i]?.trim()
+      const level = parseInt(parts[i + 1])
+      if (!move) continue
+      const data = moveDataByName[move.toLowerCase()] ?? {}
+      moves.push({ move, level, ...data })
+    }
+    learnsetById[id] = moves
+  })
+
+export function getLearnset(pokemonId) {
+  return learnsetById[pokemonId] ?? []
 }
 
 export function search(query) {
