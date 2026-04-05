@@ -410,6 +410,17 @@
   background: rgba(0, 0, 0, 0.05);
 }
 
+.evo-branches {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.evo-branch {
+  display: flex;
+  align-items: center;
+}
+
 /* Arrow + method label */
 .evo-transition {
   display: flex;

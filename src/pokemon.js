@@ -223,8 +223,11 @@ for (const [id, { evolutions }] of Object.entries(evoById)) {
 // Fast lookup: id → full pokemon data (sprite, displayName, etc.)
 export const pokemonById = Object.fromEntries(ALL_POKEMON.map(p => [p.id, p]))
 
-// Returns the full linear evolution chain for a given pokemon ID, or null for
-// pokemon with branching evolutions or chains of length < 2.
+// Returns the evolution chain for a given pokemon ID, or null for chains of
+// length < 2. For branching chains, shows all branches when the selected
+// pokemon is at/before the branch point, or only the relevant branch otherwise.
+// Return shape: { chain, transitions, branches } where branches is null for
+// linear chains, or an array of { member, transition } for branching chains.
 export function getEvoChain(pokemonId) {
   // Walk backwards to find the root of the chain
   let rootId = pokemonId
@@ -236,6 +239,21 @@ export function getEvoChain(pokemonId) {
     const prevId = prevEvoById[entry.name.toLowerCase()]
     if (prevId === undefined || seen.has(prevId)) break
     rootId = prevId
+  }
+
+  // Pre-compute all ancestors of the selected pokemon (including itself) so
+  // we can determine which branch leads to it when skipping alternate paths.
+  const ancestorsOfSelected = new Set()
+  {
+    let id = pokemonId
+    const walked = new Set()
+    while (id !== undefined && !walked.has(id)) {
+      ancestorsOfSelected.add(id)
+      walked.add(id)
+      const entry = evoById[id]
+      if (!entry) break
+      id = prevEvoById[entry.name.toLowerCase()]
+    }
   }
 
   // Walk forward from root, building chain + transitions
@@ -251,16 +269,51 @@ export function getEvoChain(pokemonId) {
     const entry = evoById[currentId]
     if (!entry) break
 
-    // Branching: multiple distinct result pokemon
-    const distinctResults = new Set(entry.evolutions.map(e => e.result.toLowerCase()))
-    if (distinctResults.size > 1) return null
-
     const pkData = pokemonById[currentId]
-    chain.push({
+    const member = {
       id: currentId,
       displayName: pkData?.displayName ?? formatName(entry.name),
       sprite: pkData?.sprite ?? null,
-    })
+    }
+
+    const distinctResults = [...new Set(entry.evolutions.map(e => e.result.toLowerCase()))]
+
+    if (distinctResults.length > 1) {
+      chain.push(member)
+
+      if (chain.some(m => m.id === pokemonId)) {
+        // Selected pokemon is at or before this branch — show all branches
+        const branches = distinctResults.map(result => {
+          const branchId = nameToEvoId[result]
+          if (branchId === undefined) return null
+          const branchPkData = pokemonById[branchId]
+          const branchEntry = evoById[branchId]
+          const evo = entry.evolutions.find(e => e.result.toLowerCase() === result)
+          return {
+            member: {
+              id: branchId,
+              displayName: branchPkData?.displayName ?? (branchEntry ? formatName(branchEntry.name) : result),
+              sprite: branchPkData?.sprite ?? null,
+            },
+            transition: evo ? { method: evo.method, required: evo.required } : null,
+          }
+        }).filter(Boolean)
+        return { chain, transitions, branches }
+      } else {
+        // Selected pokemon is in one branch — follow only that branch
+        const targetResult = distinctResults.find(result => {
+          const branchId = nameToEvoId[result]
+          return branchId !== undefined && ancestorsOfSelected.has(branchId)
+        })
+        if (!targetResult) break
+        const evo = entry.evolutions.find(e => e.result.toLowerCase() === targetResult)
+        if (evo) transitions.push({ method: evo.method, required: evo.required })
+        currentId = nameToEvoId[targetResult]
+        continue
+      }
+    }
+
+    chain.push(member)
 
     if (entry.evolutions.length === 0) break
 
@@ -272,7 +325,7 @@ export function getEvoChain(pokemonId) {
     currentId = nextId
   }
 
-  return chain.length > 1 ? { chain, transitions } : null
+  return chain.length > 1 ? { chain, transitions, branches: null } : null
 }
 
 // --- Moves ---

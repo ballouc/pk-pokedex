@@ -127,34 +127,54 @@ function EvolutionChain({ pokemon, onSelect }) {
   const chain = useMemo(() => getEvoChain(pokemon.id), [pokemon.id])
   if (!chain) return null
 
+  function renderMember(member) {
+    const isCurrent = member.id === pokemon.id
+    return (
+      <div
+        className={`evo-member${isCurrent ? ' evo-member--current' : ' evo-member--selectable'}`}
+        onClick={!isCurrent ? () => onSelect(pokemonById[member.id]) : undefined}
+      >
+        {member.sprite
+          ? <img src={member.sprite} alt={member.displayName} />
+          : <div className="evo-member-placeholder" />
+        }
+        <span className="evo-member-name">{member.displayName}</span>
+      </div>
+    )
+  }
+
+  function renderTransition(transition) {
+    if (!transition) return null
+    return (
+      <div className="evo-transition">
+        <div className="evo-arrow">
+          {transition.required && transition.required !== '0' ? transition.required : null}
+        </div>
+        <span className="evo-method">{transition.method}</span>
+      </div>
+    )
+  }
+
   return (
     <div className="evo-section">
       <div className="evo-chain">
         {chain.chain.map((member, i) => (
           <Fragment key={member.id}>
-            <div
-              className={`evo-member${member.id === pokemon.id ? ' evo-member--current' : ' evo-member--selectable'}`}
-              onClick={member.id !== pokemon.id ? () => onSelect(pokemonById[member.id]) : undefined}
-            >
-              {member.sprite
-                ? <img src={member.sprite} alt={member.displayName} />
-                : <div className="evo-member-placeholder" />
-              }
-              <span className="evo-member-name">{member.displayName}</span>
-            </div>
-
-            {i < chain.transitions.length && (
-              <div className="evo-transition">
-                <div className="evo-arrow">
-                  {chain.transitions[i].required && chain.transitions[i].required !== '0'
-                    ? chain.transitions[i].required
-                    : null}
-                </div>
-                <span className="evo-method">{chain.transitions[i].method}</span>
-              </div>
-            )}
+            {renderMember(member)}
+            {i < chain.chain.length - 1 && renderTransition(chain.transitions[i])}
           </Fragment>
         ))}
+
+        {chain.branches && (
+          <div className="evo-branches">
+            {chain.branches.map(branch => (
+              <div key={branch.member.id} className="evo-branch">
+                {renderTransition(branch.transition)}
+                {renderMember(branch.member)}
+              </div>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   )
