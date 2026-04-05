@@ -284,10 +284,48 @@
   white-space: nowrap;
 }
 
+/* Info tabs (Learnset / Locations) */
+.info-tabs {
+  border-top: 1px solid var(--color-border);
+}
+
+.tab-bar {
+  display: flex;
+  padding: 0 5%;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.tab-btn {
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.tab-btn--active {
+  color: var(--color-brand);
+  border-bottom-color: var(--color-brand);
+}
+
+.tab-btn:hover:not(.tab-btn--active) {
+  color: #666;
+}
+
+.locations-placeholder {
+  padding: 16px 5%;
+  font-size: 13px;
+  color: #aaa;
+  line-height: 1.6;
+}
+
 /* Move table */
 .move-table-wrap {
   padding: 0 5%;
-  border-top: 1px solid var(--color-border);
 }
 
 .move-table {
@@ -467,4 +505,11 @@
   max-width: 80px;
   text-align: center;
   line-height: 1.2;
+}
+
+.evo-or {
+  font-size: 9px;
+  color: #ccc;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }

@@ -143,14 +143,19 @@ function EvolutionChain({ pokemon, onSelect }) {
     )
   }
 
-  function renderTransition(transition) {
-    if (!transition) return null
+  function renderTransition(methods) {
+    if (!methods || methods.length === 0) return null
     return (
       <div className="evo-transition">
-        <div className="evo-arrow">
-          {transition.required && transition.required !== '0' ? transition.required : null}
-        </div>
-        <span className="evo-method">{transition.method}</span>
+        {methods.map((m, i) => (
+          <Fragment key={i}>
+            {i > 0 && <span className="evo-or">or</span>}
+            <div className="evo-arrow">
+              {m.required && m.required !== '0' ? m.required : null}
+            </div>
+            <span className="evo-method">{m.method}</span>
+          </Fragment>
+        ))}
       </div>
     )
   }
@@ -176,6 +181,37 @@ function EvolutionChain({ pokemon, onSelect }) {
           </div>
         )}
       </div>
+    </div>
+  )
+}
+
+function InfoTabs({ pokemon }) {
+  const [tab, setTab] = useState('learnset')
+
+  return (
+    <div className="info-tabs">
+      <div className="tab-bar">
+        <button
+          className={`tab-btn${tab === 'learnset' ? ' tab-btn--active' : ''}`}
+          onClick={() => setTab('learnset')}
+        >
+          Learnset
+        </button>
+        <button
+          className={`tab-btn${tab === 'locations' ? ' tab-btn--active' : ''}`}
+          onClick={() => setTab('locations')}
+        >
+          Locations
+        </button>
+      </div>
+      {tab === 'learnset' && <MoveTable pokemon={pokemon} />}
+      {tab === 'locations' && (
+        <p className="locations-placeholder">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+      )}
     </div>
   )
 }
@@ -207,7 +243,7 @@ function PokemonDetail({ pokemon, onSelect }) {
 
       <StatGraph pokemon={pokemon} />
       <EvolutionChain pokemon={pokemon} onSelect={onSelect} />
-      <MoveTable pokemon={pokemon} />
+      <InfoTabs key={pokemon.id} pokemon={pokemon} />
     </div>
   )
 }

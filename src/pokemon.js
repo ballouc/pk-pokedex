@@ -278,6 +278,15 @@ export function getEvoChain(pokemonId) {
 
     const distinctResults = [...new Set(entry.evolutions.map(e => e.result.toLowerCase()))]
 
+    // Collect unique (method, required) pairs for a set of evolution entries
+    function methodsFor(evos) {
+      const seen = new Set()
+      return evos.filter(e => {
+        const key = `${e.method}|${e.required}`
+        return seen.has(key) ? false : (seen.add(key), true)
+      }).map(e => ({ method: e.method, required: e.required }))
+    }
+
     if (distinctResults.length > 1) {
       chain.push(member)
 
@@ -288,14 +297,14 @@ export function getEvoChain(pokemonId) {
           if (branchId === undefined) return null
           const branchPkData = pokemonById[branchId]
           const branchEntry = evoById[branchId]
-          const evo = entry.evolutions.find(e => e.result.toLowerCase() === result)
+          const evosForResult = entry.evolutions.filter(e => e.result.toLowerCase() === result)
           return {
             member: {
               id: branchId,
               displayName: branchPkData?.displayName ?? (branchEntry ? formatName(branchEntry.name) : result),
               sprite: branchPkData?.sprite ?? null,
             },
-            transition: evo ? { method: evo.method, required: evo.required } : null,
+            transition: methodsFor(evosForResult),
           }
         }).filter(Boolean)
         return { chain, transitions, branches }
@@ -306,8 +315,8 @@ export function getEvoChain(pokemonId) {
           return branchId !== undefined && ancestorsOfSelected.has(branchId)
         })
         if (!targetResult) break
-        const evo = entry.evolutions.find(e => e.result.toLowerCase() === targetResult)
-        if (evo) transitions.push({ method: evo.method, required: evo.required })
+        const evosForResult = entry.evolutions.filter(e => e.result.toLowerCase() === targetResult)
+        transitions.push(methodsFor(evosForResult))
         currentId = nameToEvoId[targetResult]
         continue
       }
@@ -317,10 +326,9 @@ export function getEvoChain(pokemonId) {
 
     if (entry.evolutions.length === 0) break
 
-    const evo = entry.evolutions[0]
-    transitions.push({ method: evo.method, required: evo.required })
+    transitions.push(methodsFor(entry.evolutions))
 
-    const nextId = nameToEvoId[evo.result.toLowerCase()]
+    const nextId = nameToEvoId[entry.evolutions[0].result.toLowerCase()]
     if (nextId === undefined) break
     currentId = nextId
   }
