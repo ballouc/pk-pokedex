@@ -1,5 +1,5 @@
 import { useState, useMemo, useRef, useEffect, Fragment } from 'react'
-import { search, typeSprite, categorySprite, getEvoChain, pokemonById, getLearnset } from './pokemon'
+import { search, typeSprite, categorySprite, getEvoChain, pokemonById, getLearnset, getEncounters } from './pokemon'
 import './App.css'
 
 const STAT_MAX = 255
@@ -205,13 +205,28 @@ function InfoTabs({ pokemon }) {
         </button>
       </div>
       {tab === 'learnset' && <MoveTable pokemon={pokemon} />}
-      {tab === 'locations' && (
-        <p className="locations-placeholder">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        </p>
-      )}
+      {tab === 'locations' && (() => {
+        const encounters = getEncounters(pokemon.baseName)
+        if (encounters.length === 0) {
+          return <p className="locations-placeholder">No location data available.</p>
+        }
+        return (
+          <table className="locations-table">
+            <tbody>
+              {encounters.map((enc, i) => (
+                <tr key={i}>
+                  <td className="loc-rate">{enc.rate}%</td>
+                  <td className="loc-name">{enc.locationName}</td>
+                  <td className="loc-level">
+                    {enc.minLevel === enc.maxLevel ? enc.maxLevel : `${enc.minLevel}–${enc.maxLevel}`}
+                  </td>
+                  <td className="loc-method">{enc.method}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )
+      })()}
     </div>
   )
 }

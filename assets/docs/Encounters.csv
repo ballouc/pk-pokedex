@@ -1,0 +1,3095 @@
+location_id,location_name,method,rod,time_of_day,encounter_rate,pokemon,min_level,max_level
+176,Twinleaf Town,grass,,any,20,Farfetch’d,8,8
+140,Route 201,grass,,any,20,Igglybuff,4,4
+140,Verity Lakefront,grass,,any,20,Igglybuff,4,4
+134,Lake Verity,grass,,any,20,Spheal,3,3
+135,Lake Verity,grass,,any,20,Spheal,4,4
+187,Sandgem Town,grass,,any,20,Glameow,5,5
+141,Route 202,grass,,any,20,Sentret,5,5
+143,Route 204 South,grass,,any,20,Burmy,9,9
+53,Ravaged Path,grass,,any,20,Zubat,7,7
+167,Route 218,grass,,any,20,Wurmple,30,30
+142,Route 203,grass,,any,20,Bidoof,8,8
+54,Oreburgh Gate 1F,grass,,any,20,Teddiursa,5,5
+55,Oreburgh Gate B1F,grass,,any,20,Machop,15,15
+183,Oreburgh City,grass,,any,20,Grimer,10,10
+148,Route 207,grass,,any,20,Magby,11,11
+5,Oreburgh Mine,grass,,any,20,Magby,10,10
+184,Jubilife City,grass,,any,20,Grimer,16,16
+144,Route 204 North,grass,,any,20,Bulbasaur,14,14
+185,Floaroma Town,grass,,any,20,Silcoon,15,15
+7,Valley Windworks,grass,,any,20,Spearow,17,17
+145,Route 205 South,grass,,any,20,Starly,15,15
+8,Eterna Forest,grass,,any,20,Buneary,23,23
+146,Route 205 North,grass,,any,20,Buizel,20,20
+1,Eterna City,grass,,any,20,Gloom,20,20
+158,Route 211 West,grass,,any,20,Ralts,17,17
+147,Route 206,grass,,any,20,Nuzleaf,23,23
+10,Mt. Coronet 1F,grass,,any,20,Chimecho,24,24
+149,Route 208,grass,,any,20,Tyrogue,18,18
+,Amity Square,grass,,any,20,Skitty,20,20
+150,Route 209,grass,,any,20,Kricketune,36,36
+188,Solaceon Town,grass,,any,20,Flaaffy,38,38
+31,Solaceon Ruins,grass,,any,20,Baltoy,37,37
+156,Route 210 South,grass,,any,20,Mothim,41,41
+164,Route 215,grass,,any,20,Azumarill,42,42
+163,Route 214,grass,,any,20,Graveler,45,45
+116,Maniac Tunnel,grass,,any,20,Sandslash,45,45
+138,Valor Lakefront,grass,,any,20,Staraptor,47,47
+197,Restaurant,grass,,any,20,Rattata,15,15
+162,Route 213,grass,,any,20,Swellow,100,100
+2,Pastoria City,grass,,any,20,Gastrodon,49,49
+23,Great Marsh,grass,,any,20,Kecleon,50,50
+24,Great Marsh,grass,,any,20,Seviper,50,50
+25,Great Marsh,grass,,any,20,Drowzee,50,50
+26,Great Marsh,grass,,any,20,Lopunny,50,50
+27,Great Marsh,grass,,any,20,Linoone,50,50
+28,Great Marsh,grass,,any,20,Zangoose,50,50
+9,Fuego Ironworks,grass,,any,20,Manectric,55,55
+196,Floroma Meadow,grass,,any,20,Roselia,60,60
+157,Clamberclaw Cliffs,grass,,any,20,Kecleon,45,45
+177,Celestic Town,grass,,any,20,Wigglytuff,55,55
+159,Route 211,grass,,any,20,Torkoal,55,55
+21,Mt. Coronet,grass,,any,20,Chimecho,65,65
+122,Iron Island,grass,,any,20,Delibird,56,56
+123,Iron Island,grass,,any,20,Sandslash,56,56
+124,Iron Island,grass,,any,20,Mawile,56,56
+198,Underground,grass,,any,20,Diglett,45,45
+199,Underground,grass,,any,20,Bellossom,45,45
+200,Underground,grass,,any,20,Torkoal,45,45
+201,Underground,grass,,any,20,Snorunt,45,45
+125,Old Chateau,grass,,any,20,Gastly,46,46
+126,Old Chateau,grass,,any,20,Sableye,46,46
+127,Old Chateau,grass,,any,20,Gastly,36,36
+128,Old Chateau,grass,,any,20,Haunter,46,46
+129,Old Chateau,grass,,any,20,Gastly,14,14
+130,Old Chateau,grass,,any,20,Drowzee,46,46
+131,Old Chateau,grass,,any,20,Drowzee,46,46
+132,Old Chateau,grass,,any,20,Misdreavus,46,46
+133,Old Chateau,grass,,any,20,Misdreavus,46,46
+151,Lost Tower 1F,grass,,any,20,Whismur,24,24
+152,Lost Tower 2F,grass,,any,20,Raticate,46,46
+153,Lost Tower 3F,grass,,any,20,Golbat,66,66
+154,Lost Tower 4F,grass,,any,20,Persian,78,78
+155,Lost Tower 5F,grass,,any,20,Crobat,86,86
+195,Lake Valor,grass,,any,20,Magikarp,44,44
+20,Mt. Coronet,grass,,any,20,Chimecho,65,65
+21,Mt. Coronet,grass,,any,20,Chimecho,65,65
+165,Route 216,grass,,any,20,Mightyena,65,65
+166,Route 217,grass,,any,20,Ursaring,70,70
+139,Acuity Lakefront,grass,,any,20,Absol,65,65
+107,Snowpoint Temple,grass,,any,20,Mawile,75,75
+108,Snowpoint Temple,grass,,any,20,Mawile,75,75
+109,Snowpoint Temple,grass,,any,20,Mawile,75,75
+110,Snowpoint Temple,grass,,any,20,Mawile,75,75
+111,Snowpoint Temple,grass,,any,20,Mawile,75,75
+172,Route 225,grass,,any,20,Mawile,65,65
+173,Route 227,grass,,any,20,Spinda,55,55
+174,Route 228,grass,,any,20,Quagsire,55,55
+175,Route 229,grass,,any,20,Volbeat,65,65
+181,Route 226,grass,,any,20,Machoke,55,55
+182,Route 230,grass,,any,20,Togepi,55,55
+56,Stark Mountain,grass,,any,20,Rapidash,95,95
+57,Stark Mountain,grass,,any,20,Torkoal,90,90
+170,Route 222,grass,,any,20,Chatot,50,50
+3,Sunyshore City,grass,,any,20,Wingull,85,85
+169,Route 221,grass,,any,20,Miltank,90,90
+161,Route 212,grass,,any,20,Stantler,55,55
+113,Wayward Cave,grass,,any,20,Spinda,55,55
+112,Wayward Cave,grass,,any,20,Rhydon,75,75
+137,Lake Acuity,grass,,any,20,Absol,65,65
+11,Mt Coronet 2f,grass,,any,20,Electrode,90,90
+12,Mt Coronet 3f,grass,,any,20,Wobbuffet,90,90
+13,Coronet Highlands,grass,,any,20,Absol,100,100
+14,Coronet Highlands,grass,,any,20,Absol,100,100
+15,Coronet Highlands,grass,,any,20,Dugtrio,100,100
+16,Coronet Highlands,grass,,any,20,Wobbuffet,100,100
+19,Celestica Ruins,grass,,any,20,Bagon,65,65
+17,Coronet Highlands,grass,,any,20,Wobbuffet,100,100
+18,Coronet Highlands,grass,,any,20,Wobbuffet,100,100
+190,Distortion World Area 1,grass,,any,20,Nidoking,55,55
+191,Distortion World Area 2,grass,,any,20,Crobat,100,100
+192,Distortion World Area 3,grass,,any,20,Dugtrio,65,65
+59,Sendoff Spring,grass,,any,20,Gengar,65,65
+63,Turnback Cave,grass,,any,20,Chingling,66,66
+79,Turnback Cave,grass,,any,20,Sableye,66,66
+59,Sendoff Spring,grass,,any,20,Gengar,65,65
+47,Victory Road,grass,,any,20,Mightyena,97,97
+48,Victory Road,grass,,any,20,Nidoking,100,100
+49,Victory Road,grass,,any,20,Aggron,100,100
+50,Victory Road,grass,,any,20,Aggron,100,100
+51,Victory Road,grass,,any,20,Aggron,100,100
+52,Victory Road,grass,,any,20,Wobbuffet,100,100
+171,Route 224,grass,,any,20,Meganium,65,65
+136,Lake Valor,grass,,any,20,Stantler,75,75
+4,Pokémon League,grass,,any,20,Torterra,75,75
+176,Twinleaf Town,grass,,any,20,Delibird,8,8
+140,Route 201,grass,,any,20,Delibird,4,4
+140,Verity Lakefront,grass,,any,20,Delibird,4,4
+134,Lake Verity,grass,,any,20,Bidoof,3,3
+135,Lake Verity,grass,,any,20,Bidoof,4,4
+187,Sandgem Town,grass,,any,20,Igglybuff,5,5
+141,Route 202,grass,,any,20,Burmy,5,5
+143,Route 204 South,grass,,any,20,Seedot,9,9
+53,Ravaged Path,grass,,any,20,Sandshrew,7,7
+167,Route 218,grass,,any,20,Sealeo,30,30
+142,Route 203,grass,,any,20,Shinx,8,8
+54,Oreburgh Gate 1F,grass,,any,20,Chingling,5,5
+55,Oreburgh Gate B1F,grass,,any,20,Geodude,5,5
+183,Oreburgh City,grass,,any,20,Koffing,10,10
+148,Route 207,grass,,any,20,Vulpix,11,11
+5,Oreburgh Mine,grass,,any,20,Sandshrew,10,10
+184,Jubilife City,grass,,any,20,Koffing,16,16
+144,Route 204 North,grass,,any,20,Chikorita,14,14
+185,Floaroma Town,grass,,any,20,Cascoon,15,15
+7,Valley Windworks,grass,,any,20,Hoppip,17,17
+145,Route 205 South,grass,,any,20,Bidoof,15,15
+8,Eterna Forest,grass,,any,20,Roselia,23,23
+146,Route 205 North,grass,,any,20,Pachirisu,20,20
+1,Eterna City,grass,,any,20,Weepinbell,20,20
+158,Route 211 West,grass,,any,20,Chingling,17,17
+147,Route 206,grass,,any,20,Phanpy,23,23
+10,Mt. Coronet 1F,grass,,any,20,Geodude,24,24
+149,Route 208,grass,,any,20,Linoone,18,18
+,Amity Square,grass,,any,20,Jigglypuff,20,20
+150,Route 209,grass,,any,20,Mareep,36,36
+188,Solaceon Town,grass,,any,20,Grumpig,38,38
+31,Solaceon Ruins,grass,,any,20,Xatu,37,37
+156,Route 210 South,grass,,any,20,Venomoth,41,41
+164,Route 215,grass,,any,20,Golduck,42,42
+163,Route 214,grass,,any,20,Machoke,45,45
+116,Maniac Tunnel,grass,,any,20,Geodude,45,45
+138,Valor Lakefront,grass,,any,20,Rapidash,47,47
+197,Restaurant,grass,,any,20,Rattata,25,25
+162,Route 213,grass,,any,20,Tropius,100,100
+2,Pastoria City,grass,,any,20,Croagunk,49,49
+23,Great Marsh,grass,,any,20,Scyther,50,50
+24,Great Marsh,grass,,any,20,Absol,50,50
+25,Great Marsh,grass,,any,20,Stantler,50,50
+26,Great Marsh,grass,,any,20,Carnivine,50,50
+27,Great Marsh,grass,,any,20,Pinsir,50,50
+28,Great Marsh,grass,,any,20,Venusaur,50,50
+9,Fuego Ironworks,grass,,any,20,Torkoal,55,55
+196,Floroma Meadow,grass,,any,20,Bellossom,60,60
+157,Clamberclaw Cliffs,grass,,any,20,Mothim,45,45
+177,Celestic Town,grass,,any,20,Delcatty,55,55
+159,Route 211,grass,,any,20,Chimecho,55,55
+21,Mt. Coronet,grass,,any,20,Nosepass,65,65
+122,Iron Island,grass,,any,20,Sudowoodo,56,56
+123,Iron Island,grass,,any,20,Graveler,56,56
+124,Iron Island,grass,,any,20,Hariyama,56,56
+198,Underground,grass,,any,20,Sandshrew,45,45
+199,Underground,grass,,any,20,Sudowoodo,45,45
+200,Underground,grass,,any,20,Kecleon,45,45
+201,Underground,grass,,any,20,Spinda,45,45
+125,Old Chateau,grass,,any,20,Gastly,16,16
+126,Old Chateau,grass,,any,20,Snorunt,16,16
+127,Old Chateau,grass,,any,20,Gastly,36,36
+128,Old Chateau,grass,,any,20,Gastly,16,16
+129,Old Chateau,grass,,any,20,Gastly,15,15
+130,Old Chateau,grass,,any,20,Gastly,16,16
+131,Old Chateau,grass,,any,20,Gastly,16,16
+132,Old Chateau,grass,,any,20,Gastly,16,16
+133,Old Chateau,grass,,any,20,Gastly,16,16
+151,Lost Tower 1F,grass,,any,20,Whismur,24,24
+152,Lost Tower 2F,grass,,any,20,Chimecho,46,46
+153,Lost Tower 3F,grass,,any,20,Golbat,66,66
+154,Lost Tower 4F,grass,,any,20,Golbat,78,78
+155,Lost Tower 5F,grass,,any,20,Hypno,86,86
+195,Lake Valor,grass,,any,20,Magikarp,33,33
+20,Mt. Coronet,grass,,any,20,Nosepass,65,65
+21,Mt. Coronet,grass,,any,20,Nosepass,65,65
+165,Route 216,grass,,any,20,Machoke,65,65
+166,Route 217,grass,,any,20,Piloswine,70,70
+139,Acuity Lakefront,grass,,any,20,Ursaring,65,65
+107,Snowpoint Temple,grass,,any,20,Bronzor,75,75
+108,Snowpoint Temple,grass,,any,20,Bronzor,75,75
+109,Snowpoint Temple,grass,,any,20,Bronzor,75,75
+110,Snowpoint Temple,grass,,any,20,Bronzor,75,75
+111,Snowpoint Temple,grass,,any,20,Bronzor,75,75
+172,Route 225,grass,,any,20,Carnivine,65,65
+173,Route 227,grass,,any,20,Cacnea,55,55
+174,Route 228,grass,,any,20,Gastrodon,55,55
+175,Route 229,grass,,any,20,Illumise,65,65
+181,Route 226,grass,,any,20,Graveler,55,55
+182,Route 230,grass,,any,20,Jigglypuff,55,55
+56,Stark Mountain,grass,,any,20,Rhydon,95,95
+57,Stark Mountain,grass,,any,20,Donphan,90,90
+170,Route 222,grass,,any,20,Pachirisu,50,50
+3,Sunyshore City,grass,,any,20,Pelipper,85,85
+169,Route 221,grass,,any,20,Roserade,90,90
+161,Route 212,grass,,any,20,Lickitung,55,55
+113,Wayward Cave,grass,,any,20,Sandslash,55,55
+112,Wayward Cave,grass,,any,20,Lairon,75,75
+137,Lake Acuity,grass,,any,20,Ursaring,65,65
+11,Mt Coronet 2f,grass,,any,20,Dugtrio,90,90
+12,Mt Coronet 3f,grass,,any,20,Electrode,90,90
+13,Coronet Highlands,grass,,any,20,Glalie,100,100
+14,Coronet Highlands,grass,,any,20,Gengar,100,100
+15,Coronet Highlands,grass,,any,20,Electrode,100,100
+16,Coronet Highlands,grass,,any,20,Crobat,100,100
+19,Celestica Ruins,grass,,any,20,Larvitar,65,65
+17,Coronet Highlands,grass,,any,20,Gengar,100,100
+18,Coronet Highlands,grass,,any,20,Gengar,100,100
+190,Distortion World Area 1,grass,,any,20,Nidoqueen,55,55
+191,Distortion World Area 2,grass,,any,20,Electrode,100,100
+192,Distortion World Area 3,grass,,any,20,Wobbuffet,65,65
+59,Sendoff Spring,grass,,any,20,Altaria,65,65
+63,Turnback Cave,grass,,any,20,Bronzor,66,66
+79,Turnback Cave,grass,,any,20,Sableye,66,66
+59,Sendoff Spring,grass,,any,20,Altaria,65,65
+47,Victory Road,grass,,any,20,Granbull,97,97
+48,Victory Road,grass,,any,20,Nidoqueen,100,100
+49,Victory Road,grass,,any,20,Persian,100,100
+50,Victory Road,grass,,any,20,Persian,100,100
+51,Victory Road,grass,,any,20,Ursaring,100,100
+52,Victory Road,grass,,any,20,Gengar,100,100
+171,Route 224,grass,,any,20,Venusaur,65,65
+136,Lake Valor,grass,,any,20,Staraptor,80,80
+4,Pokémon League,grass,,any,20,Eevee,75,75
+176,Twinleaf Town,grass,,any,10,Mime Jr.,8,8
+140,Route 201,grass,,any,10,Zigzagoon,4,4
+140,Verity Lakefront,grass,,any,10,Zigzagoon,4,4
+134,Lake Verity,grass,,any,10,Shinx,3,3
+135,Lake Verity,grass,,any,10,Shinx,4,4
+187,Sandgem Town,grass,,any,10,Skitty,5,5
+141,Route 202,grass,,any,10,Pidgey,5,5
+143,Route 204 South,grass,,any,10,Shroomish,9,9
+53,Ravaged Path,grass,,any,10,Makuhita,7,7
+167,Route 218,grass,,any,10,Mr. Mime,30,30
+142,Route 203,grass,,any,10,Natu,8,8
+54,Oreburgh Gate 1F,grass,,any,10,Zubat,5,5
+55,Oreburgh Gate B1F,grass,,any,10,Zubat,5,5
+183,Oreburgh City,grass,,any,10,Rattata,10,10
+148,Route 207,grass,,any,10,Growlithe,11,11
+5,Oreburgh Mine,grass,,any,10,Geodude,10,10
+184,Jubilife City,grass,,any,10,Meowth,16,16
+144,Route 204 North,grass,,any,10,Shroomish,14,14
+185,Floaroma Town,grass,,any,10,Caterpie,6,6
+7,Valley Windworks,grass,,any,10,Natu,17,17
+145,Route 205 South,grass,,any,10,Ekans,17,17
+8,Eterna Forest,grass,,any,10,Wormadam,23,23
+146,Route 205 North,grass,,any,10,Ekans,20,20
+1,Eterna City,grass,,any,10,Meowth,20,20
+158,Route 211 West,grass,,any,10,Spoink,17,17
+147,Route 206,grass,,any,10,Stunky,23,23
+10,Mt. Coronet 1F,grass,,any,10,Spoink,24,24
+149,Route 208,grass,,any,10,Spoink,19,19
+,Amity Square,grass,,any,10,Chikorita,20,20
+150,Route 209,grass,,any,10,Mankey,36,36
+188,Solaceon Town,grass,,any,10,Rapidash,38,38
+31,Solaceon Ruins,grass,,any,10,Anorith,37,37
+156,Route 210 South,grass,,any,10,Rapidash,41,41
+164,Route 215,grass,,any,10,Lickitung,42,42
+163,Route 214,grass,,any,10,Mightyena,45,45
+116,Maniac Tunnel,grass,,any,10,Hariyama,45,45
+138,Valor Lakefront,grass,,any,10,Arcanine,47,47
+197,Restaurant,grass,,any,10,Rattata,20,20
+162,Route 213,grass,,any,10,Wobbuffet,100,100
+2,Pastoria City,grass,,any,10,Croagunk,49,49
+23,Great Marsh,grass,,any,10,Shuckle,50,50
+24,Great Marsh,grass,,any,10,Shuckle,50,50
+25,Great Marsh,grass,,any,10,Absol,50,50
+26,Great Marsh,grass,,any,10,Absol,50,50
+27,Great Marsh,grass,,any,10,Carnivine,50,50
+28,Great Marsh,grass,,any,10,Shiftry,50,50
+9,Fuego Ironworks,grass,,any,10,Electrode,55,55
+196,Floroma Meadow,grass,,any,10,Meganium,60,60
+157,Clamberclaw Cliffs,grass,,any,10,Weezing,45,45
+177,Celestic Town,grass,,any,10,Chatot,55,55
+159,Route 211,grass,,any,10,Weezing,55,55
+21,Mt. Coronet,grass,,any,10,Stantler,65,65
+122,Iron Island,grass,,any,10,Donphan,56,56
+123,Iron Island,grass,,any,10,Shuckle,56,56
+124,Iron Island,grass,,any,10,Rhydon,56,56
+198,Underground,grass,,any,10,Nidoran♀,45,45
+199,Underground,grass,,any,10,Croagunk,45,45
+200,Underground,grass,,any,10,Charmeleon,45,45
+201,Underground,grass,,any,10,Zubat,45,45
+125,Old Chateau,grass,,any,10,Misdreavus,16,16
+126,Old Chateau,grass,,any,10,Misdreavus,16,16
+127,Old Chateau,grass,,any,10,Shuppet,36,36
+128,Old Chateau,grass,,any,10,Misdreavus,16,16
+129,Old Chateau,grass,,any,10,Gastly,16,16
+130,Old Chateau,grass,,any,10,Misdreavus,16,16
+131,Old Chateau,grass,,any,10,Misdreavus,16,16
+132,Old Chateau,grass,,any,10,Misdreavus,16,16
+133,Old Chateau,grass,,any,10,Misdreavus,16,16
+151,Lost Tower 1F,grass,,any,10,Zubat,24,24
+152,Lost Tower 2F,grass,,any,10,Golbat,46,46
+153,Lost Tower 3F,grass,,any,10,Raticate,66,66
+154,Lost Tower 4F,grass,,any,10,Marowak,78,78
+155,Lost Tower 5F,grass,,any,10,Haunter,86,86
+195,Lake Valor,grass,,any,10,Magikarp,55,55
+20,Mt. Coronet,grass,,any,10,Stantler,65,65
+21,Mt. Coronet,grass,,any,10,Stantler,65,65
+165,Route 216,grass,,any,10,Medicham,65,65
+166,Route 217,grass,,any,10,Delibird,70,70
+139,Acuity Lakefront,grass,,any,10,Kadabra,65,65
+107,Snowpoint Temple,grass,,any,10,Forretress,75,75
+108,Snowpoint Temple,grass,,any,10,Forretress,75,75
+109,Snowpoint Temple,grass,,any,10,Forretress,75,75
+110,Snowpoint Temple,grass,,any,10,Forretress,75,75
+111,Snowpoint Temple,grass,,any,10,Forretress,75,75
+172,Route 225,grass,,any,10,Vigoroth,65,65
+173,Route 227,grass,,any,10,Torkoal,55,55
+174,Route 228,grass,,any,10,Cacnea,55,55
+175,Route 229,grass,,any,10,Scyther,65,65
+181,Route 226,grass,,any,10,Nidorina,55,55
+182,Route 230,grass,,any,10,Miltank,55,55
+56,Stark Mountain,grass,,any,10,Typhlosion,95,95
+57,Stark Mountain,grass,,any,10,Weezing,90,90
+170,Route 222,grass,,any,10,Pelipper,70,70
+3,Sunyshore City,grass,,any,10,Electrode,85,85
+169,Route 221,grass,,any,10,Swellow,90,90
+161,Route 212,grass,,any,10,Grovyle,55,55
+113,Wayward Cave,grass,,any,10,Lairon,55,55
+112,Wayward Cave,grass,,any,10,Nosepass,75,75
+137,Lake Acuity,grass,,any,10,Stantler,65,65
+11,Mt Coronet 2f,grass,,any,10,Golem,90,90
+12,Mt Coronet 3f,grass,,any,10,Aggron,90,90
+13,Coronet Highlands,grass,,any,10,Castform,100,100
+14,Coronet Highlands,grass,,any,10,Exploud,100,100
+15,Coronet Highlands,grass,,any,10,Wobbuffet,100,100
+16,Coronet Highlands,grass,,any,10,Electrode,100,100
+19,Celestica Ruins,grass,,any,10,Sableye,65,65
+17,Coronet Highlands,grass,,any,10,Electrode,100,100
+18,Coronet Highlands,grass,,any,10,Absol,100,100
+190,Distortion World Area 1,grass,,any,10,Magmar,54,54
+191,Distortion World Area 2,grass,,any,10,Xatu,100,100
+192,Distortion World Area 3,grass,,any,10,Gengar,65,65
+59,Sendoff Spring,grass,,any,10,Grovyle,65,65
+63,Turnback Cave,grass,,any,10,Claydol,66,66
+79,Turnback Cave,grass,,any,10,Sableye,66,66
+59,Sendoff Spring,grass,,any,10,Grovyle,65,65
+47,Victory Road,grass,,any,10,Magmortar,97,97
+48,Victory Road,grass,,any,10,Dugtrio,100,100
+49,Victory Road,grass,,any,10,Hitmonlee,100,100
+50,Victory Road,grass,,any,10,Hitmonlee,100,100
+51,Victory Road,grass,,any,10,Flareon,100,100
+52,Victory Road,grass,,any,10,Electrode,100,100
+171,Route 224,grass,,any,10,Sceptile,65,65
+136,Lake Valor,grass,,any,10,Golduck,75,75
+4,Pokémon League,grass,,any,10,Sceptile,75,75
+176,Twinleaf Town,grass,,any,10,Skitty,8,8
+140,Route 201,grass,,any,10,Shinx,4,4
+140,Verity Lakefront,grass,,any,10,Shinx,4,4
+134,Lake Verity,grass,,any,10,Mareep,3,3
+135,Lake Verity,grass,,any,10,Mareep,4,4
+187,Sandgem Town,grass,,any,10,Buneary,5,5
+141,Route 202,grass,,any,10,Bidoof,5,5
+143,Route 204 South,grass,,any,10,Budew,9,9
+53,Ravaged Path,grass,,any,10,Psyduck,7,7
+167,Route 218,grass,,any,10,Mr. Mime,30,30
+142,Route 203,grass,,any,10,Gulpin,8,8
+54,Oreburgh Gate 1F,grass,,any,10,Nosepass,5,5
+55,Oreburgh Gate B1F,grass,,any,10,Nosepass,5,5
+183,Oreburgh City,grass,,any,10,Magby,10,10
+148,Route 207,grass,,any,10,Rattata,11,11
+5,Oreburgh Mine,grass,,any,10,Phanpy,10,10
+184,Jubilife City,grass,,any,10,Ekans,16,16
+144,Route 204 North,grass,,any,10,Budew,14,14
+185,Floaroma Town,grass,,any,10,Weedle,6,6
+7,Valley Windworks,grass,,any,10,Wingull,17,17
+145,Route 205 South,grass,,any,10,Nidoran♀,17,17
+8,Eterna Forest,grass,,any,10,Shroomish,23,23
+146,Route 205 North,grass,,any,10,Nidoran♀,20,20
+1,Eterna City,grass,,any,10,Nuzleaf,20,20
+158,Route 211 West,grass,,any,10,Machop,17,17
+147,Route 206,grass,,any,10,Staravia,23,23
+10,Mt. Coronet 1F,grass,,any,10,Voltorb,24,24
+149,Route 208,grass,,any,10,Bibarel,18,18
+,Amity Square,grass,,any,10,Buneary,20,20
+150,Route 209,grass,,any,10,Diglett,36,36
+188,Solaceon Town,grass,,any,10,Seviper,38,38
+31,Solaceon Ruins,grass,,any,10,Lileep,37,37
+156,Route 210 South,grass,,any,10,Seviper,41,41
+164,Route 215,grass,,any,10,Nuzleaf,42,42
+163,Route 214,grass,,any,10,Rhyhorn,45,45
+116,Maniac Tunnel,grass,,any,10,Marowak,45,45
+138,Valor Lakefront,grass,,any,10,Ninetales,47,47
+197,Restaurant,grass,,any,10,Rattata,20,20
+162,Route 213,grass,,any,10,Ludicolo,100,100
+2,Pastoria City,grass,,any,10,Croagunk,49,49
+23,Great Marsh,grass,,any,10,Muk,50,50
+24,Great Marsh,grass,,any,10,Porygon,50,50
+25,Great Marsh,grass,,any,10,Ursaring,50,50
+26,Great Marsh,grass,,any,10,Victreebel,50,50
+27,Great Marsh,grass,,any,10,Arbok,50,50
+28,Great Marsh,grass,,any,10,Meganium,50,50
+9,Fuego Ironworks,grass,,any,10,Castform,55,55
+196,Floroma Meadow,grass,,any,10,Venusaur,60,60
+157,Clamberclaw Cliffs,grass,,any,10,Muk,45,45
+177,Celestic Town,grass,,any,10,Sudowoodo,55,55
+159,Route 211,grass,,any,10,Exploud,55,55
+21,Mt. Coronet,grass,,any,10,Medicham,65,65
+122,Iron Island,grass,,any,10,Gallade,56,56
+123,Iron Island,grass,,any,10,Nosepass,56,56
+124,Iron Island,grass,,any,10,Lairon,56,56
+198,Underground,grass,,any,10,Nidoran♂,45,45
+199,Underground,grass,,any,10,Gulpin,45,45
+200,Underground,grass,,any,10,Quilava,45,45
+201,Underground,grass,,any,10,Glalie,45,45
+125,Old Chateau,grass,,any,10,Misdreavus,56,56
+126,Old Chateau,grass,,any,10,Misdreavus,56,56
+127,Old Chateau,grass,,any,10,Shuppet,26,26
+128,Old Chateau,grass,,any,10,Misdreavus,56,56
+129,Old Chateau,grass,,any,10,Gastly,17,17
+130,Old Chateau,grass,,any,10,Misdreavus,56,56
+131,Old Chateau,grass,,any,10,Misdreavus,56,56
+132,Old Chateau,grass,,any,10,Misdreavus,56,56
+133,Old Chateau,grass,,any,10,Misdreavus,56,56
+151,Lost Tower 1F,grass,,any,10,Stunky,24,24
+152,Lost Tower 2F,grass,,any,10,Gastly,46,46
+153,Lost Tower 3F,grass,,any,10,Natu,66,66
+154,Lost Tower 4F,grass,,any,10,Marowak,78,78
+155,Lost Tower 5F,grass,,any,10,Gastly,86,86
+195,Lake Valor,grass,,any,10,Magikarp,5,5
+20,Mt. Coronet,grass,,any,10,Medicham,65,65
+21,Mt. Coronet,grass,,any,10,Medicham,65,65
+165,Route 216,grass,,any,10,Stantler,65,65
+166,Route 217,grass,,any,10,Absol,70,70
+139,Acuity Lakefront,grass,,any,10,Piloswine,65,65
+107,Snowpoint Temple,grass,,any,10,Probopass,75,75
+108,Snowpoint Temple,grass,,any,10,Probopass,75,75
+109,Snowpoint Temple,grass,,any,10,Probopass,75,75
+110,Snowpoint Temple,grass,,any,10,Probopass,75,75
+111,Snowpoint Temple,grass,,any,10,Probopass,75,75
+172,Route 225,grass,,any,10,Victreebel,65,65
+173,Route 227,grass,,any,10,Weezing,55,55
+174,Route 228,grass,,any,10,Cacturne,55,55
+175,Route 229,grass,,any,10,Pinsir,65,65
+181,Route 226,grass,,any,10,Nidorino,55,55
+182,Route 230,grass,,any,10,Granbull,55,55
+56,Stark Mountain,grass,,any,10,Weezing,95,95
+57,Stark Mountain,grass,,any,10,Rhyperior,90,90
+170,Route 222,grass,,any,10,Wingull,70,70
+3,Sunyshore City,grass,,any,10,Manectric,85,85
+169,Route 221,grass,,any,10,Scizor,90,90
+161,Route 212,grass,,any,10,Marshtomp,55,55
+113,Wayward Cave,grass,,any,10,Onix,55,55
+112,Wayward Cave,grass,,any,10,Vigoroth,75,75
+137,Lake Acuity,grass,,any,10,Stantler,65,65
+11,Mt Coronet 2f,grass,,any,10,Ursaring,90,90
+12,Mt Coronet 3f,grass,,any,10,Absol,90,90
+13,Coronet Highlands,grass,,any,10,Medicham,100,100
+14,Coronet Highlands,grass,,any,10,Probopass,100,100
+15,Coronet Highlands,grass,,any,10,Wobbuffet,100,100
+16,Coronet Highlands,grass,,any,10,Steelix,100,100
+19,Celestica Ruins,grass,,any,10,Bronzor,65,65
+17,Coronet Highlands,grass,,any,10,Rhyperior,100,100
+18,Coronet Highlands,grass,,any,10,Aerodactyl,100,100
+190,Distortion World Area 1,grass,,any,10,Vileplume,54,54
+191,Distortion World Area 2,grass,,any,10,Persian,100,100
+192,Distortion World Area 3,grass,,any,10,Jynx,65,65
+59,Sendoff Spring,grass,,any,10,Dusknoir,65,65
+63,Turnback Cave,grass,,any,10,Marowak,66,66
+79,Turnback Cave,grass,,any,10,Sableye,66,66
+59,Sendoff Spring,grass,,any,10,Dusknoir,65,65
+47,Victory Road,grass,,any,10,Electivire,97,97
+48,Victory Road,grass,,any,10,Manectric,100,100
+49,Victory Road,grass,,any,10,Hitmonchan,100,100
+50,Victory Road,grass,,any,10,Hitmonchan,100,100
+51,Victory Road,grass,,any,10,Gallade,100,100
+52,Victory Road,grass,,any,10,Dugtrio,100,100
+171,Route 224,grass,,any,10,Roserade,65,65
+136,Lake Valor,grass,,any,10,Onix,75,75
+4,Pokémon League,grass,,any,10,Blaziken,75,75
+176,Twinleaf Town,grass,,any,5,Skitty,8,8
+140,Route 201,grass,,any,5,Starly,4,4
+140,Verity Lakefront,grass,,any,5,Starly,4,4
+134,Lake Verity,grass,,any,5,Spoink,4,4
+135,Lake Verity,grass,,any,5,Spoink,4,4
+187,Sandgem Town,grass,,any,5,Sandshrew,5,5
+141,Route 202,grass,,any,5,Starly,5,5
+143,Route 204 South,grass,,any,5,Budew,9,9
+53,Ravaged Path,grass,,any,5,Rhyhorn,7,7
+167,Route 218,grass,,any,5,Pelipper,30,30
+142,Route 203,grass,,any,5,Gulpin,8,8
+54,Oreburgh Gate 1F,grass,,any,5,Dunsparce,7,7
+55,Oreburgh Gate B1F,grass,,any,5,Dunsparce,7,7
+183,Oreburgh City,grass,,any,5,Ekans,10,10
+148,Route 207,grass,,any,5,Growlithe,11,11
+5,Oreburgh Mine,grass,,any,5,Zubat,10,10
+184,Jubilife City,grass,,any,5,Spoink,16,16
+144,Route 204 North,grass,,any,5,Budew,14,14
+185,Floaroma Town,grass,,any,5,Metapod,7,7
+7,Valley Windworks,grass,,any,5,Pachirisu,17,17
+145,Route 205 South,grass,,any,5,Staravia,19,19
+8,Eterna Forest,grass,,any,5,Pineco,23,23
+146,Route 205 North,grass,,any,5,Staravia,20,20
+1,Eterna City,grass,,any,5,Ivysaur,20,20
+158,Route 211 West,grass,,any,5,Kirlia,17,17
+147,Route 206,grass,,any,5,Plusle,23,23
+10,Mt. Coronet 1F,grass,,any,5,Lileep,24,24
+149,Route 208,grass,,any,5,Meowth,18,18
+,Amity Square,grass,,any,5,Ralts,20,20
+150,Route 209,grass,,any,5,Lombre,36,36
+188,Solaceon Town,grass,,any,5,Diglett,38,38
+31,Solaceon Ruins,grass,,any,5,Anorith,37,37
+156,Route 210 South,grass,,any,5,Magmar,41,41
+164,Route 215,grass,,any,5,Marill,42,42
+163,Route 214,grass,,any,5,Doduo,45,45
+116,Maniac Tunnel,grass,,any,5,Nidorina,45,45
+138,Valor Lakefront,grass,,any,5,Staravia,47,47
+197,Restaurant,grass,,any,5,Rattata,30,30
+162,Route 213,grass,,any,5,Rhyperior,100,100
+2,Pastoria City,grass,,any,5,Wingull,49,49
+23,Great Marsh,grass,,any,5,Rattata,50,50
+24,Great Marsh,grass,,any,5,Rattata,50,50
+25,Great Marsh,grass,,any,5,Rattata,50,50
+26,Great Marsh,grass,,any,5,Rattata,50,50
+27,Great Marsh,grass,,any,5,Rattata,50,50
+28,Great Marsh,grass,,any,5,Rattata,50,50
+9,Fuego Ironworks,grass,,any,5,Electrike,55,55
+196,Floroma Meadow,grass,,any,5,Wigglytuff,60,60
+157,Clamberclaw Cliffs,grass,,any,5,Torkoal,45,45
+177,Celestic Town,grass,,any,5,Castform,55,55
+159,Route 211,grass,,any,5,Xatu,55,55
+21,Mt. Coronet,grass,,any,5,Swinub,65,65
+122,Iron Island,grass,,any,5,Clamperl,56,56
+123,Iron Island,grass,,any,5,Shuckle,56,56
+124,Iron Island,grass,,any,5,Aggron,56,56
+198,Underground,grass,,any,5,Dugtrio,45,45
+199,Underground,grass,,any,5,Grovyle,45,45
+200,Underground,grass,,any,5,Magmar,45,45
+201,Underground,grass,,any,5,Lickitung,45,45
+125,Old Chateau,grass,,any,5,Gastly,66,66
+126,Old Chateau,grass,,any,5,Sableye,66,66
+127,Old Chateau,grass,,any,5,Gastly,46,46
+128,Old Chateau,grass,,any,5,Gastly,66,66
+129,Old Chateau,grass,,any,5,Gastly,16,16
+130,Old Chateau,grass,,any,5,Gastly,66,66
+131,Old Chateau,grass,,any,5,Gastly,66,66
+132,Old Chateau,grass,,any,5,Misdreavus,66,66
+133,Old Chateau,grass,,any,5,Misdreavus,66,66
+151,Lost Tower 1F,grass,,any,5,Ekans,24,24
+152,Lost Tower 2F,grass,,any,5,Ariados,46,46
+153,Lost Tower 3F,grass,,any,5,Murkrow,66,66
+154,Lost Tower 4F,grass,,any,5,Mawile,78,78
+155,Lost Tower 5F,grass,,any,5,Ariados,86,86
+195,Lake Valor,grass,,any,5,Magikarp,11,11
+20,Mt. Coronet,grass,,any,5,Swinub,65,65
+21,Mt. Coronet,grass,,any,5,Swinub,65,65
+165,Route 216,grass,,any,5,Stantler,65,65
+166,Route 217,grass,,any,5,Swinub,70,70
+139,Acuity Lakefront,grass,,any,5,Jynx,65,65
+107,Snowpoint Temple,grass,,any,5,Aggron,75,75
+108,Snowpoint Temple,grass,,any,5,Aggron,75,75
+109,Snowpoint Temple,grass,,any,5,Aggron,75,75
+110,Snowpoint Temple,grass,,any,5,Aggron,75,75
+111,Snowpoint Temple,grass,,any,5,Aggron,75,75
+172,Route 225,grass,,any,5,Carnivine,65,65
+173,Route 227,grass,,any,5,Zangoose,55,55
+174,Route 228,grass,,any,5,Aggron,55,55
+175,Route 229,grass,,any,5,Beautifly,65,65
+181,Route 226,grass,,any,5,Sudowoodo,55,55
+182,Route 230,grass,,any,5,Mr. Mime,55,55
+56,Stark Mountain,grass,,any,5,Donphan,95,95
+57,Stark Mountain,grass,,any,5,Muk,90,90
+170,Route 222,grass,,any,5,Pidgeotto,60,60
+3,Sunyshore City,grass,,any,5,Ampharos,85,85
+169,Route 221,grass,,any,5,Tangela,90,90
+161,Route 212,grass,,any,5,Muk,55,55
+113,Wayward Cave,grass,,any,5,Spinda,55,55
+112,Wayward Cave,grass,,any,5,Gligar,75,75
+137,Lake Acuity,grass,,any,5,Slowbro,65,65
+11,Mt Coronet 2f,grass,,any,5,Donphan,90,90
+12,Mt Coronet 3f,grass,,any,5,Drapion,90,90
+13,Coronet Highlands,grass,,any,5,Ursaring,100,100
+14,Coronet Highlands,grass,,any,5,Aerodactyl,100,100
+15,Coronet Highlands,grass,,any,5,Steelix,100,100
+16,Coronet Highlands,grass,,any,5,Tyranitar,100,100
+19,Celestica Ruins,grass,,any,5,Wynaut,65,65
+17,Coronet Highlands,grass,,any,5,Tyranitar,100,100
+18,Coronet Highlands,grass,,any,5,Tyranitar,100,100
+190,Distortion World Area 1,grass,,any,5,Victreebel,55,55
+191,Distortion World Area 2,grass,,any,5,Forretress,100,100
+192,Distortion World Area 3,grass,,any,5,Feraligatr,65,65
+59,Sendoff Spring,grass,,any,5,Combusken,65,65
+63,Turnback Cave,grass,,any,5,Gengar,66,66
+79,Turnback Cave,grass,,any,5,Sableye,66,66
+59,Sendoff Spring,grass,,any,5,Combusken,65,65
+47,Victory Road,grass,,any,5,Rhyperior,97,97
+48,Victory Road,grass,,any,5,Jolteon,100,100
+49,Victory Road,grass,,any,5,Hitmontop,100,100
+50,Victory Road,grass,,any,5,Hitmontop,100,100
+51,Victory Road,grass,,any,5,Crobat,100,100
+52,Victory Road,grass,,any,5,Ditto,100,100
+171,Route 224,grass,,any,5,Exeggutor,65,65
+136,Lake Valor,grass,,any,5,Tauros,75,75
+4,Pokémon League,grass,,any,5,Grotle,75,75
+176,Twinleaf Town,grass,,any,5,Pichu,8,8
+140,Route 201,grass,,any,5,Bidoof,5,5
+140,Verity Lakefront,grass,,any,5,Bidoof,5,5
+134,Lake Verity,grass,,any,5,Ralts,4,4
+135,Lake Verity,grass,,any,5,Ralts,4,4
+187,Sandgem Town,grass,,any,5,Buneary,5,5
+141,Route 202,grass,,any,5,Snubbull,5,5
+143,Route 204 South,grass,,any,5,Bellsprout,9,9
+53,Ravaged Path,grass,,any,5,Rhyhorn,7,7
+167,Route 218,grass,,any,5,Pelipper,30,30
+142,Route 203,grass,,any,5,Shinx,8,8
+54,Oreburgh Gate 1F,grass,,any,5,Geodude,7,7
+55,Oreburgh Gate B1F,grass,,any,5,Geodude,7,7
+183,Oreburgh City,grass,,any,5,Ekans,10,10
+148,Route 207,grass,,any,5,Vulpix,11,11
+5,Oreburgh Mine,grass,,any,5,Rhyhorn,10,10
+184,Jubilife City,grass,,any,5,Mime Jr.,16,16
+144,Route 204 North,grass,,any,5,Bellsprout,14,14
+185,Floaroma Town,grass,,any,5,Kakuna,7,7
+7,Valley Windworks,grass,,any,5,Pichu,17,17
+145,Route 205 South,grass,,any,5,Pachirisu,19,19
+8,Eterna Forest,grass,,any,5,Kricketune,23,23
+146,Route 205 North,grass,,any,5,Pachirisu,20,20
+1,Eterna City,grass,,any,5,Bayleef,20,20
+158,Route 211 West,grass,,any,5,Chimecho,17,17
+147,Route 206,grass,,any,5,Minun,23,23
+10,Mt. Coronet 1F,grass,,any,5,Nosepass,24,24
+149,Route 208,grass,,any,5,Meowth,19,19
+,Amity Square,grass,,any,5,Pachirisu,20,20
+150,Route 209,grass,,any,5,Lombre,36,36
+188,Solaceon Town,grass,,any,5,Stunky,38,38
+31,Solaceon Ruins,grass,,any,5,Omanyte,37,37
+156,Route 210 South,grass,,any,5,Electabuzz,41,41
+164,Route 215,grass,,any,5,Psyduck,42,42
+163,Route 214,grass,,any,5,Rhydon,45,45
+116,Maniac Tunnel,grass,,any,5,Nidorino,45,45
+138,Valor Lakefront,grass,,any,5,Ponyta,47,47
+197,Restaurant,grass,,any,5,Rattata,30,30
+162,Route 213,grass,,any,5,Tangrowth,100,100
+2,Pastoria City,grass,,any,5,Krabby,49,49
+23,Great Marsh,grass,,any,5,Rattata,50,50
+24,Great Marsh,grass,,any,5,Rattata,50,50
+25,Great Marsh,grass,,any,5,Rattata,50,50
+26,Great Marsh,grass,,any,5,Rattata,50,50
+27,Great Marsh,grass,,any,5,Rattata,50,50
+28,Great Marsh,grass,,any,5,Rattata,50,50
+9,Fuego Ironworks,grass,,any,5,Magby,55,55
+196,Floroma Meadow,grass,,any,5,Leafeon,60,60
+157,Clamberclaw Cliffs,grass,,any,5,Absol,45,45
+177,Celestic Town,grass,,any,5,Girafarig,55,55
+159,Route 211,grass,,any,5,Gallade,55,55
+21,Mt. Coronet,grass,,any,5,Bronzor,65,65
+122,Iron Island,grass,,any,5,Cloyster,56,56
+123,Iron Island,grass,,any,5,Donphan,56,56
+124,Iron Island,grass,,any,5,Onix,56,56
+198,Underground,grass,,any,5,Dugtrio,45,45
+199,Underground,grass,,any,5,Grovyle,45,45
+200,Underground,grass,,any,5,Magmar,45,45
+201,Underground,grass,,any,5,Sneasel,45,45
+125,Old Chateau,grass,,any,5,Gastly,26,26
+126,Old Chateau,grass,,any,5,Gastly,26,26
+127,Old Chateau,grass,,any,5,Banette,56,56
+128,Old Chateau,grass,,any,5,Gastly,26,26
+129,Old Chateau,grass,,any,5,Gastly,17,17
+130,Old Chateau,grass,,any,5,Gastly,26,26
+131,Old Chateau,grass,,any,5,Gastly,26,26
+132,Old Chateau,grass,,any,5,Gastly,26,26
+133,Old Chateau,grass,,any,5,Gastly,26,26
+151,Lost Tower 1F,grass,,any,5,Arbok,24,24
+152,Lost Tower 2F,grass,,any,5,Ariados,46,46
+153,Lost Tower 3F,grass,,any,5,Ariados,66,66
+154,Lost Tower 4F,grass,,any,5,Mawile,78,78
+155,Lost Tower 5F,grass,,any,5,Sableye,86,86
+195,Lake Valor,grass,,any,5,Magikarp,15,15
+20,Mt. Coronet,grass,,any,5,Bronzor,65,65
+21,Mt. Coronet,grass,,any,5,Bronzor,65,65
+165,Route 216,grass,,any,5,Sneasel,65,65
+166,Route 217,grass,,any,5,Dodrio,70,70
+139,Acuity Lakefront,grass,,any,5,Swinub,65,65
+107,Snowpoint Temple,grass,,any,5,Jynx,75,75
+108,Snowpoint Temple,grass,,any,5,Jynx,75,75
+109,Snowpoint Temple,grass,,any,5,Jynx,75,75
+110,Snowpoint Temple,grass,,any,5,Jynx,75,75
+111,Snowpoint Temple,grass,,any,5,Jynx,75,75
+172,Route 225,grass,,any,5,Tangela,65,65
+173,Route 227,grass,,any,5,Sandslash,55,55
+174,Route 228,grass,,any,5,Lairon,55,55
+175,Route 229,grass,,any,5,Gligar,65,65
+181,Route 226,grass,,any,5,Jumpluff,55,55
+182,Route 230,grass,,any,5,Girafarig,55,55
+56,Stark Mountain,grass,,any,5,Blaziken,95,95
+57,Stark Mountain,grass,,any,5,Magmar,90,90
+170,Route 222,grass,,any,5,Luxio,60,60
+3,Sunyshore City,grass,,any,5,Mawile,85,85
+169,Route 221,grass,,any,5,Togetic,90,90
+161,Route 212,grass,,any,5,Kangaskhan,55,55
+113,Wayward Cave,grass,,any,5,Mawile,55,55
+112,Wayward Cave,grass,,any,5,Spinda,75,75
+137,Lake Acuity,grass,,any,5,Slowking,65,65
+11,Mt Coronet 2f,grass,,any,5,Absol,90,90
+12,Mt Coronet 3f,grass,,any,5,Gliscor,90,90
+13,Coronet Highlands,grass,,any,5,Luxray,100,100
+14,Coronet Highlands,grass,,any,5,Salamence,100,100
+15,Coronet Highlands,grass,,any,5,Rhyperior,100,100
+16,Coronet Highlands,grass,,any,5,Probopass,100,100
+19,Celestica Ruins,grass,,any,5,Abra,65,65
+17,Coronet Highlands,grass,,any,5,Salamence,100,100
+18,Coronet Highlands,grass,,any,5,Salamence,100,100
+190,Distortion World Area 1,grass,,any,5,Golem,55,55
+191,Distortion World Area 2,grass,,any,5,Muk,100,100
+192,Distortion World Area 3,grass,,any,5,Kingler,65,65
+59,Sendoff Spring,grass,,any,5,Haunter,65,65
+63,Turnback Cave,grass,,any,5,Chingling,66,66
+79,Turnback Cave,grass,,any,5,Sableye,66,66
+59,Sendoff Spring,grass,,any,5,Haunter,65,65
+47,Victory Road,grass,,any,5,Crobat,97,97
+48,Victory Road,grass,,any,5,Dodrio,100,100
+49,Victory Road,grass,,any,5,Hitmontop,100,100
+50,Victory Road,grass,,any,5,Hitmontop,100,100
+51,Victory Road,grass,,any,5,Medicham,100,100
+52,Victory Road,grass,,any,5,Ditto,100,100
+171,Route 224,grass,,any,5,Exeggcute,65,65
+136,Lake Valor,grass,,any,5,Dodrio,80,80
+4,Pokémon League,grass,,any,5,Grovyle,75,75
+176,Twinleaf Town,grass,,any,4,Swinub,8,8
+140,Route 201,grass,,any,4,Buneary,4,4
+140,Verity Lakefront,grass,,any,4,Buneary,4,4
+134,Lake Verity,grass,,any,4,Teddiursa,4,4
+135,Lake Verity,grass,,any,4,Teddiursa,4,4
+187,Sandgem Town,grass,,any,4,Nidoran♂,5,5
+141,Route 202,grass,,any,4,Shinx,5,5
+143,Route 204 South,grass,,any,4,Hoppip,9,9
+53,Ravaged Path,grass,,any,4,Aron,7,7
+167,Route 218,grass,,any,4,Floatzel,30,30
+142,Route 203,grass,,any,4,Slakoth,8,8
+54,Oreburgh Gate 1F,grass,,any,4,Cubone,7,7
+55,Oreburgh Gate B1F,grass,,any,4,Cubone,15,15
+183,Oreburgh City,grass,,any,4,Charmander,10,10
+148,Route 207,grass,,any,4,Charmander,11,11
+5,Oreburgh Mine,grass,,any,4,Aron,10,10
+184,Jubilife City,grass,,any,4,Rattata,16,16
+144,Route 204 North,grass,,any,4,Hoppip,14,14
+185,Floaroma Town,grass,,any,4,Sunkern,14,14
+7,Valley Windworks,grass,,any,4,Farfetch’d,17,17
+145,Route 205 South,grass,,any,4,Arbok,22,22
+8,Eterna Forest,grass,,any,4,Mothim,23,23
+146,Route 205 North,grass,,any,4,Arbok,20,20
+1,Eterna City,grass,,any,4,Lombre,20,20
+158,Route 211 West,grass,,any,4,Charmeleon,17,17
+147,Route 206,grass,,any,4,Ponyta,23,23
+10,Mt. Coronet 1F,grass,,any,4,Mawile,24,24
+149,Route 208,grass,,any,4,Raticate,20,20
+,Amity Square,grass,,any,4,Cleffa,20,20
+150,Route 209,grass,,any,4,Kirlia,36,36
+188,Solaceon Town,grass,,any,4,Ponyta,38,38
+31,Solaceon Ruins,grass,,any,4,Torkoal,37,37
+156,Route 210 South,grass,,any,4,Pinsir,41,41
+164,Route 215,grass,,any,4,Croagunk,42,42
+163,Route 214,grass,,any,4,Dodrio,45,45
+116,Maniac Tunnel,grass,,any,4,Shuckle,45,45
+138,Valor Lakefront,grass,,any,4,Growlithe,47,47
+197,Restaurant,grass,,any,4,Rattata,45,45
+162,Route 213,grass,,any,4,Gallade,100,100
+2,Pastoria City,grass,,any,4,Krabby,49,49
+23,Great Marsh,grass,,any,4,Pinsir,50,50
+24,Great Marsh,grass,,any,4,Ludicolo,50,50
+25,Great Marsh,grass,,any,4,Swalot,50,50
+26,Great Marsh,grass,,any,4,Bayleef,50,50
+27,Great Marsh,grass,,any,4,Scyther,50,50
+28,Great Marsh,grass,,any,4,Nidoking,50,50
+9,Fuego Ironworks,grass,,any,4,Voltorb,55,55
+196,Floroma Meadow,grass,,any,4,Roserade,60,60
+157,Clamberclaw Cliffs,grass,,any,4,Luxray,45,45
+177,Celestic Town,grass,,any,4,Ampharos,55,55
+159,Route 211,grass,,any,4,Gardevoir,55,55
+21,Mt. Coronet,grass,,any,4,Dunsparce,65,65
+122,Iron Island,grass,,any,4,Meowth,56,56
+123,Iron Island,grass,,any,4,Dugtrio,56,56
+124,Iron Island,grass,,any,4,Ditto,56,56
+198,Underground,grass,,any,4,Nidorina,45,45
+199,Underground,grass,,any,4,Breloom,45,45
+200,Underground,grass,,any,4,Typhlosion,45,45
+201,Underground,grass,,any,4,Gligar,45,45
+125,Old Chateau,grass,,any,4,Gastly,6,6
+126,Old Chateau,grass,,any,4,Gastly,6,6
+127,Old Chateau,grass,,any,4,Gastly,26,26
+128,Old Chateau,grass,,any,4,Gastly,6,6
+129,Old Chateau,grass,,any,4,Gastly,17,17
+130,Old Chateau,grass,,any,4,Hypno,46,46
+131,Old Chateau,grass,,any,4,Hypno,46,46
+132,Old Chateau,grass,,any,4,Gastly,6,6
+133,Old Chateau,grass,,any,4,Gastly,6,6
+151,Lost Tower 1F,grass,,any,4,Grimer,24,24
+152,Lost Tower 2F,grass,,any,4,Cubone,46,46
+153,Lost Tower 3F,grass,,any,4,Purugly,66,66
+154,Lost Tower 4F,grass,,any,4,Raticate,78,78
+155,Lost Tower 5F,grass,,any,4,Typhlosion,86,86
+195,Lake Valor,grass,,any,4,Magikarp,2,2
+20,Mt. Coronet,grass,,any,4,Dunsparce,65,65
+21,Mt. Coronet,grass,,any,4,Dunsparce,65,65
+165,Route 216,grass,,any,4,Makuhita,65,65
+166,Route 217,grass,,any,4,Sneasel,70,70
+139,Acuity Lakefront,grass,,any,4,Sneasel,65,65
+107,Snowpoint Temple,grass,,any,4,Sneasel,75,75
+108,Snowpoint Temple,grass,,any,4,Sneasel,75,75
+109,Snowpoint Temple,grass,,any,4,Sneasel,75,75
+110,Snowpoint Temple,grass,,any,4,Sneasel,75,75
+111,Snowpoint Temple,grass,,any,4,Sneasel,75,75
+172,Route 225,grass,,any,4,Slakoth,65,65
+173,Route 227,grass,,any,4,Sableye,55,55
+174,Route 228,grass,,any,4,Skorupi,55,55
+175,Route 229,grass,,any,4,Venomoth,65,65
+181,Route 226,grass,,any,4,Meganium,55,55
+182,Route 230,grass,,any,4,Togekiss,55,55
+56,Stark Mountain,grass,,any,4,Torkoal,95,95
+57,Stark Mountain,grass,,any,4,Koffing,90,90
+170,Route 222,grass,,any,4,Doduo,70,70
+3,Sunyshore City,grass,,any,4,Pichu,85,85
+169,Route 221,grass,,any,4,Heracross,90,90
+161,Route 212,grass,,any,4,Tangela,55,55
+113,Wayward Cave,grass,,any,4,Gible,55,55
+112,Wayward Cave,grass,,any,4,Magneton,75,75
+137,Lake Acuity,grass,,any,4,Sneasel,65,65
+11,Mt Coronet 2f,grass,,any,4,Crobat,90,90
+12,Mt Coronet 3f,grass,,any,4,Scizor,90,90
+13,Coronet Highlands,grass,,any,4,Froslass,100,100
+14,Coronet Highlands,grass,,any,4,Froslass,100,100
+15,Coronet Highlands,grass,,any,4,Magmortar,100,100
+16,Coronet Highlands,grass,,any,4,Magnezone,100,100
+19,Celestica Ruins,grass,,any,4,Gabite,65,65
+17,Coronet Highlands,grass,,any,4,Aerodactyl,100,100
+18,Coronet Highlands,grass,,any,4,Metagross,100,100
+190,Distortion World Area 1,grass,,any,4,Rhydon,15,15
+191,Distortion World Area 2,grass,,any,4,Venomoth,100,100
+192,Distortion World Area 3,grass,,any,4,Blastoise,65,65
+59,Sendoff Spring,grass,,any,4,Clefable,65,65
+63,Turnback Cave,grass,,any,4,Duskull,66,66
+79,Turnback Cave,grass,,any,4,Sableye,66,66
+59,Sendoff Spring,grass,,any,4,Clefable,65,65
+47,Victory Road,grass,,any,4,Gallade,97,97
+48,Victory Road,grass,,any,4,Kangaskhan,100,100
+49,Victory Road,grass,,any,4,Sableye,100,100
+50,Victory Road,grass,,any,4,Sableye,100,100
+51,Victory Road,grass,,any,4,Hariyama,100,100
+52,Victory Road,grass,,any,4,Wigglytuff,100,100
+171,Route 224,grass,,any,4,Vespiquen,65,65
+136,Lake Valor,grass,,any,4,Bagon,90,90
+4,Pokémon League,grass,,any,4,Turtwig,75,75
+176,Twinleaf Town,grass,,any,4,Swinub,8,8
+140,Route 201,grass,,any,4,Whismur,4,4
+140,Verity Lakefront,grass,,any,4,Whismur,4,4
+134,Lake Verity,grass,,any,4,Starly,4,4
+135,Lake Verity,grass,,any,4,Starly,4,4
+187,Sandgem Town,grass,,any,4,Nidoran♀,5,5
+141,Route 202,grass,,any,4,Sandshrew,5,5
+143,Route 204 South,grass,,any,4,Chikorita,9,9
+53,Ravaged Path,grass,,any,4,Aron,7,7
+167,Route 218,grass,,any,4,Gastrodon,30,30
+142,Route 203,grass,,any,4,Starly,8,8
+54,Oreburgh Gate 1F,grass,,any,4,Sandshrew,8,8
+55,Oreburgh Gate B1F,grass,,any,4,Sandshrew,15,15
+183,Oreburgh City,grass,,any,4,Nosepass,10,10
+148,Route 207,grass,,any,4,Cyndaquil,11,11
+5,Oreburgh Mine,grass,,any,4,Onix,10,10
+184,Jubilife City,grass,,any,4,Rattata,16,16
+144,Route 204 North,grass,,any,4,Chikorita,14,14
+185,Floaroma Town,grass,,any,4,Oddish,14,14
+7,Valley Windworks,grass,,any,4,Swablu,17,17
+145,Route 205 South,grass,,any,4,Ledian,22,22
+8,Eterna Forest,grass,,any,4,Venomoth,23,23
+146,Route 205 North,grass,,any,4,Ledian,20,20
+1,Eterna City,grass,,any,4,Cacnea,20,20
+158,Route 211 West,grass,,any,4,Quilava,17,17
+147,Route 206,grass,,any,4,Doduo,23,23
+10,Mt. Coronet 1F,grass,,any,4,Abra,24,24
+149,Route 208,grass,,any,4,Bibarel,20,20
+,Amity Square,grass,,any,4,Phanpy,20,20
+150,Route 209,grass,,any,4,Chimecho,36,36
+188,Solaceon Town,grass,,any,4,Zangoose,38,38
+31,Solaceon Ruins,grass,,any,4,Mawile,37,37
+156,Route 210 South,grass,,any,4,Scyther,41,41
+164,Route 215,grass,,any,4,Swablu,42,42
+163,Route 214,grass,,any,4,Rhyhorn,45,45
+116,Maniac Tunnel,grass,,any,4,Ursaring,45,45
+138,Valor Lakefront,grass,,any,4,Vulpix,47,47
+197,Restaurant,grass,,any,4,Rattata,50,50
+162,Route 213,grass,,any,4,Snorlax,100,100
+2,Pastoria City,grass,,any,4,Kingler,49,49
+23,Great Marsh,grass,,any,4,Absol,50,50
+24,Great Marsh,grass,,any,4,Zangoose,50,50
+25,Great Marsh,grass,,any,4,Miltank,50,50
+26,Great Marsh,grass,,any,4,Luxray,50,50
+27,Great Marsh,grass,,any,4,Seadra,50,50
+28,Great Marsh,grass,,any,4,Nidoqueen,50,50
+9,Fuego Ironworks,grass,,any,4,Growlithe,55,55
+196,Floroma Meadow,grass,,any,4,Gardevoir,60,60
+157,Clamberclaw Cliffs,grass,,any,4,Stantler,45,45
+177,Celestic Town,grass,,any,4,Dunsparce,55,55
+159,Route 211,grass,,any,4,Mr. Mime,55,55
+21,Mt. Coronet,grass,,any,4,Electrode,65,65
+122,Iron Island,grass,,any,4,Steelix,56,56
+123,Iron Island,grass,,any,4,Marowak,56,56
+124,Iron Island,grass,,any,4,Sableye,56,56
+198,Underground,grass,,any,4,Nidorino,45,45
+199,Underground,grass,,any,4,Shroomish,45,45
+200,Underground,grass,,any,4,Charizard,45,45
+201,Underground,grass,,any,4,Mankey,45,45
+125,Old Chateau,grass,,any,4,Drifloon,17,17
+126,Old Chateau,grass,,any,4,Drifloon,17,17
+127,Old Chateau,grass,,any,4,Drifloon,16,16
+128,Old Chateau,grass,,any,4,Drifloon,17,17
+129,Old Chateau,grass,,any,4,Gastly,17,17
+130,Old Chateau,grass,,any,4,Hypno,66,66
+131,Old Chateau,grass,,any,4,Hypno,66,66
+132,Old Chateau,grass,,any,4,Drifloon,17,17
+133,Old Chateau,grass,,any,4,Drifloon,17,17
+151,Lost Tower 1F,grass,,any,4,Muk,24,24
+152,Lost Tower 2F,grass,,any,4,Spinarak,46,46
+153,Lost Tower 3F,grass,,any,4,Ariados,66,66
+154,Lost Tower 4F,grass,,any,4,Raticate,78,78
+155,Lost Tower 5F,grass,,any,4,Drifloon,86,86
+195,Lake Valor,grass,,any,4,Magikarp,70,70
+20,Mt. Coronet,grass,,any,4,Electrode,65,65
+21,Mt. Coronet,grass,,any,4,Electrode,65,65
+165,Route 216,grass,,any,4,Meditite,65,65
+166,Route 217,grass,,any,4,Misdreavus,70,70
+139,Acuity Lakefront,grass,,any,4,Sneasel,65,65
+107,Snowpoint Temple,grass,,any,4,Weavile,75,75
+108,Snowpoint Temple,grass,,any,4,Weavile,75,75
+109,Snowpoint Temple,grass,,any,4,Weavile,75,75
+110,Snowpoint Temple,grass,,any,4,Weavile,75,75
+111,Snowpoint Temple,grass,,any,4,Weavile,75,75
+172,Route 225,grass,,any,4,Sceptile,65,65
+173,Route 227,grass,,any,4,Kecleon,55,55
+174,Route 228,grass,,any,4,Drapion,55,55
+175,Route 229,grass,,any,4,Kricketot,65,65
+181,Route 226,grass,,any,4,Venusaur,55,55
+182,Route 230,grass,,any,4,Swellow,55,55
+56,Stark Mountain,grass,,any,4,Infernape,95,95
+57,Stark Mountain,grass,,any,4,Rhyhorn,90,90
+170,Route 222,grass,,any,4,Pikachu,70,70
+3,Sunyshore City,grass,,any,4,Kingler,85,85
+169,Route 221,grass,,any,4,Houndoom,90,90
+161,Route 212,grass,,any,4,Tangela,55,55
+113,Wayward Cave,grass,,any,4,Vigoroth,55,55
+112,Wayward Cave,grass,,any,4,Onix,75,75
+137,Lake Acuity,grass,,any,4,Sneasel,65,65
+11,Mt Coronet 2f,grass,,any,4,Claydol,90,90
+12,Mt Coronet 3f,grass,,any,4,Forretress,90,90
+13,Coronet Highlands,grass,,any,4,Mamoswine,100,100
+14,Coronet Highlands,grass,,any,4,Mamoswine,100,100
+15,Coronet Highlands,grass,,any,4,Machamp,100,100
+16,Coronet Highlands,grass,,any,4,Electrode,100,100
+19,Celestica Ruins,grass,,any,4,Skarmory,65,65
+17,Coronet Highlands,grass,,any,4,Bronzor,100,100
+18,Coronet Highlands,grass,,any,4,Magnezone,100,100
+190,Distortion World Area 1,grass,,any,4,Kangaskhan,15,15
+191,Distortion World Area 2,grass,,any,4,Ditto,100,100
+192,Distortion World Area 3,grass,,any,4,Seviper,65,65
+59,Sendoff Spring,grass,,any,4,Ninetales,65,65
+63,Turnback Cave,grass,,any,4,Sableye,66,66
+79,Turnback Cave,grass,,any,4,Sableye,66,66
+59,Sendoff Spring,grass,,any,4,Ninetales,65,65
+47,Victory Road,grass,,any,4,Lickilicky,97,97
+48,Victory Road,grass,,any,4,Wobbuffet,100,100
+49,Victory Road,grass,,any,4,Banette,100,100
+50,Victory Road,grass,,any,4,Banette,100,100
+51,Victory Road,grass,,any,4,Lickilicky,100,100
+52,Victory Road,grass,,any,4,Skuntank,100,100
+171,Route 224,grass,,any,4,Gardevoir,65,65
+136,Lake Valor,grass,,any,4,Shelgon,95,95
+4,Pokémon League,grass,,any,4,Infernape,75,75
+176,Twinleaf Town,grass,,any,1,Pikachu,8,8
+140,Route 201,grass,,any,1,Mankey,4,4
+140,Verity Lakefront,grass,,any,1,Mankey,4,4
+134,Lake Verity,grass,,any,1,Swinub,4,4
+135,Lake Verity,grass,,any,1,Swinub,4,4
+187,Sandgem Town,grass,,any,1,Aipom,5,5
+141,Route 202,grass,,any,1,Azurill,5,5
+143,Route 204 South,grass,,any,1,Lotad,9,9
+53,Ravaged Path,grass,,any,1,Mawile,7,7
+167,Route 218,grass,,any,1,Scyther,31,31
+142,Route 203,grass,,any,1,Mankey,8,8
+54,Oreburgh Gate 1F,grass,,any,1,Phanpy,7,7
+55,Oreburgh Gate B1F,grass,,any,1,Phanpy,15,15
+183,Oreburgh City,grass,,any,1,Machop,6,6
+148,Route 207,grass,,any,1,Ponyta,11,11
+5,Oreburgh Mine,grass,,any,1,Machop,10,10
+184,Jubilife City,grass,,any,1,Voltorb,15,15
+144,Route 204 North,grass,,any,1,Lotad,14,14
+185,Floaroma Town,grass,,any,1,Bellossom,15,15
+7,Valley Windworks,grass,,any,1,Doduo,17,17
+145,Route 205 South,grass,,any,1,Poochyena,18,18
+8,Eterna Forest,grass,,any,1,Combee,23,23
+146,Route 205 North,grass,,any,1,Poochyena,20,20
+1,Eterna City,grass,,any,1,Grovyle,20,20
+158,Route 211 West,grass,,any,1,Voltorb,17,17
+147,Route 206,grass,,any,1,Girafarig,23,23
+10,Mt. Coronet 1F,grass,,any,1,Clefairy,24,24
+149,Route 208,grass,,any,1,Spinda,20,20
+,Amity Square,grass,,any,1,Taillow,20,20
+150,Route 209,grass,,any,1,Stantler,36,36
+188,Solaceon Town,grass,,any,1,Miltank,38,38
+31,Solaceon Ruins,grass,,any,1,Stantler,37,37
+156,Route 210 South,grass,,any,1,Miltank,41,41
+164,Route 215,grass,,any,1,Girafarig,42,42
+163,Route 214,grass,,any,1,Medicham,45,45
+116,Maniac Tunnel,grass,,any,1,Medicham,45,45
+138,Valor Lakefront,grass,,any,1,Torkoal,47,47
+197,Restaurant,grass,,any,1,Rattata,100,100
+162,Route 213,grass,,any,1,Munchlax,100,100
+2,Pastoria City,grass,,any,1,Buizel,49,49
+23,Great Marsh,grass,,any,1,Treecko,50,50
+24,Great Marsh,grass,,any,1,Aipom,50,50
+25,Great Marsh,grass,,any,1,Lickitung,50,50
+26,Great Marsh,grass,,any,1,Marshtomp,50,50
+27,Great Marsh,grass,,any,1,Gligar,50,50
+28,Great Marsh,grass,,any,1,Kangaskhan,50,50
+9,Fuego Ironworks,grass,,any,1,Magnemite,55,55
+196,Floroma Meadow,grass,,any,1,Kirlia,60,60
+157,Clamberclaw Cliffs,grass,,any,1,Altaria,45,45
+177,Celestic Town,grass,,any,1,Gallade,55,55
+159,Route 211,grass,,any,1,Exeggcute,55,55
+21,Mt. Coronet,grass,,any,1,Teddiursa,65,65
+122,Iron Island,grass,,any,1,Bronzor,56,56
+123,Iron Island,grass,,any,1,Bronzor,56,56
+124,Iron Island,grass,,any,1,Magneton,56,56
+198,Underground,grass,,any,1,Nidoking,45,45
+199,Underground,grass,,any,1,Vespiquen,45,45
+200,Underground,grass,,any,1,Magmortar,45,45
+201,Underground,grass,,any,1,Froslass,45,45
+125,Old Chateau,grass,,any,1,Gengar,46,46
+126,Old Chateau,grass,,any,1,Duskull,46,46
+127,Old Chateau,grass,,any,1,Gengar,66,66
+128,Old Chateau,grass,,any,1,Duskull,46,46
+129,Old Chateau,grass,,any,1,Gastly,17,17
+130,Old Chateau,grass,,any,1,Gengar,46,46
+131,Old Chateau,grass,,any,1,Gengar,46,46
+132,Old Chateau,grass,,any,1,Mismagius,46,46
+133,Old Chateau,grass,,any,1,Mismagius,46,46
+151,Lost Tower 1F,grass,,any,1,Natu,24,24
+152,Lost Tower 2F,grass,,any,1,Drowzee,46,46
+153,Lost Tower 3F,grass,,any,1,Drowzee,66,66
+154,Lost Tower 4F,grass,,any,1,Gastly,78,78
+155,Lost Tower 5F,grass,,any,1,Houndour,86,86
+195,Lake Valor,grass,,any,1,Magikarp,1,1
+20,Mt. Coronet,grass,,any,1,Teddiursa,65,65
+21,Mt. Coronet,grass,,any,1,Teddiursa,65,65
+165,Route 216,grass,,any,1,Typhlosion,65,65
+166,Route 217,grass,,any,1,Jynx,70,70
+139,Acuity Lakefront,grass,,any,1,Mamoswine,65,65
+107,Snowpoint Temple,grass,,any,1,Beldum,75,75
+108,Snowpoint Temple,grass,,any,1,Beldum,75,75
+109,Snowpoint Temple,grass,,any,1,Beldum,75,75
+110,Snowpoint Temple,grass,,any,1,Beldum,75,75
+111,Snowpoint Temple,grass,,any,1,Beldum,75,75
+172,Route 225,grass,,any,1,Hariyama,65,65
+173,Route 227,grass,,any,1,Skarmory,55,55
+174,Route 228,grass,,any,1,Yanma,55,55
+175,Route 229,grass,,any,1,Vespiquen,65,65
+181,Route 226,grass,,any,1,Swablu,55,55
+182,Route 230,grass,,any,1,Tauros,55,55
+56,Stark Mountain,grass,,any,1,Aerodactyl,95,95
+57,Stark Mountain,grass,,any,1,Charizard,99,99
+170,Route 222,grass,,any,1,Magneton,70,70
+3,Sunyshore City,grass,,any,1,Magneton,85,85
+169,Route 221,grass,,any,1,Slaking,90,90
+161,Route 212,grass,,any,1,Tangela,55,55
+113,Wayward Cave,grass,,any,1,Gible,55,55
+112,Wayward Cave,grass,,any,1,Larvitar,14,14
+137,Lake Acuity,grass,,any,1,Froslass,65,65
+11,Mt Coronet 2f,grass,,any,1,Aggron,90,90
+12,Mt Coronet 3f,grass,,any,1,Pupitar,90,90
+13,Coronet Highlands,grass,,any,1,Metagross,100,100
+14,Coronet Highlands,grass,,any,1,Snorlax,100,100
+15,Coronet Highlands,grass,,any,1,Salamence,100,100
+16,Coronet Highlands,grass,,any,1,Metang,100,100
+19,Celestica Ruins,grass,,any,1,Salamence,10,10
+17,Coronet Highlands,grass,,any,1,Magnezone,100,100
+18,Coronet Highlands,grass,,any,1,Snorlax,100,100
+190,Distortion World Area 1,grass,,any,1,Clefable,55,55
+191,Distortion World Area 2,grass,,any,1,Misdreavus,100,100
+192,Distortion World Area 3,grass,,any,1,Misdreavus,65,65
+59,Sendoff Spring,grass,,any,1,Togepi,65,65
+63,Turnback Cave,grass,,any,1,Duskull,66,66
+79,Turnback Cave,grass,,any,1,Grovyle,66,66
+59,Sendoff Spring,grass,,any,1,Togepi,65,65
+47,Victory Road,grass,,any,1,Gible,97,97
+48,Victory Road,grass,,any,1,Machamp,100,100
+49,Victory Road,grass,,any,1,Wobbuffet,100,100
+50,Victory Road,grass,,any,1,Wobbuffet,100,100
+51,Victory Road,grass,,any,1,Exploud,100,100
+52,Victory Road,grass,,any,1,Steelix,100,100
+171,Route 224,grass,,any,1,Togekiss,65,65
+136,Lake Valor,grass,,any,1,Salamence,100,100
+4,Pokémon League,grass,,any,1,Chimchar,75,75
+176,Twinleaf Town,grass,,any,1,Pikachu,8,8
+140,Route 201,grass,,any,1,Bidoof,4,4
+140,Verity Lakefront,grass,,any,1,Bidoof,4,4
+134,Lake Verity,grass,,any,1,Seel,4,4
+135,Lake Verity,grass,,any,1,Snorunt,4,4
+187,Sandgem Town,grass,,any,1,Krabby,5,5
+141,Route 202,grass,,any,1,Spearow,5,5
+143,Route 204 South,grass,,any,1,Bulbasaur,9,9
+53,Ravaged Path,grass,,any,1,Mankey,7,7
+167,Route 218,grass,,any,1,Pidgeot,30,30
+142,Route 203,grass,,any,1,Aipom,8,8
+54,Oreburgh Gate 1F,grass,,any,1,Machop,8,8
+55,Oreburgh Gate B1F,grass,,any,1,Mawile,15,15
+183,Oreburgh City,grass,,any,1,Machop,6,6
+148,Route 207,grass,,any,1,Ponyta,11,11
+5,Oreburgh Mine,grass,,any,1,Machop,10,10
+184,Jubilife City,grass,,any,1,Voltorb,15,15
+144,Route 204 North,grass,,any,1,Lombre,14,14
+185,Floaroma Town,grass,,any,1,Sunflora,15,15
+7,Valley Windworks,grass,,any,1,Electrike,17,17
+145,Route 205 South,grass,,any,1,Poochyena,18,18
+8,Eterna Forest,grass,,any,1,Beedrill,23,23
+146,Route 205 North,grass,,any,1,Poochyena,20,20
+1,Eterna City,grass,,any,1,Grovyle,20,20
+158,Route 211 West,grass,,any,1,Torchic,17,17
+147,Route 206,grass,,any,1,Furret,23,23
+10,Mt. Coronet 1F,grass,,any,1,Cleffa,24,24
+149,Route 208,grass,,any,1,Spinda,20,20
+,Amity Square,grass,,any,1,Torchic,20,20
+150,Route 209,grass,,any,1,Stantler,36,36
+188,Solaceon Town,grass,,any,1,Miltank,38,38
+31,Solaceon Ruins,grass,,any,1,Stantler,37,37
+156,Route 210 South,grass,,any,1,Miltank,41,41
+164,Route 215,grass,,any,1,Scyther,42,42
+163,Route 214,grass,,any,1,Arcanine,45,45
+116,Maniac Tunnel,grass,,any,1,Dunsparce,45,45
+138,Valor Lakefront,grass,,any,1,Torkoal,47,47
+197,Restaurant,grass,,any,1,Raticate,55,55
+162,Route 213,grass,,any,1,Togetic,100,100
+2,Pastoria City,grass,,any,1,Floatzel,49,49
+23,Great Marsh,grass,,any,1,Grovyle,50,50
+24,Great Marsh,grass,,any,1,Vigoroth,50,50
+25,Great Marsh,grass,,any,1,Shroomish,50,50
+26,Great Marsh,grass,,any,1,Bulbasaur,50,50
+27,Great Marsh,grass,,any,1,Skorupi,50,50
+28,Great Marsh,grass,,any,1,Chikorita,50,50
+9,Fuego Ironworks,grass,,any,1,Lairon,55,55
+196,Floroma Meadow,grass,,any,1,Misdreavus,60,60
+157,Clamberclaw Cliffs,grass,,any,1,Zangoose,45,45
+177,Celestic Town,grass,,any,1,Gardevoir,55,55
+159,Route 211,grass,,any,1,Vigoroth,55,55
+21,Mt. Coronet,grass,,any,1,Teddiursa,65,65
+122,Iron Island,grass,,any,1,Scizor,56,56
+123,Iron Island,grass,,any,1,Beldum,56,56
+124,Iron Island,grass,,any,1,Beldum,56,56
+198,Underground,grass,,any,1,Nidoqueen,45,45
+199,Underground,grass,,any,1,Tangela,45,45
+200,Underground,grass,,any,1,Ninetales,45,45
+201,Underground,grass,,any,1,Jynx,45,45
+125,Old Chateau,grass,,any,1,Gengar,66,66
+126,Old Chateau,grass,,any,1,Dusclops,66,66
+127,Old Chateau,grass,,any,1,Gengar,66,66
+128,Old Chateau,grass,,any,1,Gengar,66,66
+129,Old Chateau,grass,,any,1,Gastly,17,17
+130,Old Chateau,grass,,any,1,Gengar,66,66
+131,Old Chateau,grass,,any,1,Gengar,66,66
+132,Old Chateau,grass,,any,1,Mismagius,66,66
+133,Old Chateau,grass,,any,1,Mismagius,66,66
+151,Lost Tower 1F,grass,,any,1,Natu,24,24
+152,Lost Tower 2F,grass,,any,1,Meowth,46,46
+153,Lost Tower 3F,grass,,any,1,Honchkrow,66,66
+154,Lost Tower 4F,grass,,any,1,Crobat,78,78
+155,Lost Tower 5F,grass,,any,1,Houndour,86,86
+195,Lake Valor,grass,,any,1,Magikarp,100,100
+20,Mt. Coronet,grass,,any,1,Teddiursa,65,65
+21,Mt. Coronet,grass,,any,1,Teddiursa,65,65
+165,Route 216,grass,,any,1,Typhlosion,65,65
+166,Route 217,grass,,any,1,Jynx,70,70
+139,Acuity Lakefront,grass,,any,1,Weavile,65,65
+107,Snowpoint Temple,grass,,any,1,Gallade,100,100
+108,Snowpoint Temple,grass,,any,1,Gallade,100,100
+109,Snowpoint Temple,grass,,any,1,Gallade,100,100
+110,Snowpoint Temple,grass,,any,1,Gallade,100,100
+111,Snowpoint Temple,grass,,any,1,Gallade,100,100
+172,Route 225,grass,,any,1,Slaking,65,65
+173,Route 227,grass,,any,1,Probopass,55,55
+174,Route 228,grass,,any,1,Dugtrio,100,100
+175,Route 229,grass,,any,1,Heracross,65,65
+181,Route 226,grass,,any,1,Cleffa,55,55
+182,Route 230,grass,,any,1,Dragonite,55,55
+56,Stark Mountain,grass,,any,1,Arcanine,95,95
+57,Stark Mountain,grass,,any,1,Magmortar,100,100
+170,Route 222,grass,,any,1,Exeggutor,70,70
+3,Sunyshore City,grass,,any,1,Exeggcute,85,85
+169,Route 221,grass,,any,1,Tauros,90,90
+161,Route 212,grass,,any,1,Tangrowth,55,55
+113,Wayward Cave,grass,,any,1,Gible,55,55
+112,Wayward Cave,grass,,any,1,Gible,14,14
+137,Lake Acuity,grass,,any,1,Weavile,65,65
+11,Mt Coronet 2f,grass,,any,1,Aggron,90,90
+12,Mt Coronet 3f,grass,,any,1,Larvitar,90,90
+13,Coronet Highlands,grass,,any,1,Weavile,100,100
+14,Coronet Highlands,grass,,any,1,Lucario,100,100
+15,Coronet Highlands,grass,,any,1,Gardevoir,100,100
+16,Coronet Highlands,grass,,any,1,Beldum,100,100
+19,Celestica Ruins,grass,,any,1,Tyranitar,10,10
+17,Coronet Highlands,grass,,any,1,Metagross,100,100
+18,Coronet Highlands,grass,,any,1,Garchomp,100,100
+190,Distortion World Area 1,grass,,any,1,Clefable,55,55
+191,Distortion World Area 2,grass,,any,1,Houndoom,100,100
+192,Distortion World Area 3,grass,,any,1,Steelix,65,65
+59,Sendoff Spring,grass,,any,1,Alakazam,65,65
+63,Turnback Cave,grass,,any,1,Sableye,66,66
+79,Turnback Cave,grass,,any,1,Dusknoir,66,66
+59,Sendoff Spring,grass,,any,1,Alakazam,65,65
+47,Victory Road,grass,,any,1,Gabite,97,97
+48,Victory Road,grass,,any,1,Gabite,100,100
+49,Victory Road,grass,,any,1,Wobbuffet,100,100
+50,Victory Road,grass,,any,1,Wobbuffet,100,100
+51,Victory Road,grass,,any,1,Exploud,100,100
+52,Victory Road,grass,,any,1,Steelix,100,100
+171,Route 224,grass,,any,1,Togepi,65,65
+136,Lake Valor,grass,,any,1,Bagon,100,100
+4,Pokémon League,grass,,any,1,Munchlax,75,75
+176,Twinleaf Town,grass,,day,10,Meowth,8,8
+140,Route 201,grass,,day,10,Venonat,4,4
+140,Verity Lakefront,grass,,day,10,Venonat,4,4
+134,Lake Verity,grass,,day,10,Chingling,3,3
+135,Lake Verity,grass,,day,10,Chingling,4,4
+187,Sandgem Town,grass,,day,10,Hoppip,5,5
+141,Route 202,grass,,day,10,Weedle,5,5
+143,Route 204 South,grass,,day,10,Sunkern,9,9
+53,Ravaged Path,grass,,day,10,Phanpy,7,7
+167,Route 218,grass,,day,10,Chatot,31,31
+142,Route 203,grass,,day,10,Ekans,8,8
+54,Oreburgh Gate 1F,grass,,day,10,Bonsly,6,6
+55,Oreburgh Gate B1F,grass,,day,10,Mankey,6,6
+183,Oreburgh City,grass,,day,10,Geodude,10,10
+148,Route 207,grass,,day,10,Magby,11,11
+5,Oreburgh Mine,grass,,day,10,Aron,10,10
+184,Jubilife City,grass,,day,10,Mime Jr.,16,16
+144,Route 204 North,grass,,day,10,Sunkern,14,14
+185,Floaroma Town,grass,,day,10,Silcoon,15,15
+7,Valley Windworks,grass,,day,10,Starly,17,17
+145,Route 205 South,grass,,day,10,Nidorino,18,18
+8,Eterna Forest,grass,,day,10,Nuzleaf,23,23
+146,Route 205 North,grass,,day,10,Nidorino,20,20
+1,Eterna City,grass,,day,10,Roselia,20,20
+158,Route 211 West,grass,,day,10,Growlithe,17,17
+147,Route 206,grass,,day,10,Flaaffy,23,23
+10,Mt. Coronet 1F,grass,,day,10,Anorith,24,24
+149,Route 208,grass,,day,10,Roselia,19,19
+,Amity Square,grass,,day,10,Pichu,20,20
+150,Route 209,grass,,day,10,Venonat,36,36
+188,Solaceon Town,grass,,day,10,Lopunny,38,38
+31,Solaceon Ruins,grass,,day,10,Baltoy,37,37
+156,Route 210 South,grass,,day,10,Furret,41,41
+164,Route 215,grass,,day,10,Staravia,42,42
+163,Route 214,grass,,day,10,Girafarig,45,45
+116,Maniac Tunnel,grass,,day,10,Machoke,45,45
+138,Valor Lakefront,grass,,day,10,Girafarig,47,47
+197,Restaurant,grass,,day,10,Pichu,10,10
+162,Route 213,grass,,day,10,Tauros,100,100
+2,Pastoria City,grass,,day,10,Quagsire,49,49
+23,Great Marsh,grass,,day,10,Tropius,50,50
+24,Great Marsh,grass,,day,10,Chatot,50,50
+25,Great Marsh,grass,,day,10,Farfetch’d,50,50
+26,Great Marsh,grass,,day,10,Grumpig,50,50
+27,Great Marsh,grass,,day,10,Exeggcute,50,50
+28,Great Marsh,grass,,day,10,Bellossom,50,50
+9,Fuego Ironworks,grass,,day,10,Magmar,55,55
+196,Floroma Meadow,grass,,day,10,Sunflora,60,60
+157,Clamberclaw Cliffs,grass,,day,10,Swablu,45,45
+177,Celestic Town,grass,,day,10,Granbull,55,55
+159,Route 211,grass,,day,10,Swalot,55,55
+21,Mt. Coronet,grass,,day,10,Solrock,65,65
+122,Iron Island,grass,,day,10,Arcanine,56,56
+123,Iron Island,grass,,day,10,Golbat,56,56
+124,Iron Island,grass,,day,10,Corsola,56,56
+198,Underground,grass,,day,10,Sandslash,45,45
+199,Underground,grass,,day,10,Lileep,45,45
+200,Underground,grass,,day,10,Natu,45,45
+201,Underground,grass,,day,10,Sandslash,45,45
+125,Old Chateau,grass,,day,10,Haunter,66,66
+126,Old Chateau,grass,,day,10,Haunter,66,66
+127,Old Chateau,grass,,day,10,Haunter,66,66
+128,Old Chateau,grass,,day,10,Haunter,66,66
+129,Old Chateau,grass,,day,10,Gastly,14,14
+130,Old Chateau,grass,,day,10,Haunter,66,66
+131,Old Chateau,grass,,day,10,Haunter,66,66
+132,Old Chateau,grass,,day,10,Haunter,66,66
+133,Old Chateau,grass,,day,10,Haunter,66,66
+151,Lost Tower 1F,grass,,day,10,Venomoth,24,24
+152,Lost Tower 2F,grass,,day,10,Purugly,46,46
+153,Lost Tower 3F,grass,,day,10,Rattata,66,66
+154,Lost Tower 4F,grass,,day,10,Chimecho,78,78
+155,Lost Tower 5F,grass,,day,10,Misdreavus,86,86
+195,Lake Valor,grass,,day,10,Magikarp,27,27
+20,Mt. Coronet,grass,,day,10,Solrock,65,65
+21,Mt. Coronet,grass,,day,10,Solrock,65,65
+165,Route 216,grass,,day,10,Electrike,65,65
+166,Route 217,grass,,day,10,Zangoose,70,70
+139,Acuity Lakefront,grass,,day,10,Wormadam,65,65
+107,Snowpoint Temple,grass,,day,10,Glalie,75,75
+108,Snowpoint Temple,grass,,day,10,Glalie,75,75
+109,Snowpoint Temple,grass,,day,10,Glalie,75,75
+110,Snowpoint Temple,grass,,day,10,Glalie,75,75
+111,Snowpoint Temple,grass,,day,10,Glalie,75,75
+172,Route 225,grass,,day,10,Primeape,65,65
+173,Route 227,grass,,day,10,Rhydon,55,55
+174,Route 228,grass,,day,10,Onix,55,55
+175,Route 229,grass,,day,10,Pineco,65,65
+181,Route 226,grass,,day,10,Fearow,55,55
+182,Route 230,grass,,day,10,Exploud,55,55
+56,Stark Mountain,grass,,day,10,Magmar,95,95
+57,Stark Mountain,grass,,day,10,Geodude,90,90
+170,Route 222,grass,,day,10,Electabuzz,50,50
+3,Sunyshore City,grass,,day,10,Pachirisu,85,85
+169,Route 221,grass,,day,10,Shroomish,90,90
+161,Route 212,grass,,day,10,Gastrodon,55,55
+113,Wayward Cave,grass,,day,10,Loudred,55,55
+112,Wayward Cave,grass,,day,10,Mawile,75,75
+137,Lake Acuity,grass,,day,10,Lunatone,65,65
+11,Mt Coronet 2f,grass,,day,10,Solrock,90,90
+12,Mt Coronet 3f,grass,,day,10,Ursaring,90,90
+13,Coronet Highlands,grass,,day,10,Electivire,100,100
+14,Coronet Highlands,grass,,day,10,Ninetales,100,100
+15,Coronet Highlands,grass,,day,10,Staraptor,100,100
+16,Coronet Highlands,grass,,day,10,Starmie,100,100
+19,Celestica Ruins,grass,,day,10,Clefairy,65,65
+17,Coronet Highlands,grass,,day,10,Kadabra,100,100
+18,Coronet Highlands,grass,,day,10,Electrode,100,100
+190,Distortion World Area 1,grass,,day,10,Machamp,15,15
+191,Distortion World Area 2,grass,,day,10,Skarmory,100,100
+192,Distortion World Area 3,grass,,day,10,Kabutops,65,65
+59,Sendoff Spring,grass,,day,10,Xatu,65,65
+63,Turnback Cave,grass,,day,10,Haunter,66,66
+79,Turnback Cave,grass,,day,10,Sableye,66,66
+59,Sendoff Spring,grass,,day,10,Xatu,65,65
+47,Victory Road,grass,,day,10,Arcanine,97,97
+48,Victory Road,grass,,day,10,Girafarig,100,100
+49,Victory Road,grass,,day,10,Scizor,100,100
+50,Victory Road,grass,,day,10,Scizor,100,100
+51,Victory Road,grass,,day,10,Espeon,100,100
+52,Victory Road,grass,,day,10,Wigglytuff,100,100
+171,Route 224,grass,,day,10,Victreebel,65,65
+136,Lake Valor,grass,,day,10,Graveler,55,55
+4,Pokémon League,grass,,day,10,Chikorita,75,75
+176,Twinleaf Town,grass,,day,10,Meowth,8,8
+140,Route 201,grass,,day,10,Vulpix,4,4
+140,Verity Lakefront,grass,,day,10,Vulpix,4,4
+134,Lake Verity,grass,,day,10,Glameow,3,3
+135,Lake Verity,grass,,day,10,Glameow,4,4
+187,Sandgem Town,grass,,day,10,Sunkern,5,5
+141,Route 202,grass,,day,10,Sunkern,5,5
+143,Route 204 South,grass,,day,10,Cherubi,9,9
+53,Ravaged Path,grass,,day,10,Psyduck,7,7
+167,Route 218,grass,,day,10,Chatot,31,31
+142,Route 203,grass,,day,10,Mime Jr.,8,8
+54,Oreburgh Gate 1F,grass,,day,10,Psyduck,6,6
+55,Oreburgh Gate B1F,grass,,day,10,Psyduck,6,6
+183,Oreburgh City,grass,,day,10,Rattata,10,10
+148,Route 207,grass,,day,10,Magby,11,11
+5,Oreburgh Mine,grass,,day,10,Magby,10,10
+184,Jubilife City,grass,,day,10,Spoink,16,16
+144,Route 204 North,grass,,day,10,Treecko,14,14
+185,Floaroma Town,grass,,day,10,Beautifly,17,17
+7,Valley Windworks,grass,,day,10,Pidgey,17,17
+145,Route 205 South,grass,,day,10,Nidorina,18,18
+8,Eterna Forest,grass,,day,10,Paras,23,23
+146,Route 205 North,grass,,day,10,Nidorina,20,20
+1,Eterna City,grass,,day,10,Glameow,20,20
+158,Route 211 West,grass,,day,10,Vulpix,17,17
+147,Route 206,grass,,day,10,Spearow,23,23
+10,Mt. Coronet 1F,grass,,day,10,Meditite,24,24
+149,Route 208,grass,,day,10,Kirlia,17,17
+,Amity Square,grass,,day,10,Sentret,20,20
+150,Route 209,grass,,day,10,Grumpig,36,36
+188,Solaceon Town,grass,,day,10,Electrike,38,38
+31,Solaceon Ruins,grass,,day,10,Mawile,37,37
+156,Route 210 South,grass,,day,10,Cacturne,41,41
+164,Route 215,grass,,day,10,Staravia,42,42
+163,Route 214,grass,,day,10,Swalot,45,45
+116,Maniac Tunnel,grass,,day,10,Graveler,45,45
+138,Valor Lakefront,grass,,day,10,Pinsir,47,47
+197,Restaurant,grass,,day,10,Pichu,25,25
+162,Route 213,grass,,day,10,Snorlax,100,100
+2,Pastoria City,grass,,day,10,Pelipper,49,49
+23,Great Marsh,grass,,day,10,Ledian,50,50
+24,Great Marsh,grass,,day,10,Ambipom,50,50
+25,Great Marsh,grass,,day,10,Sunflora,50,50
+26,Great Marsh,grass,,day,10,Roserade,50,50
+27,Great Marsh,grass,,day,10,Staraptor,50,50
+28,Great Marsh,grass,,day,10,Fearow,50,50
+9,Fuego Ironworks,grass,,day,10,Arcanine,55,55
+196,Floroma Meadow,grass,,day,10,Jumpluff,60,60
+157,Clamberclaw Cliffs,grass,,day,10,Meditite,45,45
+177,Celestic Town,grass,,day,10,Farfetch’d,55,55
+159,Route 211,grass,,day,10,Mightyena,55,55
+21,Mt. Coronet,grass,,day,10,Crobat,65,65
+122,Iron Island,grass,,day,10,Solrock,56,56
+123,Iron Island,grass,,day,10,Solrock,56,56
+124,Iron Island,grass,,day,10,Armaldo,56,56
+198,Underground,grass,,day,10,Sandslash,45,45
+199,Underground,grass,,day,10,Roselia,45,45
+200,Underground,grass,,day,10,Vulpix,45,45
+201,Underground,grass,,day,10,Sandslash,45,45
+125,Old Chateau,grass,,day,10,Haunter,39,39
+126,Old Chateau,grass,,day,10,Haunter,39,39
+127,Old Chateau,grass,,day,10,Haunter,66,66
+128,Old Chateau,grass,,day,10,Haunter,39,39
+129,Old Chateau,grass,,day,10,Gastly,15,15
+130,Old Chateau,grass,,day,10,Haunter,39,39
+131,Old Chateau,grass,,day,10,Haunter,39,39
+132,Old Chateau,grass,,day,10,Haunter,39,39
+133,Old Chateau,grass,,day,10,Haunter,39,39
+151,Lost Tower 1F,grass,,day,10,Kecleon,24,24
+152,Lost Tower 2F,grass,,day,10,Glameow,46,46
+153,Lost Tower 3F,grass,,day,10,Raticate,66,66
+154,Lost Tower 4F,grass,,day,10,Xatu,78,78
+155,Lost Tower 5F,grass,,day,10,Mightyena,86,86
+195,Lake Valor,grass,,day,10,Magikarp,31,31
+20,Mt. Coronet,grass,,day,10,Crobat,65,65
+21,Mt. Coronet,grass,,day,10,Crobat,65,65
+165,Route 216,grass,,day,10,Hariyama,65,65
+166,Route 217,grass,,day,10,Snorunt,70,70
+139,Acuity Lakefront,grass,,day,10,Abra,65,65
+107,Snowpoint Temple,grass,,day,10,Glalie,75,75
+108,Snowpoint Temple,grass,,day,10,Glalie,75,75
+109,Snowpoint Temple,grass,,day,10,Glalie,75,75
+110,Snowpoint Temple,grass,,day,10,Glalie,75,75
+111,Snowpoint Temple,grass,,day,10,Glalie,75,75
+172,Route 225,grass,,day,10,Fearow,65,65
+173,Route 227,grass,,day,10,Torkoal,55,55
+174,Route 228,grass,,day,10,Ariados,55,55
+175,Route 229,grass,,day,10,Ledyba,65,65
+181,Route 226,grass,,day,10,Raichu,55,55
+182,Route 230,grass,,day,10,Pachirisu,55,55
+56,Stark Mountain,grass,,day,10,Machoke,95,95
+57,Stark Mountain,grass,,day,10,Magby,90,90
+170,Route 222,grass,,day,10,Pidgeot,50,50
+3,Sunyshore City,grass,,day,10,Floatzel,85,85
+169,Route 221,grass,,day,10,Teddiursa,90,90
+161,Route 212,grass,,day,10,Tropius,55,55
+113,Wayward Cave,grass,,day,10,Nidorino,55,55
+112,Wayward Cave,grass,,day,10,Medicham,75,75
+137,Lake Acuity,grass,,day,10,Lunatone,65,65
+11,Mt Coronet 2f,grass,,day,10,Solrock,90,90
+12,Mt Coronet 3f,grass,,day,10,Ursaring,90,90
+13,Coronet Highlands,grass,,day,10,Walrein,100,100
+14,Coronet Highlands,grass,,day,10,Arcanine,100,100
+15,Coronet Highlands,grass,,day,10,Staraptor,100,100
+16,Coronet Highlands,grass,,day,10,Starmie,100,100
+19,Celestica Ruins,grass,,day,10,Clefairy,65,65
+17,Coronet Highlands,grass,,day,10,Dunsparce,100,100
+18,Coronet Highlands,grass,,day,10,Electrode,100,100
+190,Distortion World Area 1,grass,,day,10,Electabuzz,54,54
+191,Distortion World Area 2,grass,,day,10,Dunsparce,100,100
+192,Distortion World Area 3,grass,,day,10,Omastar,65,65
+59,Sendoff Spring,grass,,day,10,Staraptor,65,65
+63,Turnback Cave,grass,,day,10,Sableye,66,66
+79,Turnback Cave,grass,,day,10,Sableye,66,66
+59,Sendoff Spring,grass,,day,10,Staraptor,65,65
+47,Victory Road,grass,,day,10,Manectric,97,97
+48,Victory Road,grass,,day,10,Magneton,100,100
+49,Victory Road,grass,,day,10,Kangaskhan,100,100
+50,Victory Road,grass,,day,10,Kangaskhan,100,100
+51,Victory Road,grass,,day,10,Mr. Mime,100,100
+52,Victory Road,grass,,day,10,Wigglytuff,100,100
+171,Route 224,grass,,day,10,Leafeon,65,65
+136,Lake Valor,grass,,day,10,Machoke,55,55
+4,Pokémon League,grass,,day,10,Bulbasaur,75,75
+176,Twinleaf Town,grass,,night,10,Glameow,8,8
+140,Route 201,grass,,night,10,Whismur,4,4
+140,Verity Lakefront,grass,,night,10,Whismur,4,4
+134,Lake Verity,grass,,night,10,Hoothoot,3,3
+135,Lake Verity,grass,,night,10,Hoothoot,4,4
+187,Sandgem Town,grass,,night,10,Skitty,5,5
+141,Route 202,grass,,night,10,Ledyba,5,5
+143,Route 204 South,grass,,night,10,Oddish,9,9
+53,Ravaged Path,grass,,night,10,Phanpy,7,7
+167,Route 218,grass,,night,10,Murkrow,31,31
+142,Route 203,grass,,night,10,Spinarak,8,8
+54,Oreburgh Gate 1F,grass,,night,10,Teddiursa,6,6
+55,Oreburgh Gate B1F,grass,,night,10,Teddiursa,6,6
+183,Oreburgh City,grass,,night,10,Charmander,10,10
+148,Route 207,grass,,night,10,Vulpix,11,11
+5,Oreburgh Mine,grass,,night,10,Geodude,10,10
+184,Jubilife City,grass,,night,10,Glameow,16,16
+144,Route 204 North,grass,,night,10,Oddish,14,14
+185,Floaroma Town,grass,,night,10,Cascoon,15,15
+7,Valley Windworks,grass,,night,10,Zubat,17,17
+145,Route 205 South,grass,,night,10,Zigzagoon,18,18
+8,Eterna Forest,grass,,night,10,Ariados,23,23
+146,Route 205 North,grass,,night,10,Zigzagoon,20,20
+1,Eterna City,grass,,night,10,Roselia,20,20
+158,Route 211 West,grass,,night,10,Growlithe,17,17
+147,Route 206,grass,,night,10,Luxio,23,23
+10,Mt. Coronet 1F,grass,,night,10,Kabuto,24,24
+149,Route 208,grass,,night,10,Roselia,19,19
+,Amity Square,grass,,night,10,Shroomish,20,20
+150,Route 209,grass,,night,10,Zubat,36,36
+188,Solaceon Town,grass,,night,10,Cacturne,38,38
+31,Solaceon Ruins,grass,,night,10,Baltoy,37,37
+156,Route 210 South,grass,,night,10,Illumise,41,41
+164,Route 215,grass,,night,10,Marill,42,42
+163,Route 214,grass,,night,10,Swalot,45,45
+116,Maniac Tunnel,grass,,night,10,Machoke,45,45
+138,Valor Lakefront,grass,,night,10,Stantler,47,47
+197,Restaurant,grass,,night,10,Rattata,10,10
+162,Route 213,grass,,night,10,Dusknoir,100,100
+2,Pastoria City,grass,,night,10,Quagsire,49,49
+23,Great Marsh,grass,,night,10,Dugtrio,50,50
+24,Great Marsh,grass,,night,10,Quagsire,50,50
+25,Great Marsh,grass,,night,10,Noctowl,50,50
+26,Great Marsh,grass,,night,10,Vileplume,50,50
+27,Great Marsh,grass,,night,10,Drapion,50,50
+28,Great Marsh,grass,,night,10,Volbeat,50,50
+9,Fuego Ironworks,grass,,night,10,Ampharos,55,55
+196,Floroma Meadow,grass,,night,10,Vileplume,60,60
+157,Clamberclaw Cliffs,grass,,night,10,Noctowl,45,45
+177,Celestic Town,grass,,night,10,Noctowl,55,55
+159,Route 211,grass,,night,10,Mothim,55,55
+21,Mt. Coronet,grass,,night,10,Lunatone,65,65
+122,Iron Island,grass,,night,10,Arcanine,56,56
+123,Iron Island,grass,,night,10,Golbat,56,56
+124,Iron Island,grass,,night,10,Octillery,56,56
+198,Underground,grass,,night,10,Sandslash,45,45
+199,Underground,grass,,night,10,Lileep,45,45
+200,Underground,grass,,night,10,Natu,45,45
+201,Underground,grass,,night,10,Sandslash,45,45
+125,Old Chateau,grass,,night,10,Haunter,66,66
+126,Old Chateau,grass,,night,10,Haunter,66,66
+127,Old Chateau,grass,,night,10,Haunter,66,66
+128,Old Chateau,grass,,night,10,Haunter,66,66
+129,Old Chateau,grass,,night,10,Gastly,14,14
+130,Old Chateau,grass,,night,10,Haunter,66,66
+131,Old Chateau,grass,,night,10,Haunter,66,66
+132,Old Chateau,grass,,night,10,Haunter,66,66
+133,Old Chateau,grass,,night,10,Haunter,66,66
+151,Lost Tower 1F,grass,,night,10,Vileplume,24,24
+152,Lost Tower 2F,grass,,night,10,Noctowl,46,46
+153,Lost Tower 3F,grass,,night,10,Meowth,66,66
+154,Lost Tower 4F,grass,,night,10,Shuppet,78,78
+155,Lost Tower 5F,grass,,night,10,Noctowl,86,86
+195,Lake Valor,grass,,night,10,Magikarp,27,27
+20,Mt. Coronet,grass,,night,10,Lunatone,65,65
+21,Mt. Coronet,grass,,night,10,Lunatone,65,65
+165,Route 216,grass,,night,10,Golbat,65,65
+166,Route 217,grass,,night,10,Noctowl,70,70
+139,Acuity Lakefront,grass,,night,10,Absol,65,65
+107,Snowpoint Temple,grass,,night,10,Froslass,75,75
+108,Snowpoint Temple,grass,,night,10,Froslass,75,75
+109,Snowpoint Temple,grass,,night,10,Froslass,75,75
+110,Snowpoint Temple,grass,,night,10,Froslass,75,75
+111,Snowpoint Temple,grass,,night,10,Froslass,75,75
+172,Route 225,grass,,night,10,Banette,65,65
+173,Route 227,grass,,night,10,Forretress,55,55
+174,Route 228,grass,,night,10,Cacturne,55,55
+175,Route 229,grass,,night,10,Dustox,65,65
+181,Route 226,grass,,night,10,Banette,55,55
+182,Route 230,grass,,night,10,Clefable,55,55
+56,Stark Mountain,grass,,night,10,Houndoom,95,95
+57,Stark Mountain,grass,,night,10,Skarmory,90,90
+170,Route 222,grass,,night,10,Floatzel,50,50
+3,Sunyshore City,grass,,night,10,Luxray,85,85
+169,Route 221,grass,,night,10,Gligar,90,90
+161,Route 212,grass,,night,10,Ludicolo,55,55
+113,Wayward Cave,grass,,night,10,Dunsparce,55,55
+112,Wayward Cave,grass,,night,10,Dunsparce,75,75
+137,Lake Acuity,grass,,night,10,Solrock,65,65
+11,Mt Coronet 2f,grass,,night,10,Lunatone,90,90
+12,Mt Coronet 3f,grass,,night,10,Primeape,90,90
+13,Coronet Highlands,grass,,night,10,Jynx,100,100
+14,Coronet Highlands,grass,,night,10,Jynx,100,100
+15,Coronet Highlands,grass,,night,10,Honchkrow,100,100
+16,Coronet Highlands,grass,,night,10,Jynx,100,100
+19,Celestica Ruins,grass,,night,10,Clefairy,65,65
+17,Coronet Highlands,grass,,night,10,Houndoom,100,100
+18,Coronet Highlands,grass,,night,10,Electrode,100,100
+190,Distortion World Area 1,grass,,night,10,Magmar,15,15
+191,Distortion World Area 2,grass,,night,10,Houndoom,100,100
+192,Distortion World Area 3,grass,,night,10,Crawdaunt,65,65
+59,Sendoff Spring,grass,,night,10,Dusclops,65,65
+63,Turnback Cave,grass,,night,10,Dusclops,66,66
+79,Turnback Cave,grass,,night,10,Sableye,66,66
+59,Sendoff Spring,grass,,night,10,Dusclops,65,65
+47,Victory Road,grass,,night,10,Drapion,97,97
+48,Victory Road,grass,,night,10,Dunsparce,100,100
+49,Victory Road,grass,,night,10,Hariyama,100,100
+50,Victory Road,grass,,night,10,Hariyama,100,100
+51,Victory Road,grass,,night,10,Umbreon,100,100
+52,Victory Road,grass,,night,10,Skuntank,100,100
+171,Route 224,grass,,night,10,Tangrowth,65,65
+136,Lake Valor,grass,,night,10,Wobbuffet,55,55
+4,Pokémon League,grass,,night,10,Cyndaquil,75,75
+176,Twinleaf Town,grass,,night,10,Glameow,8,8
+140,Route 201,grass,,night,10,Skitty,4,4
+140,Verity Lakefront,grass,,night,10,Skitty,4,4
+134,Lake Verity,grass,,night,10,Smoochum,3,3
+135,Lake Verity,grass,,night,10,Smoochum,4,4
+187,Sandgem Town,grass,,night,10,Skitty,5,5
+141,Route 202,grass,,night,10,Spinarak,5,5
+143,Route 204 South,grass,,night,10,Cacnea,9,9
+53,Ravaged Path,grass,,night,10,Psyduck,7,7
+167,Route 218,grass,,night,10,Floatzel,31,31
+142,Route 203,grass,,night,10,Mime Jr.,8,8
+54,Oreburgh Gate 1F,grass,,night,10,Psyduck,6,6
+55,Oreburgh Gate B1F,grass,,night,10,Psyduck,6,6
+183,Oreburgh City,grass,,night,10,Zubat,10,10
+148,Route 207,grass,,night,10,Vulpix,11,11
+5,Oreburgh Mine,grass,,night,10,Zubat,10,10
+184,Jubilife City,grass,,night,10,Glameow,16,16
+144,Route 204 North,grass,,night,10,Treecko,14,14
+185,Floaroma Town,grass,,night,10,Dustox,17,17
+7,Valley Windworks,grass,,night,10,Hoothoot,17,17
+145,Route 205 South,grass,,night,10,Zigzagoon,18,18
+8,Eterna Forest,grass,,night,10,Noctowl,23,23
+146,Route 205 North,grass,,night,10,Zigzagoon,20,20
+1,Eterna City,grass,,night,10,Glameow,20,20
+158,Route 211 West,grass,,night,10,Vulpix,17,17
+147,Route 206,grass,,night,10,Spearow,23,23
+10,Mt. Coronet 1F,grass,,night,10,Meditite,24,24
+149,Route 208,grass,,night,10,Kirlia,17,17
+,Amity Square,grass,,night,10,Zigzagoon,20,20
+150,Route 209,grass,,night,10,Volbeat,36,36
+188,Solaceon Town,grass,,night,10,Murkrow,38,38
+31,Solaceon Ruins,grass,,night,10,Mawile,37,37
+156,Route 210 South,grass,,night,10,Volbeat,41,41
+164,Route 215,grass,,night,10,Marill,42,42
+163,Route 214,grass,,night,10,Ursaring,45,45
+116,Maniac Tunnel,grass,,night,10,Graveler,45,45
+138,Valor Lakefront,grass,,night,10,Noctowl,47,47
+197,Restaurant,grass,,night,10,Rattata,25,25
+162,Route 213,grass,,night,10,Gengar,100,100
+2,Pastoria City,grass,,night,10,Pelipper,49,49
+23,Great Marsh,grass,,night,10,Venomoth,50,50
+24,Great Marsh,grass,,night,10,Kricketune,50,50
+25,Great Marsh,grass,,night,10,Parasect,50,50
+26,Great Marsh,grass,,night,10,Noctowl,50,50
+27,Great Marsh,grass,,night,10,Ariados,50,50
+28,Great Marsh,grass,,night,10,Illumise,50,50
+9,Fuego Ironworks,grass,,night,10,Electabuzz,55,55
+196,Floroma Meadow,grass,,night,10,Cherrim,60,60
+157,Clamberclaw Cliffs,grass,,night,10,Hoothoot,45,45
+177,Celestic Town,grass,,night,10,Stantler,55,55
+159,Route 211,grass,,night,10,Kecleon,55,55
+21,Mt. Coronet,grass,,night,10,Clefairy,65,65
+122,Iron Island,grass,,night,10,Lunatone,56,56
+123,Iron Island,grass,,night,10,Lunatone,56,56
+124,Iron Island,grass,,night,10,Cradily,56,56
+198,Underground,grass,,night,10,Sandslash,45,45
+199,Underground,grass,,night,10,Roselia,45,45
+200,Underground,grass,,night,10,Vulpix,45,45
+201,Underground,grass,,night,10,Sandslash,45,45
+125,Old Chateau,grass,,night,10,Haunter,39,39
+126,Old Chateau,grass,,night,10,Haunter,39,39
+127,Old Chateau,grass,,night,10,Haunter,66,66
+128,Old Chateau,grass,,night,10,Haunter,39,39
+129,Old Chateau,grass,,night,10,Gastly,15,15
+130,Old Chateau,grass,,night,10,Haunter,39,39
+131,Old Chateau,grass,,night,10,Haunter,39,39
+132,Old Chateau,grass,,night,10,Haunter,39,39
+133,Old Chateau,grass,,night,10,Haunter,39,39
+151,Lost Tower 1F,grass,,night,10,Gloom,24,24
+152,Lost Tower 2F,grass,,night,10,Ariados,46,46
+153,Lost Tower 3F,grass,,night,10,Persian,66,66
+154,Lost Tower 4F,grass,,night,10,Noctowl,78,78
+155,Lost Tower 5F,grass,,night,10,Banette,86,86
+195,Lake Valor,grass,,night,10,Magikarp,31,31
+20,Mt. Coronet,grass,,night,10,Clefairy,65,65
+21,Mt. Coronet,grass,,night,10,Clefairy,65,65
+165,Route 216,grass,,night,10,Purugly,65,65
+166,Route 217,grass,,night,10,Misdreavus,70,70
+139,Acuity Lakefront,grass,,night,10,Sneasel,65,65
+107,Snowpoint Temple,grass,,night,10,Froslass,75,75
+108,Snowpoint Temple,grass,,night,10,Froslass,75,75
+109,Snowpoint Temple,grass,,night,10,Froslass,75,75
+110,Snowpoint Temple,grass,,night,10,Froslass,75,75
+111,Snowpoint Temple,grass,,night,10,Froslass,75,75
+172,Route 225,grass,,night,10,Fearow,65,65
+173,Route 227,grass,,night,10,Sudowoodo,55,55
+174,Route 228,grass,,night,10,Mawile,55,55
+175,Route 229,grass,,night,10,Ariados,65,65
+181,Route 226,grass,,night,10,Altaria,55,55
+182,Route 230,grass,,night,10,Phanpy,55,55
+56,Stark Mountain,grass,,night,10,Combusken,95,95
+57,Stark Mountain,grass,,night,10,Torkoal,90,90
+170,Route 222,grass,,night,10,Flaaffy,50,50
+3,Sunyshore City,grass,,night,10,Luxio,85,85
+169,Route 221,grass,,night,10,Vulpix,90,90
+161,Route 212,grass,,night,10,Toxicroak,55,55
+113,Wayward Cave,grass,,night,10,Nidorina,55,55
+112,Wayward Cave,grass,,night,10,Crobat,75,75
+137,Lake Acuity,grass,,night,10,Solrock,65,65
+11,Mt Coronet 2f,grass,,night,10,Lunatone,90,90
+12,Mt Coronet 3f,grass,,night,10,Primeape,90,90
+13,Coronet Highlands,grass,,night,10,Jynx,100,100
+14,Coronet Highlands,grass,,night,10,Jynx,100,100
+15,Coronet Highlands,grass,,night,10,Honchkrow,100,100
+16,Coronet Highlands,grass,,night,10,Houndoom,100,100
+19,Celestica Ruins,grass,,night,10,Clefairy,65,65
+17,Coronet Highlands,grass,,night,10,Honchkrow,100,100
+18,Coronet Highlands,grass,,night,10,Electrode,100,100
+190,Distortion World Area 1,grass,,night,10,Electabuzz,54,54
+191,Distortion World Area 2,grass,,night,10,Gengar,100,100
+192,Distortion World Area 3,grass,,night,10,Misdreavus,65,65
+59,Sendoff Spring,grass,,night,10,Noctowl,65,65
+63,Turnback Cave,grass,,night,10,Sableye,66,66
+79,Turnback Cave,grass,,night,10,Sableye,66,66
+59,Sendoff Spring,grass,,night,10,Noctowl,65,65
+47,Victory Road,grass,,night,10,Luxray,97,97
+48,Victory Road,grass,,night,10,Weezing,100,100
+49,Victory Road,grass,,night,10,Drapion,100,100
+50,Victory Road,grass,,night,10,Drapion,100,100
+51,Victory Road,grass,,night,10,Jynx,100,100
+52,Victory Road,grass,,night,10,Skuntank,100,100
+171,Route 224,grass,,night,10,Carnivine,65,65
+136,Lake Valor,grass,,night,10,Wobbuffet,55,55
+4,Pokémon League,grass,,night,10,Charmander,75,75
+176,Twinleaf Town,surf,,any,60,Noctowl,45,55
+134,Lake Verity,surf,,any,60,Spheal,20,30
+135,Lake Verity,surf,,any,60,Spheal,20,30
+168,Route 219,surf,,any,60,Pidgeotto,44,54
+143,Route 204 South,surf,,any,60,Hoppip,44,55
+53,Ravaged Path,surf,,any,60,Golbat,20,30
+167,Route 218,surf,,any,60,Mantyke,20,30
+142,Route 203,surf,,any,60,Poliwag,20,30
+55,Oreburgh Gate B1F,surf,,any,60,Kabuto,44,55
+144,Route 204 North,surf,,any,60,Psyduck,20,30
+7,Valley Windworks,surf,,any,60,Drifloon,20,30
+145,Route 205 South,surf,,any,60,Grimer,20,30
+146,Route 205 North,surf,,any,60,Bidoof,5,10
+1,Eterna City,surf,,any,60,Hoppip,20,30
+10,Mt. Coronet 1F,surf,,any,60,Golbat,44,55
+149,Route 208,surf,,any,60,Wartortle,44,55
+,Amity Square,surf,,any,60,Psyduck,15,25
+150,Route 209,surf,,any,60,Buizel,20,30
+163,Route 214,surf,,any,60,Masquerain,30,30
+162,Route 213,surf,,any,60,Pelipper,40,55
+2,Pastoria City,surf,,any,60,Pelipper,55,60
+24,Great Marsh,surf,,any,60,Golduck,20,50
+25,Great Marsh,surf,,any,60,Masquerain,32,30
+28,Great Marsh,surf,,any,60,Poliwrath,30,50
+9,Fuego Ironworks,surf,,any,60,Weezing,44,55
+157,Clamberclaw Cliffs,surf,,any,60,Weezing,20,30
+177,Celestic Town,surf,,any,60,Masquerain,45,65
+21,Mt. Coronet,surf,,any,60,Zubat,20,30
+0,Canalave City,surf,,any,60,Pelipper,40,55
+198,Underground,surf,,any,60,Omanyte,45,55
+199,Underground,surf,,any,60,Omanyte,45,55
+200,Underground,surf,,any,60,Omanyte,45,55
+201,Underground,surf,,any,60,Omanyte,45,55
+179,Route 220,surf,,any,60,Fearow,20,40
+20,Mt. Coronet,surf,,any,60,Zubat,20,30
+21,Mt. Coronet,surf,,any,60,Zubat,20,30
+172,Route 225,surf,,any,60,Marshtomp,35,97
+173,Route 227,surf,,any,60,Politoed,35,94
+174,Route 228,surf,,any,60,Baltoy,35,99
+175,Route 229,surf,,any,60,Surskit,35,94
+178,Resort Area,surf,,any,60,Magikarp,99,100
+181,Route 226,surf,,any,60,Grimer,35,99
+182,Route 230,surf,,any,60,Sealeo,35,99
+170,Route 222,surf,,any,60,Sharpedo,75,85
+3,Sunyshore City,surf,,any,60,Tentacruel,75,86
+180,Route 223,surf,,any,60,Mantyke,30,50
+169,Route 221,surf,,any,60,Buizel,80,95
+161,Route 212,surf,,any,60,Gastrodon,20,70
+137,Lake Acuity,surf,,any,60,Stantler,45,65
+190,Distortion World Area 1,surf,,any,60,Slowpoke,80,80
+59,Sendoff Spring,surf,,any,60,Chimecho,20,80
+59,Sendoff Spring,surf,,any,60,Chimecho,20,80
+49,Victory Road,surf,,any,60,Tentacruel,100,100
+50,Victory Road,surf,,any,60,Tentacruel,100,100
+171,Route 224,surf,,any,60,Chatot,20,100
+136,Lake Valor,surf,,any,60,Stantler,55,75
+4,Pokémon League,surf,,any,60,Empoleon,95,100
+176,Twinleaf Town,surf,,any,30,Buizel,45,55
+134,Lake Verity,surf,,any,30,Stantler,20,30
+135,Lake Verity,surf,,any,30,Stantler,20,30
+168,Route 219,surf,,any,30,Wingull,44,54
+143,Route 204 South,surf,,any,30,Skiploom,44,55
+53,Ravaged Path,surf,,any,30,Chingling,20,30
+167,Route 218,surf,,any,30,Shellos,20,30
+142,Route 203,surf,,any,30,Poliwag,20,30
+55,Oreburgh Gate B1F,surf,,any,30,Psyduck,44,55
+144,Route 204 North,surf,,any,30,Psyduck,20,30
+7,Valley Windworks,surf,,any,30,Castform,20,30
+145,Route 205 South,surf,,any,30,Muk,20,30
+146,Route 205 North,surf,,any,30,Bidoof,5,10
+1,Eterna City,surf,,any,30,Skiploom,20,30
+10,Mt. Coronet 1F,surf,,any,30,Zubat,44,55
+149,Route 208,surf,,any,30,Blastoise,44,55
+,Amity Square,surf,,any,30,Marill,15,25
+150,Route 209,surf,,any,30,Fearow,20,30
+163,Route 214,surf,,any,30,Pidgeotto,30,30
+162,Route 213,surf,,any,30,Chatot,40,55
+2,Pastoria City,surf,,any,30,Sharpedo,55,60
+24,Great Marsh,surf,,any,30,Porygon,20,50
+25,Great Marsh,surf,,any,30,Porygon,32,30
+28,Great Marsh,surf,,any,30,Stantler,20,50
+9,Fuego Ironworks,surf,,any,30,Muk,44,55
+157,Clamberclaw Cliffs,surf,,any,30,Koffing,20,30
+177,Celestic Town,surf,,any,30,Mothim,45,65
+21,Mt. Coronet,surf,,any,30,Zubat,20,30
+0,Canalave City,surf,,any,30,Wingull,40,55
+198,Underground,surf,,any,30,Kabuto,45,55
+199,Underground,surf,,any,30,Kabuto,45,55
+200,Underground,surf,,any,30,Kabuto,45,55
+201,Underground,surf,,any,30,Kabuto,45,55
+179,Route 220,surf,,any,30,Pidgeot,20,40
+20,Mt. Coronet,surf,,any,30,Zubat,20,30
+21,Mt. Coronet,surf,,any,30,Zubat,20,30
+172,Route 225,surf,,any,30,Swampert,35,97
+173,Route 227,surf,,any,30,Toxicroak,35,94
+174,Route 228,surf,,any,30,Surskit,35,99
+175,Route 229,surf,,any,30,Surskit,35,94
+178,Resort Area,surf,,any,30,Magikarp,99,100
+181,Route 226,surf,,any,30,Pelipper,35,99
+182,Route 230,surf,,any,30,Mantine,35,99
+170,Route 222,surf,,any,30,Mantine,75,85
+3,Sunyshore City,surf,,any,30,Wingull,75,86
+180,Route 223,surf,,any,30,Altaria,30,50
+169,Route 221,surf,,any,30,Remoraid,80,95
+161,Route 212,surf,,any,30,Surskit,20,70
+137,Lake Acuity,surf,,any,30,Dewgong,45,65
+190,Distortion World Area 1,surf,,any,30,Slowpoke,83,85
+59,Sendoff Spring,surf,,any,30,Feebas,20,80
+59,Sendoff Spring,surf,,any,30,Feebas,20,80
+49,Victory Road,surf,,any,30,Vaporeon,100,100
+50,Victory Road,surf,,any,30,Vaporeon,100,100
+171,Route 224,surf,,any,30,Chatot,20,100
+136,Lake Valor,surf,,any,30,Gyarados,55,75
+4,Pokémon League,surf,,any,30,Prinplup,95,100
+176,Twinleaf Town,surf,,any,5,Seaking,45,55
+134,Lake Verity,surf,,any,5,Sealeo,20,40
+135,Lake Verity,surf,,any,5,Sealeo,20,40
+168,Route 219,surf,,any,5,Mantine,44,54
+143,Route 204 South,surf,,any,5,Skiploom,44,55
+53,Ravaged Path,surf,,any,5,Chingling,20,40
+167,Route 218,surf,,any,5,Tentacruel,20,40
+142,Route 203,surf,,any,5,Lombre,20,40
+55,Oreburgh Gate B1F,surf,,any,5,Golduck,44,55
+144,Route 204 North,surf,,any,5,Golduck,20,40
+7,Valley Windworks,surf,,any,5,Drifloon,20,40
+145,Route 205 South,surf,,any,5,Tentacool,20,40
+146,Route 205 North,surf,,any,5,Bidoof,5,10
+1,Eterna City,surf,,any,5,Jumpluff,20,40
+10,Mt. Coronet 1F,surf,,any,5,Lunatone,44,55
+149,Route 208,surf,,any,5,Squirtle,44,55
+,Amity Square,surf,,any,5,Surskit,15,25
+150,Route 209,surf,,any,5,Chimecho,20,40
+163,Route 214,surf,,any,5,Golduck,30,40
+162,Route 213,surf,,any,5,Tentacruel,40,55
+2,Pastoria City,surf,,any,5,Mantyke,55,60
+24,Great Marsh,surf,,any,5,Weezing,20,50
+25,Great Marsh,surf,,any,5,Feraligatr,32,40
+28,Great Marsh,surf,,any,5,Croagunk,20,40
+9,Fuego Ironworks,surf,,any,5,Koffing,44,55
+157,Clamberclaw Cliffs,surf,,any,5,Swablu,20,40
+177,Celestic Town,surf,,any,5,Butterfree,45,65
+21,Mt. Coronet,surf,,any,5,Golbat,45,55
+0,Canalave City,surf,,any,5,Tentacool,40,50
+198,Underground,surf,,any,5,Staryu,45,55
+199,Underground,surf,,any,5,Shellos,45,55
+200,Underground,surf,,any,5,Staryu,45,55
+201,Underground,surf,,any,5,Staryu,45,55
+179,Route 220,surf,,any,5,Pelipper,20,40
+20,Mt. Coronet,surf,,any,5,Golbat,45,55
+21,Mt. Coronet,surf,,any,5,Golbat,45,55
+172,Route 225,surf,,any,5,Crawdaunt,35,97
+173,Route 227,surf,,any,5,Croagunk,35,94
+174,Route 228,surf,,any,5,Claydol,35,99
+175,Route 229,surf,,any,5,Surskit,35,94
+178,Resort Area,surf,,any,5,Magikarp,100,100
+181,Route 226,surf,,any,5,Seviper,35,99
+182,Route 230,surf,,any,5,Delibird,35,99
+170,Route 222,surf,,any,5,Pidgeotto,75,85
+3,Sunyshore City,surf,,any,5,Raichu,75,86
+180,Route 223,surf,,any,5,Mantine,30,40
+169,Route 221,surf,,any,5,Seel,80,95
+161,Route 212,surf,,any,5,Slowbro,20,70
+137,Lake Acuity,surf,,any,5,Sealeo,45,65
+190,Distortion World Area 1,surf,,any,5,Slowpoke,80,80
+59,Sendoff Spring,surf,,any,5,Duskull,20,80
+59,Sendoff Spring,surf,,any,5,Duskull,20,80
+49,Victory Road,surf,,any,5,Weezing,100,100
+50,Victory Road,surf,,any,5,Weezing,100,100
+171,Route 224,surf,,any,5,Pelipper,20,100
+136,Lake Valor,surf,,any,5,Gyarados,55,75
+4,Pokémon League,surf,,any,5,Charizard,95,100
+176,Twinleaf Town,surf,,any,4,Golduck,45,55
+134,Lake Verity,surf,,any,4,Sealeo,20,40
+135,Lake Verity,surf,,any,4,Sealeo,20,40
+168,Route 219,surf,,any,4,Mantine,44,54
+143,Route 204 South,surf,,any,4,Masquerain,44,55
+53,Ravaged Path,surf,,any,4,Golbat,20,40
+167,Route 218,surf,,any,4,Tentacruel,20,40
+142,Route 203,surf,,any,4,Croagunk,20,40
+55,Oreburgh Gate B1F,surf,,any,4,Golduck,44,55
+144,Route 204 North,surf,,any,4,Golduck,20,40
+7,Valley Windworks,surf,,any,4,Drifblim,20,40
+145,Route 205 South,surf,,any,4,Gastrodon,20,40
+146,Route 205 North,surf,,any,4,Bidoof,5,10
+1,Eterna City,surf,,any,4,Swablu,20,40
+10,Mt. Coronet 1F,surf,,any,4,Solrock,44,55
+149,Route 208,surf,,any,4,Croconaw,44,55
+,Amity Square,surf,,any,4,Snubbull,15,25
+150,Route 209,surf,,any,4,Chatot,20,40
+163,Route 214,surf,,any,4,Noctowl,30,40
+162,Route 213,surf,,any,4,Mantine,40,55
+2,Pastoria City,surf,,any,4,Wingull,55,60
+24,Great Marsh,surf,,any,4,Quagsire,20,50
+25,Great Marsh,surf,,any,4,Koffing,32,40
+28,Great Marsh,surf,,any,4,Seviper,20,50
+9,Fuego Ironworks,surf,,any,4,Grimer,44,55
+157,Clamberclaw Cliffs,surf,,any,4,Gastly,20,40
+177,Celestic Town,surf,,any,4,Beautifly,45,65
+21,Mt. Coronet,surf,,any,4,Golbat,55,65
+0,Canalave City,surf,,any,4,Dewgong,40,65
+198,Underground,surf,,any,4,Anorith,45,55
+199,Underground,surf,,any,4,Anorith,45,55
+200,Underground,surf,,any,4,Anorith,45,55
+201,Underground,surf,,any,4,Anorith,45,55
+179,Route 220,surf,,any,4,Mantine,20,40
+20,Mt. Coronet,surf,,any,4,Golbat,55,65
+21,Mt. Coronet,surf,,any,4,Golbat,55,65
+172,Route 225,surf,,any,4,Corphish,35,97
+173,Route 227,surf,,any,4,Tentacruel,35,94
+174,Route 228,surf,,any,4,Gligar,35,99
+175,Route 229,surf,,any,4,Masquerain,35,94
+178,Resort Area,surf,,any,4,Magikarp,100,100
+181,Route 226,surf,,any,4,Wingull,35,99
+182,Route 230,surf,,any,4,Togetic,35,99
+170,Route 222,surf,,any,4,Pelipper,75,85
+3,Sunyshore City,surf,,any,4,Pikachu,75,86
+180,Route 223,surf,,any,4,Seadra,30,40
+169,Route 221,surf,,any,4,Seadra,80,95
+161,Route 212,surf,,any,4,Muk,20,70
+137,Lake Acuity,surf,,any,4,Slowpoke,45,65
+190,Distortion World Area 1,surf,,any,4,Slowpoke,83,85
+59,Sendoff Spring,surf,,any,4,Milotic,66,80
+59,Sendoff Spring,surf,,any,4,Milotic,66,80
+49,Victory Road,surf,,any,4,Weezing,100,100
+50,Victory Road,surf,,any,4,Weezing,100,100
+171,Route 224,surf,,any,4,Pelipper,20,100
+136,Lake Valor,surf,,any,4,Lapras,55,75
+4,Pokémon League,surf,,any,4,Charizard,95,100
+176,Twinleaf Town,surf,,any,1,Swellow,45,55
+134,Lake Verity,surf,,any,1,Lapras,40,45
+135,Lake Verity,surf,,any,1,Lapras,40,45
+168,Route 219,surf,,any,1,Mantyke,20,40
+143,Route 204 South,surf,,any,1,Golduck,44,55
+53,Ravaged Path,surf,,any,1,Golbat,20,40
+167,Route 218,surf,,any,1,Gastrodon,20,40
+142,Route 203,surf,,any,1,Politoed,20,40
+55,Oreburgh Gate B1F,surf,,any,1,Relicanth,44,55
+144,Route 204 North,surf,,any,1,Golduck,20,40
+7,Valley Windworks,surf,,any,1,Drifblim,20,40
+145,Route 205 South,surf,,any,1,Tentacruel,20,40
+146,Route 205 North,surf,,any,1,Golduck,25,25
+1,Eterna City,surf,,any,1,Surskit,20,40
+10,Mt. Coronet 1F,surf,,any,1,Magnemite,44,55
+149,Route 208,surf,,any,1,Totodile,44,55
+,Amity Square,surf,,any,1,Stantler,15,25
+150,Route 209,surf,,any,1,Shellder,20,40
+163,Route 214,surf,,any,1,Swellow,30,40
+162,Route 213,surf,,any,1,Mantyke,40,55
+2,Pastoria City,surf,,any,1,Dewgong,55,60
+24,Great Marsh,surf,,any,1,Slakoth,20,50
+25,Great Marsh,surf,,any,1,Surskit,32,40
+28,Great Marsh,surf,,any,1,Mudkip,20,50
+9,Fuego Ironworks,surf,,any,1,Gastrodon,44,55
+157,Clamberclaw Cliffs,surf,,any,1,Drifblim,20,40
+177,Celestic Town,surf,,any,1,Psyduck,45,65
+21,Mt. Coronet,surf,,any,1,Crobat,55,75
+0,Canalave City,surf,,any,1,Krabby,20,40
+198,Underground,surf,,any,1,Surskit,45,55
+199,Underground,surf,,any,1,Surskit,45,55
+200,Underground,surf,,any,1,Surskit,45,55
+201,Underground,surf,,any,1,Surskit,45,55
+179,Route 220,surf,,any,1,Swellow,20,40
+20,Mt. Coronet,surf,,any,1,Crobat,55,75
+21,Mt. Coronet,surf,,any,1,Crobat,55,75
+172,Route 225,surf,,any,1,Gyarados,35,100
+173,Route 227,surf,,any,1,Poliwhirl,35,94
+174,Route 228,surf,,any,1,Gastrodon,35,99
+175,Route 229,surf,,any,1,Masquerain,35,94
+178,Resort Area,surf,,any,1,Lapras,25,75
+181,Route 226,surf,,any,1,Altaria,35,99
+182,Route 230,surf,,any,1,Mantyke,35,99
+170,Route 222,surf,,any,1,Pikachu,75,85
+3,Sunyshore City,surf,,any,1,Lanturn,75,86
+180,Route 223,surf,,any,1,Floatzel,30,40
+169,Route 221,surf,,any,1,Slowbro,80,95
+161,Route 212,surf,,any,1,Lapras,20,80
+137,Lake Acuity,surf,,any,1,Lapras,45,65
+190,Distortion World Area 1,surf,,any,1,Slowbro,55,55
+59,Sendoff Spring,surf,,any,1,Togetic,20,80
+59,Sendoff Spring,surf,,any,1,Togetic,20,80
+49,Victory Road,surf,,any,1,Weezing,100,100
+50,Victory Road,surf,,any,1,Weezing,100,100
+171,Route 224,surf,,any,1,Lapras,20,100
+136,Lake Valor,surf,,any,1,Lapras,55,75
+4,Pokémon League,surf,,any,1,Piplup,95,100
+176,Twinleaf Town,fishing,old,any,60,Azurill,4,6
+134,Lake Verity,fishing,old,any,60,Finneon,10,15
+135,Lake Verity,fishing,old,any,60,Finneon,10,15
+168,Route 219,fishing,old,any,60,Luvdisc,4,6
+143,Route 204 South,fishing,old,any,60,Azurill,4,6
+53,Ravaged Path,fishing,old,any,60,Goldeen,4,6
+167,Route 218,fishing,old,any,60,Goldeen,4,6
+142,Route 203,fishing,old,any,60,Poliwag,4,6
+55,Oreburgh Gate B1F,fishing,old,any,60,Omanyte,15,15
+144,Route 204 North,fishing,old,any,60,Azurill,4,6
+7,Valley Windworks,fishing,old,any,60,Carvanha,4,6
+145,Route 205 South,fishing,old,any,60,Barboach,4,17
+146,Route 205 North,fishing,old,any,60,Barboach,4,17
+1,Eterna City,fishing,old,any,60,Goldeen,4,6
+10,Mt. Coronet 1F,fishing,old,any,60,Clamperl,24,26
+149,Route 208,fishing,old,any,60,Barboach,30,30
+,Amity Square,fishing,old,any,60,Psyduck,10,20
+150,Route 209,fishing,old,any,60,Seaking,15,38
+163,Route 214,fishing,old,any,60,Corphish,44,47
+162,Route 213,fishing,old,any,60,Lumineon,40,48
+2,Pastoria City,fishing,old,any,60,Corsola,45,49
+24,Great Marsh,fishing,old,any,60,Carvanha,20,40
+25,Great Marsh,fishing,old,any,60,Quagsire,30,45
+28,Great Marsh,fishing,old,any,60,Politoed,30,50
+9,Fuego Ironworks,fishing,old,any,60,Gulpin,20,44
+157,Clamberclaw Cliffs,fishing,old,any,60,Ekans,15,20
+177,Celestic Town,fishing,old,any,60,Carvanha,45,65
+21,Mt. Coronet,fishing,old,any,60,Goldeen,30,30
+0,Canalave City,fishing,old,any,60,Lumineon,55,65
+198,Underground,fishing,old,any,60,Kabuto,35,45
+199,Underground,fishing,old,any,60,Shellos,35,45
+200,Underground,fishing,old,any,60,Kabuto,35,45
+201,Underground,fishing,old,any,60,Kabuto,35,45
+179,Route 220,fishing,old,any,60,Mantyke,10,45
+20,Mt. Coronet,fishing,old,any,60,Goldeen,30,30
+21,Mt. Coronet,fishing,old,any,60,Goldeen,30,30
+189,Snowpoint City,fishing,old,any,60,Slowpoke,45,60
+172,Route 225,fishing,old,any,60,Magikarp,4,98
+173,Route 227,fishing,old,any,60,Wooper,13,95
+174,Route 228,fishing,old,any,60,Omanyte,3,99
+175,Route 229,fishing,old,any,60,Krabby,40,89
+178,Resort Area,fishing,old,any,60,Ditto,99,100
+181,Route 226,fishing,old,any,60,Goldeen,4,99
+182,Route 230,fishing,old,any,60,Krabby,5,99
+170,Route 222,fishing,old,any,60,Clamperl,75,85
+3,Sunyshore City,fishing,old,any,60,Horsea,81,86
+180,Route 223,fishing,old,any,60,Horsea,4,6
+169,Route 221,fishing,old,any,60,Magikarp,80,100
+161,Route 212,fishing,old,any,60,Shellder,45,55
+137,Lake Acuity,fishing,old,any,60,Shellder,15,99
+190,Distortion World Area 1,fishing,old,any,60,Magikarp,5,5
+59,Sendoff Spring,fishing,old,any,60,Qwilfish,1,100
+59,Sendoff Spring,fishing,old,any,60,Qwilfish,1,100
+49,Victory Road,fishing,old,any,60,Muk,100,100
+50,Victory Road,fishing,old,any,60,Muk,100,100
+171,Route 224,fishing,old,any,60,Azumarill,20,100
+136,Lake Valor,fishing,old,any,60,Magikarp,1,99
+4,Pokémon League,fishing,old,any,60,Squirtle,97,100
+176,Twinleaf Town,fishing,old,any,30,Azurill,3,7
+134,Lake Verity,fishing,old,any,30,Shellder,10,15
+135,Lake Verity,fishing,old,any,30,Shellder,10,15
+168,Route 219,fishing,old,any,30,Luvdisc,3,7
+143,Route 204 South,fishing,old,any,30,Barboach,3,7
+53,Ravaged Path,fishing,old,any,30,Goldeen,3,7
+167,Route 218,fishing,old,any,30,Luvdisc,3,7
+142,Route 203,fishing,old,any,30,Poliwag,3,7
+55,Oreburgh Gate B1F,fishing,old,any,30,Kabuto,15,15
+144,Route 204 North,fishing,old,any,30,Barboach,3,7
+7,Valley Windworks,fishing,old,any,30,Carvanha,3,7
+145,Route 205 South,fishing,old,any,30,Carvanha,3,17
+146,Route 205 North,fishing,old,any,30,Chinchou,3,17
+1,Eterna City,fishing,old,any,30,Lotad,3,7
+10,Mt. Coronet 1F,fishing,old,any,30,Tentacool,24,26
+149,Route 208,fishing,old,any,30,Corphish,30,30
+,Amity Square,fishing,old,any,30,Azurill,10,20
+150,Route 209,fishing,old,any,30,Barboach,15,38
+163,Route 214,fishing,old,any,30,Goldeen,44,47
+162,Route 213,fishing,old,any,30,Tentacool,40,48
+2,Pastoria City,fishing,old,any,30,Remoraid,45,49
+24,Great Marsh,fishing,old,any,30,Quagsire,20,40
+25,Great Marsh,fishing,old,any,30,Croconaw,30,45
+28,Great Marsh,fishing,old,any,30,Gulpin,30,50
+9,Fuego Ironworks,fishing,old,any,30,Grimer,20,44
+157,Clamberclaw Cliffs,fishing,old,any,30,Seviper,15,20
+177,Celestic Town,fishing,old,any,30,Poliwhirl,45,65
+21,Mt. Coronet,fishing,old,any,30,Goldeen,30,30
+0,Canalave City,fishing,old,any,30,Corsola,35,45
+198,Underground,fishing,old,any,30,Krabby,35,45
+199,Underground,fishing,old,any,30,Krabby,35,45
+200,Underground,fishing,old,any,30,Krabby,35,45
+201,Underground,fishing,old,any,30,Krabby,35,45
+179,Route 220,fishing,old,any,30,Mantyke,10,45
+20,Mt. Coronet,fishing,old,any,30,Goldeen,30,30
+21,Mt. Coronet,fishing,old,any,30,Goldeen,30,30
+189,Snowpoint City,fishing,old,any,30,Sealeo,45,55
+172,Route 225,fishing,old,any,30,Barboach,3,95
+173,Route 227,fishing,old,any,30,Wooper,14,96
+174,Route 228,fishing,old,any,30,Anorith,3,99
+175,Route 229,fishing,old,any,30,Krabby,3,89
+178,Resort Area,fishing,old,any,30,Ditto,99,100
+181,Route 226,fishing,old,any,30,Goldeen,3,99
+182,Route 230,fishing,old,any,30,Magikarp,5,99
+170,Route 222,fishing,old,any,30,Seaking,75,85
+3,Sunyshore City,fishing,old,any,30,Clamperl,81,86
+180,Route 223,fishing,old,any,30,Mantyke,3,7
+169,Route 221,fishing,old,any,30,Horsea,80,100
+161,Route 212,fishing,old,any,30,Shellder,35,45
+137,Lake Acuity,fishing,old,any,30,Shellder,15,99
+190,Distortion World Area 1,fishing,old,any,30,Magikarp,5,5
+59,Sendoff Spring,fishing,old,any,30,Qwilfish,1,100
+59,Sendoff Spring,fishing,old,any,30,Qwilfish,1,100
+49,Victory Road,fishing,old,any,30,Cloyster,100,100
+50,Victory Road,fishing,old,any,30,Cloyster,100,100
+171,Route 224,fishing,old,any,30,Quagsire,20,100
+136,Lake Valor,fishing,old,any,30,Magikarp,1,99
+4,Pokémon League,fishing,old,any,30,Totodile,97,100
+176,Twinleaf Town,fishing,old,any,5,Azurill,5,10
+134,Lake Verity,fishing,old,any,5,Chinchou,5,10
+135,Lake Verity,fishing,old,any,5,Chinchou,5,10
+168,Route 219,fishing,old,any,5,Finneon,5,10
+143,Route 204 South,fishing,old,any,5,Psyduck,5,10
+53,Ravaged Path,fishing,old,any,5,Goldeen,5,10
+167,Route 218,fishing,old,any,5,Slowpoke,5,10
+142,Route 203,fishing,old,any,5,Poliwhirl,5,10
+55,Oreburgh Gate B1F,fishing,old,any,5,Kabuto,15,15
+144,Route 204 North,fishing,old,any,5,Psyduck,5,10
+7,Valley Windworks,fishing,old,any,5,Slowpoke,10,15
+145,Route 205 South,fishing,old,any,5,Slowpoke,5,17
+146,Route 205 North,fishing,old,any,5,Slowpoke,5,17
+1,Eterna City,fishing,old,any,5,Lotad,5,10
+10,Mt. Coronet 1F,fishing,old,any,5,Chinchou,24,26
+149,Route 208,fishing,old,any,5,Omanyte,30,30
+,Amity Square,fishing,old,any,5,Azurill,10,20
+150,Route 209,fishing,old,any,5,Barboach,15,38
+163,Route 214,fishing,old,any,5,Grimer,44,47
+162,Route 213,fishing,old,any,5,Krabby,40,48
+2,Pastoria City,fishing,old,any,5,Clamperl,45,49
+24,Great Marsh,fishing,old,any,5,Croagunk,20,40
+25,Great Marsh,fishing,old,any,5,Wartortle,30,45
+28,Great Marsh,fishing,old,any,5,Croagunk,30,50
+9,Fuego Ironworks,fishing,old,any,5,Gulpin,20,44
+157,Clamberclaw Cliffs,fishing,old,any,5,Azumarill,15,20
+177,Celestic Town,fishing,old,any,5,Azumarill,55,65
+21,Mt. Coronet,fishing,old,any,5,Goldeen,30,30
+0,Canalave City,fishing,old,any,5,Dewgong,50,60
+198,Underground,fishing,old,any,5,Corphish,35,45
+199,Underground,fishing,old,any,5,Corphish,35,45
+200,Underground,fishing,old,any,5,Corphish,35,45
+201,Underground,fishing,old,any,5,Corphish,35,45
+179,Route 220,fishing,old,any,5,Mantyke,10,45
+20,Mt. Coronet,fishing,old,any,5,Goldeen,30,30
+21,Mt. Coronet,fishing,old,any,5,Goldeen,30,30
+189,Snowpoint City,fishing,old,any,5,Sharpedo,65,75
+172,Route 225,fishing,old,any,5,Barboach,5,96
+173,Route 227,fishing,old,any,5,Quagsire,15,97
+174,Route 228,fishing,old,any,5,Cradily,3,99
+175,Route 229,fishing,old,any,5,Wurmple,5,89
+178,Resort Area,fishing,old,any,5,Ditto,99,100
+181,Route 226,fishing,old,any,5,Goldeen,5,99
+182,Route 230,fishing,old,any,5,Remoraid,5,99
+170,Route 222,fishing,old,any,5,Horsea,75,85
+3,Sunyshore City,fishing,old,any,5,Cloyster,81,86
+180,Route 223,fishing,old,any,5,Mantyke,5,10
+169,Route 221,fishing,old,any,5,Seadra,80,100
+161,Route 212,fishing,old,any,5,Shellder,25,35
+137,Lake Acuity,fishing,old,any,5,Shellder,15,99
+190,Distortion World Area 1,fishing,old,any,5,Magikarp,5,5
+59,Sendoff Spring,fishing,old,any,5,Qwilfish,1,100
+59,Sendoff Spring,fishing,old,any,5,Qwilfish,1,100
+49,Victory Road,fishing,old,any,5,Tentacruel,100,100
+50,Victory Road,fishing,old,any,5,Tentacruel,100,100
+171,Route 224,fishing,old,any,5,Gastrodon,20,100
+136,Lake Valor,fishing,old,any,5,Magikarp,1,99
+4,Pokémon League,fishing,old,any,5,Mudkip,97,100
+176,Twinleaf Town,fishing,old,any,4,Azurill,5,10
+134,Lake Verity,fishing,old,any,4,Shellder,5,10
+135,Lake Verity,fishing,old,any,4,Shellder,5,10
+168,Route 219,fishing,old,any,4,Spheal,5,10
+143,Route 204 South,fishing,old,any,4,Psyduck,5,10
+53,Ravaged Path,fishing,old,any,4,Slowpoke,5,10
+167,Route 218,fishing,old,any,4,Squirtle,5,10
+142,Route 203,fishing,old,any,4,Corphish,5,10
+55,Oreburgh Gate B1F,fishing,old,any,4,Kabuto,15,15
+144,Route 204 North,fishing,old,any,4,Psyduck,5,10
+7,Valley Windworks,fishing,old,any,4,Chinchou,5,10
+145,Route 205 South,fishing,old,any,4,Totodile,5,17
+146,Route 205 North,fishing,old,any,4,Bidoof,5,17
+1,Eterna City,fishing,old,any,4,Barboach,5,10
+10,Mt. Coronet 1F,fishing,old,any,4,Staryu,24,26
+149,Route 208,fishing,old,any,4,Carvanha,30,30
+,Amity Square,fishing,old,any,4,Poliwag,10,20
+150,Route 209,fishing,old,any,4,Finneon,15,38
+163,Route 214,fishing,old,any,4,Wartortle,44,47
+162,Route 213,fishing,old,any,4,Corsola,40,48
+2,Pastoria City,fishing,old,any,4,Clamperl,45,49
+24,Great Marsh,fishing,old,any,4,Corphish,20,40
+25,Great Marsh,fishing,old,any,4,Squirtle,30,45
+28,Great Marsh,fishing,old,any,4,Azumarill,30,50
+9,Fuego Ironworks,fishing,old,any,4,Muk,20,44
+157,Clamberclaw Cliffs,fishing,old,any,4,Marill,15,20
+177,Celestic Town,fishing,old,any,4,Marill,35,65
+21,Mt. Coronet,fishing,old,any,4,Goldeen,30,30
+0,Canalave City,fishing,old,any,4,Octillery,35,45
+198,Underground,fishing,old,any,4,Carvanha,35,65
+199,Underground,fishing,old,any,4,Carvanha,35,65
+200,Underground,fishing,old,any,4,Carvanha,35,65
+201,Underground,fishing,old,any,4,Carvanha,35,65
+179,Route 220,fishing,old,any,4,Mantyke,10,45
+20,Mt. Coronet,fishing,old,any,4,Goldeen,30,30
+21,Mt. Coronet,fishing,old,any,4,Goldeen,30,30
+189,Snowpoint City,fishing,old,any,4,Octillery,65,70
+172,Route 225,fishing,old,any,4,Corphish,5,96
+173,Route 227,fishing,old,any,4,Magikarp,16,97
+174,Route 228,fishing,old,any,4,Totodile,3,99
+175,Route 229,fishing,old,any,4,Caterpie,5,89
+178,Resort Area,fishing,old,any,4,Ditto,99,100
+181,Route 226,fishing,old,any,4,Goldeen,5,99
+182,Route 230,fishing,old,any,4,Seadra,5,99
+170,Route 222,fishing,old,any,4,Chinchou,75,85
+3,Sunyshore City,fishing,old,any,4,Corsola,81,86
+180,Route 223,fishing,old,any,4,Finneon,5,10
+169,Route 221,fishing,old,any,4,Shellder,80,100
+161,Route 212,fishing,old,any,4,Shellder,15,25
+137,Lake Acuity,fishing,old,any,4,Shellder,15,99
+190,Distortion World Area 1,fishing,old,any,4,Magikarp,5,5
+59,Sendoff Spring,fishing,old,any,4,Qwilfish,1,100
+59,Sendoff Spring,fishing,old,any,4,Qwilfish,1,100
+49,Victory Road,fishing,old,any,4,Tentacruel,100,100
+50,Victory Road,fishing,old,any,4,Tentacruel,100,100
+171,Route 224,fishing,old,any,4,Politoed,20,100
+136,Lake Valor,fishing,old,any,4,Magikarp,1,99
+4,Pokémon League,fishing,old,any,4,Piplup,97,100
+176,Twinleaf Town,fishing,old,any,1,Azurill,5,15
+134,Lake Verity,fishing,old,any,1,Slowpoke,15,45
+135,Lake Verity,fishing,old,any,1,Slowpoke,15,45
+168,Route 219,fishing,old,any,1,Mantyke,5,15
+143,Route 204 South,fishing,old,any,1,Lotad,5,15
+53,Ravaged Path,fishing,old,any,1,Bidoof,5,15
+167,Route 218,fishing,old,any,1,Barboach,5,15
+142,Route 203,fishing,old,any,1,Rattata,5,15
+55,Oreburgh Gate B1F,fishing,old,any,1,Kabuto,15,15
+144,Route 204 North,fishing,old,any,1,Lotad,5,15
+7,Valley Windworks,fishing,old,any,1,Totodile,5,15
+145,Route 205 South,fishing,old,any,1,Chinchou,5,15
+146,Route 205 North,fishing,old,any,1,Totodile,5,15
+1,Eterna City,fishing,old,any,1,Barboach,5,15
+10,Mt. Coronet 1F,fishing,old,any,1,Staryu,24,26
+149,Route 208,fishing,old,any,1,Carvanha,30,30
+,Amity Square,fishing,old,any,1,Poliwag,10,20
+150,Route 209,fishing,old,any,1,Croconaw,15,38
+163,Route 214,fishing,old,any,1,Muk,44,47
+162,Route 213,fishing,old,any,1,Corsola,40,48
+2,Pastoria City,fishing,old,any,1,Clamperl,45,49
+24,Great Marsh,fishing,old,any,1,Wooper,20,40
+25,Great Marsh,fishing,old,any,1,Totodile,30,45
+28,Great Marsh,fishing,old,any,1,Squirtle,30,50
+9,Fuego Ironworks,fishing,old,any,1,Corphish,20,44
+157,Clamberclaw Cliffs,fishing,old,any,1,Azurill,15,20
+177,Celestic Town,fishing,old,any,1,Corphish,35,65
+21,Mt. Coronet,fishing,old,any,1,Goldeen,30,30
+0,Canalave City,fishing,old,any,1,Spheal,25,55
+198,Underground,fishing,old,any,1,Relicanth,35,65
+199,Underground,fishing,old,any,1,Relicanth,35,65
+200,Underground,fishing,old,any,1,Relicanth,35,65
+201,Underground,fishing,old,any,1,Relicanth,35,65
+179,Route 220,fishing,old,any,1,Mantine,10,80
+20,Mt. Coronet,fishing,old,any,1,Goldeen,30,30
+21,Mt. Coronet,fishing,old,any,1,Goldeen,30,30
+189,Snowpoint City,fishing,old,any,1,Walrein,70,75
+172,Route 225,fishing,old,any,1,Kabuto,5,96
+173,Route 227,fishing,old,any,1,Whiscash,17,98
+174,Route 228,fishing,old,any,1,Duskull,3,99
+175,Route 229,fishing,old,any,1,Weedle,5,89
+178,Resort Area,fishing,old,any,1,Ditto,99,100
+181,Route 226,fishing,old,any,1,Seaking,5,99
+182,Route 230,fishing,old,any,1,Gyarados,5,99
+170,Route 222,fishing,old,any,1,Lanturn,75,85
+3,Sunyshore City,fishing,old,any,1,Corsola,81,86
+180,Route 223,fishing,old,any,1,Tentacool,5,15
+169,Route 221,fishing,old,any,1,Shellder,80,100
+161,Route 212,fishing,old,any,1,Cloyster,80,90
+137,Lake Acuity,fishing,old,any,1,Cloyster,70,99
+190,Distortion World Area 1,fishing,old,any,1,Magikarp,5,5
+59,Sendoff Spring,fishing,old,any,1,Qwilfish,1,100
+59,Sendoff Spring,fishing,old,any,1,Qwilfish,1,100
+49,Victory Road,fishing,old,any,1,Tentacool,95,100
+50,Victory Road,fishing,old,any,1,Tentacool,95,100
+171,Route 224,fishing,old,any,1,Phione,20,100
+136,Lake Valor,fishing,old,any,1,Magikarp,1,99
+4,Pokémon League,fishing,old,any,1,Piplup,97,100
+176,Twinleaf Town,fishing,good,any,40,Poliwhirl,25,35
+134,Lake Verity,fishing,good,any,40,Kabuto,15,20
+135,Lake Verity,fishing,good,any,40,Kabuto,15,20
+168,Route 219,fishing,good,any,40,Corsola,15,20
+143,Route 204 South,fishing,good,any,40,Corphish,15,20
+53,Ravaged Path,fishing,good,any,40,Corphish,15,20
+167,Route 218,fishing,good,any,40,Horsea,15,20
+142,Route 203,fishing,good,any,40,Corphish,15,20
+55,Oreburgh Gate B1F,fishing,good,any,40,Omanyte,35,35
+144,Route 204 North,fishing,good,any,40,Corphish,15,20
+7,Valley Windworks,fishing,good,any,40,Lanturn,15,20
+145,Route 205 South,fishing,good,any,40,Grimer,15,20
+146,Route 205 North,fishing,good,any,40,Finneon,15,20
+1,Eterna City,fishing,good,any,40,Marill,15,20
+10,Mt. Coronet 1F,fishing,good,any,40,Clamperl,30,30
+149,Route 208,fishing,good,any,40,Wartortle,15,20
+,Amity Square,fishing,good,any,40,Marill,10,20
+150,Route 209,fishing,good,any,40,Corphish,15,38
+163,Route 214,fishing,good,any,40,Golduck,44,48
+162,Route 213,fishing,good,any,40,Corsola,45,50
+2,Pastoria City,fishing,good,any,40,Huntail,47,51
+24,Great Marsh,fishing,good,any,40,Muk,30,50
+25,Great Marsh,fishing,good,any,40,Crawdaunt,40,50
+28,Great Marsh,fishing,good,any,40,Politoed,40,55
+9,Fuego Ironworks,fishing,good,any,40,Swalot,44,60
+157,Clamberclaw Cliffs,fishing,good,any,40,Corsola,15,35
+177,Celestic Town,fishing,good,any,40,Corphish,45,60
+21,Mt. Coronet,fishing,good,any,40,Clamperl,35,65
+0,Canalave City,fishing,good,any,40,Lumineon,55,65
+198,Underground,fishing,good,any,40,Wartortle,35,55
+199,Underground,fishing,good,any,40,Wartortle,35,55
+200,Underground,fishing,good,any,40,Wartortle,35,55
+201,Underground,fishing,good,any,40,Wartortle,35,55
+179,Route 220,fishing,good,any,40,Lumineon,25,45
+20,Mt. Coronet,fishing,good,any,40,Clamperl,35,65
+21,Mt. Coronet,fishing,good,any,40,Clamperl,35,65
+189,Snowpoint City,fishing,good,any,40,Shellder,45,65
+172,Route 225,fishing,good,any,40,Kabuto,15,98
+173,Route 227,fishing,good,any,40,Crawdaunt,15,98
+174,Route 228,fishing,good,any,40,Lileep,15,94
+175,Route 229,fishing,good,any,40,Burmy,15,94
+178,Resort Area,fishing,good,any,40,Ditto,99,100
+181,Route 226,fishing,good,any,40,Horsea,15,99
+182,Route 230,fishing,good,any,40,Kingler,15,99
+170,Route 222,fishing,good,any,40,Qwilfish,81,86
+3,Sunyshore City,fishing,good,any,40,Corsola,82,87
+180,Route 223,fishing,good,any,40,Tentacruel,15,20
+169,Route 221,fishing,good,any,40,Slowpoke,90,100
+161,Route 212,fishing,good,any,40,Staryu,15,20
+137,Lake Acuity,fishing,good,any,40,Seel,75,99
+190,Distortion World Area 1,fishing,good,any,40,Tentacool,42,48
+59,Sendoff Spring,fishing,good,any,40,Gastly,30,100
+59,Sendoff Spring,fishing,good,any,40,Gastly,30,100
+49,Victory Road,fishing,good,any,40,Cloyster,100,100
+50,Victory Road,fishing,good,any,40,Cloyster,100,100
+171,Route 224,fishing,good,any,40,Luvdisc,20,100
+136,Lake Valor,fishing,good,any,40,Magikarp,1,99
+4,Pokémon League,fishing,good,any,40,Wartortle,95,100
+176,Twinleaf Town,fishing,good,any,40,Poliwhirl,25,35
+134,Lake Verity,fishing,good,any,40,Omanyte,15,20
+135,Lake Verity,fishing,good,any,40,Omanyte,15,20
+168,Route 219,fishing,good,any,40,Finneon,15,20
+143,Route 204 South,fishing,good,any,40,Seaking,15,20
+53,Ravaged Path,fishing,good,any,40,Barboach,15,20
+167,Route 218,fishing,good,any,40,Finneon,15,20
+142,Route 203,fishing,good,any,40,Barboach,15,20
+55,Oreburgh Gate B1F,fishing,good,any,40,Anorith,35,35
+144,Route 204 North,fishing,good,any,40,Seaking,15,20
+7,Valley Windworks,fishing,good,any,40,Carvanha,15,20
+145,Route 205 South,fishing,good,any,40,Carvanha,15,20
+146,Route 205 North,fishing,good,any,40,Finneon,15,20
+1,Eterna City,fishing,good,any,40,Lombre,15,20
+10,Mt. Coronet 1F,fishing,good,any,40,Chinchou,30,30
+149,Route 208,fishing,good,any,40,Buizel,15,20
+,Amity Square,fishing,good,any,40,Wooper,10,20
+150,Route 209,fishing,good,any,40,Poliwhirl,15,38
+163,Route 214,fishing,good,any,40,Goldeen,44,48
+162,Route 213,fishing,good,any,40,Remoraid,45,50
+2,Pastoria City,fishing,good,any,40,Gorebyss,47,51
+24,Great Marsh,fishing,good,any,40,Barboach,30,50
+25,Great Marsh,fishing,good,any,40,Muk,40,50
+28,Great Marsh,fishing,good,any,40,Barboach,40,55
+9,Fuego Ironworks,fishing,good,any,40,Muk,44,60
+157,Clamberclaw Cliffs,fishing,good,any,40,Barboach,15,35
+177,Celestic Town,fishing,good,any,40,Goldeen,45,55
+21,Mt. Coronet,fishing,good,any,40,Huntail,55,70
+0,Canalave City,fishing,good,any,40,Qwilfish,45,55
+198,Underground,fishing,good,any,40,Blastoise,35,55
+199,Underground,fishing,good,any,40,Blastoise,35,55
+200,Underground,fishing,good,any,40,Blastoise,35,55
+201,Underground,fishing,good,any,40,Blastoise,35,55
+179,Route 220,fishing,good,any,40,Lanturn,25,45
+20,Mt. Coronet,fishing,good,any,40,Huntail,55,70
+21,Mt. Coronet,fishing,good,any,40,Huntail,55,70
+189,Snowpoint City,fishing,good,any,40,Dewgong,45,70
+172,Route 225,fishing,good,any,40,Quagsire,15,98
+173,Route 227,fishing,good,any,40,Corphish,15,98
+174,Route 228,fishing,good,any,40,Cradily,15,94
+175,Route 229,fishing,good,any,40,Burmy,15,96
+178,Resort Area,fishing,good,any,40,Ditto,99,100
+181,Route 226,fishing,good,any,40,Seaking,15,99
+182,Route 230,fishing,good,any,40,Remoraid,15,99
+170,Route 222,fishing,good,any,40,Remoraid,81,86
+3,Sunyshore City,fishing,good,any,40,Qwilfish,82,87
+180,Route 223,fishing,good,any,40,Lumineon,15,25
+169,Route 221,fishing,good,any,40,Slowking,90,100
+161,Route 212,fishing,good,any,40,Staryu,15,20
+137,Lake Acuity,fishing,good,any,40,Dewgong,75,99
+190,Distortion World Area 1,fishing,good,any,40,Horsea,42,48
+59,Sendoff Spring,fishing,good,any,40,Vaporeon,50,100
+59,Sendoff Spring,fishing,good,any,40,Vaporeon,50,100
+49,Victory Road,fishing,good,any,40,Cloyster,100,100
+50,Victory Road,fishing,good,any,40,Cloyster,100,100
+171,Route 224,fishing,good,any,40,Lumineon,20,100
+136,Lake Valor,fishing,good,any,40,Magikarp,1,99
+4,Pokémon League,fishing,good,any,40,Croconaw,95,100
+176,Twinleaf Town,fishing,good,any,15,Wooper,25,35
+134,Lake Verity,fishing,good,any,15,Anorith,10,25
+135,Lake Verity,fishing,good,any,15,Anorith,10,25
+168,Route 219,fishing,good,any,15,Corsola,10,25
+143,Route 204 South,fishing,good,any,15,Golduck,10,25
+53,Ravaged Path,fishing,good,any,15,Wooper,10,25
+167,Route 218,fishing,good,any,15,Barboach,10,25
+142,Route 203,fishing,good,any,15,Poliwhirl,10,25
+55,Oreburgh Gate B1F,fishing,good,any,15,Lileep,35,35
+144,Route 204 North,fishing,good,any,15,Golduck,10,25
+7,Valley Windworks,fishing,good,any,15,Chinchou,10,25
+145,Route 205 South,fishing,good,any,15,Carvanha,10,25
+146,Route 205 North,fishing,good,any,15,Finneon,10,25
+1,Eterna City,fishing,good,any,15,Lotad,10,25
+10,Mt. Coronet 1F,fishing,good,any,15,Staryu,30,30
+149,Route 208,fishing,good,any,15,Buizel,10,25
+,Amity Square,fishing,good,any,15,Psyduck,10,20
+150,Route 209,fishing,good,any,15,Barboach,15,38
+163,Route 214,fishing,good,any,15,Carvanha,44,48
+162,Route 213,fishing,good,any,15,Chinchou,45,50
+2,Pastoria City,fishing,good,any,15,Clamperl,47,51
+24,Great Marsh,fishing,good,any,15,Slowpoke,30,50
+25,Great Marsh,fishing,good,any,15,Blastoise,40,50
+28,Great Marsh,fishing,good,any,15,Poliwhirl,40,55
+9,Fuego Ironworks,fishing,good,any,15,Grimer,44,60
+157,Clamberclaw Cliffs,fishing,good,any,15,Corsola,15,35
+177,Celestic Town,fishing,good,any,15,Wartortle,47,60
+21,Mt. Coronet,fishing,good,any,15,Gorebyss,55,70
+0,Canalave City,fishing,good,any,15,Seadra,45,65
+198,Underground,fishing,good,any,15,Staryu,35,55
+199,Underground,fishing,good,any,15,Squirtle,35,55
+200,Underground,fishing,good,any,15,Staryu,35,55
+201,Underground,fishing,good,any,15,Staryu,35,55
+179,Route 220,fishing,good,any,15,Chinchou,25,45
+20,Mt. Coronet,fishing,good,any,15,Gorebyss,55,70
+21,Mt. Coronet,fishing,good,any,15,Gorebyss,55,70
+189,Snowpoint City,fishing,good,any,15,Kingler,55,75
+172,Route 225,fishing,good,any,15,Wooper,10,98
+173,Route 227,fishing,good,any,15,Poliwhirl,10,98
+174,Route 228,fishing,good,any,15,Anorith,10,94
+175,Route 229,fishing,good,any,15,Wormadam,10,97
+178,Resort Area,fishing,good,any,15,Ditto,99,100
+181,Route 226,fishing,good,any,15,Grimer,10,99
+182,Route 230,fishing,good,any,15,Magikarp,10,99
+170,Route 222,fishing,good,any,15,Octillery,81,86
+3,Sunyshore City,fishing,good,any,15,Sharpedo,82,87
+180,Route 223,fishing,good,any,15,Seadra,10,25
+169,Route 221,fishing,good,any,15,Misdreavus,90,100
+161,Route 212,fishing,good,any,15,Horsea,10,25
+137,Lake Acuity,fishing,good,any,15,Spheal,75,99
+190,Distortion World Area 1,fishing,good,any,15,Horsea,42,48
+59,Sendoff Spring,fishing,good,any,15,Milotic,60,100
+59,Sendoff Spring,fishing,good,any,15,Milotic,60,100
+49,Victory Road,fishing,good,any,15,Seadra,99,99
+50,Victory Road,fishing,good,any,15,Seadra,99,99
+171,Route 224,fishing,good,any,15,Octillery,20,100
+136,Lake Valor,fishing,good,any,15,Magikarp,1,99
+4,Pokémon League,fishing,good,any,15,Marshtomp,95,100
+176,Twinleaf Town,fishing,good,any,4,Marill,25,35
+134,Lake Verity,fishing,good,any,4,Lileep,25,35
+135,Lake Verity,fishing,good,any,4,Lileep,25,35
+168,Route 219,fishing,good,any,4,Lumineon,25,35
+143,Route 204 South,fishing,good,any,4,Golduck,10,25
+53,Ravaged Path,fishing,good,any,4,Slowpoke,10,25
+167,Route 218,fishing,good,any,4,Staryu,10,25
+142,Route 203,fishing,good,any,4,Poliwrath,10,25
+55,Oreburgh Gate B1F,fishing,good,any,4,Lileep,35,35
+144,Route 204 North,fishing,good,any,4,Golduck,10,25
+7,Valley Windworks,fishing,good,any,4,Finneon,10,25
+145,Route 205 South,fishing,good,any,4,Barboach,10,25
+146,Route 205 North,fishing,good,any,4,Finneon,10,25
+1,Eterna City,fishing,good,any,4,Barboach,10,25
+10,Mt. Coronet 1F,fishing,good,any,4,Shellder,30,30
+149,Route 208,fishing,good,any,4,Kabuto,10,25
+,Amity Square,fishing,good,any,4,Squirtle,10,20
+150,Route 209,fishing,good,any,4,Bidoof,15,38
+163,Route 214,fishing,good,any,4,Croconaw,44,48
+162,Route 213,fishing,good,any,4,Sharpedo,45,50
+2,Pastoria City,fishing,good,any,4,Seadra,45,51
+24,Great Marsh,fishing,good,any,4,Wartortle,30,50
+25,Great Marsh,fishing,good,any,4,Barboach,40,50
+28,Great Marsh,fishing,good,any,4,Totodile,40,55
+9,Fuego Ironworks,fishing,good,any,4,Clamperl,44,60
+157,Clamberclaw Cliffs,fishing,good,any,4,Whiscash,15,35
+177,Celestic Town,fishing,good,any,4,Squirtle,35,45
+21,Mt. Coronet,fishing,good,any,4,Gorebyss,55,70
+0,Canalave City,fishing,good,any,4,Lanturn,55,65
+198,Underground,fishing,good,any,4,Starmie,35,55
+199,Underground,fishing,good,any,4,Starmie,35,55
+200,Underground,fishing,good,any,4,Starmie,35,55
+201,Underground,fishing,good,any,4,Starmie,35,55
+179,Route 220,fishing,good,any,4,Seadra,25,45
+20,Mt. Coronet,fishing,good,any,4,Gorebyss,55,70
+21,Mt. Coronet,fishing,good,any,4,Gorebyss,55,70
+189,Snowpoint City,fishing,good,any,4,Tentacruel,55,75
+172,Route 225,fishing,good,any,4,Kabutops,10,98
+173,Route 227,fishing,good,any,4,Barboach,10,98
+174,Route 228,fishing,good,any,4,Croconaw,25,94
+175,Route 229,fishing,good,any,4,Wormadam,10,98
+178,Resort Area,fishing,good,any,4,Ditto,100,100
+181,Route 226,fishing,good,any,4,Staryu,10,99
+182,Route 230,fishing,good,any,4,Horsea,10,99
+170,Route 222,fishing,good,any,4,Slowpoke,81,86
+3,Sunyshore City,fishing,good,any,4,Sharpedo,82,87
+180,Route 223,fishing,good,any,4,Remoraid,25,35
+169,Route 221,fishing,good,any,4,Misdreavus,90,100
+161,Route 212,fishing,good,any,4,Seadra,10,25
+137,Lake Acuity,fishing,good,any,4,Sealeo,75,99
+190,Distortion World Area 1,fishing,good,any,4,Tentacool,42,48
+59,Sendoff Spring,fishing,good,any,4,Relicanth,70,100
+59,Sendoff Spring,fishing,good,any,4,Relicanth,70,100
+49,Victory Road,fishing,good,any,4,Seadra,99,99
+50,Victory Road,fishing,good,any,4,Seadra,99,99
+171,Route 224,fishing,good,any,4,Whiscash,20,100
+136,Lake Valor,fishing,good,any,4,Seaking,1,99
+4,Pokémon League,fishing,good,any,4,Prinplup,95,100
+176,Twinleaf Town,fishing,good,any,1,Marill,25,35
+134,Lake Verity,fishing,good,any,1,Lileep,25,35
+135,Lake Verity,fishing,good,any,1,Lileep,25,35
+168,Route 219,fishing,good,any,1,Lumineon,25,35
+143,Route 204 South,fishing,good,any,1,Psyduck,10,25
+53,Ravaged Path,fishing,good,any,1,Bibarel,10,25
+167,Route 218,fishing,good,any,1,Croconaw,10,25
+142,Route 203,fishing,good,any,1,Poliwrath,10,25
+55,Oreburgh Gate B1F,fishing,good,any,1,Lileep,35,35
+144,Route 204 North,fishing,good,any,1,Psyduck,10,25
+7,Valley Windworks,fishing,good,any,1,Sharpedo,10,25
+145,Route 205 South,fishing,good,any,1,Seviper,10,25
+146,Route 205 North,fishing,good,any,1,Finneon,10,25
+1,Eterna City,fishing,good,any,1,Barboach,10,25
+10,Mt. Coronet 1F,fishing,good,any,1,Shellder,30,30
+149,Route 208,fishing,good,any,1,Kabuto,10,25
+,Amity Square,fishing,good,any,1,Horsea,10,20
+150,Route 209,fishing,good,any,1,Buizel,15,38
+163,Route 214,fishing,good,any,1,Floatzel,44,48
+162,Route 213,fishing,good,any,1,Horsea,45,50
+2,Pastoria City,fishing,good,any,1,Remoraid,47,51
+24,Great Marsh,fishing,good,any,1,Blastoise,30,100
+25,Great Marsh,fishing,good,any,1,Corphish,40,50
+28,Great Marsh,fishing,good,any,1,Squirtle,40,55
+9,Fuego Ironworks,fishing,good,any,1,Crawdaunt,44,60
+157,Clamberclaw Cliffs,fishing,good,any,1,Staryu,15,35
+177,Celestic Town,fishing,good,any,1,Squirtle,35,45
+21,Mt. Coronet,fishing,good,any,1,Cradily,55,70
+0,Canalave City,fishing,good,any,1,Horsea,15,35
+198,Underground,fishing,good,any,1,Relicanth,35,55
+199,Underground,fishing,good,any,1,Relicanth,35,55
+200,Underground,fishing,good,any,1,Relicanth,35,55
+201,Underground,fishing,good,any,1,Relicanth,35,55
+179,Route 220,fishing,good,any,1,Seadra,25,45
+20,Mt. Coronet,fishing,good,any,1,Cradily,55,70
+21,Mt. Coronet,fishing,good,any,1,Cradily,55,70
+189,Snowpoint City,fishing,good,any,1,Slowking,65,75
+172,Route 225,fishing,good,any,1,Vaporeon,10,98
+173,Route 227,fishing,good,any,1,Barboach,10,98
+174,Route 228,fishing,good,any,1,Armaldo,25,94
+175,Route 229,fishing,good,any,1,Wormadam,10,99
+178,Resort Area,fishing,good,any,1,Ditto,100,100
+181,Route 226,fishing,good,any,1,Starmie,10,99
+182,Route 230,fishing,good,any,1,Remoraid,10,99
+170,Route 222,fishing,good,any,1,Slowking,81,86
+3,Sunyshore City,fishing,good,any,1,Remoraid,82,87
+180,Route 223,fishing,good,any,1,Relicanth,25,35
+169,Route 221,fishing,good,any,1,Tentacool,90,100
+161,Route 212,fishing,good,any,1,Seadra,10,25
+137,Lake Acuity,fishing,good,any,1,Walrein,75,99
+190,Distortion World Area 1,fishing,good,any,1,Seadra,42,48
+59,Sendoff Spring,fishing,good,any,1,Slowbro,60,100
+59,Sendoff Spring,fishing,good,any,1,Slowbro,60,100
+49,Victory Road,fishing,good,any,1,Seadra,100,100
+50,Victory Road,fishing,good,any,1,Seadra,100,100
+171,Route 224,fishing,good,any,1,Mudkip,1,100
+136,Lake Valor,fishing,good,any,1,Seaking,1,99
+4,Pokémon League,fishing,good,any,1,Prinplup,95,100
+176,Twinleaf Town,fishing,super,any,40,Lotad,30,40
+134,Lake Verity,fishing,super,any,40,Clamperl,30,40
+135,Lake Verity,fishing,super,any,40,Clamperl,30,40
+168,Route 219,fishing,super,any,40,Gyarados,30,40
+143,Route 204 South,fishing,super,any,40,Gyarados,30,40
+53,Ravaged Path,fishing,super,any,40,Gyarados,30,55
+167,Route 218,fishing,super,any,40,Staryu,30,40
+142,Route 203,fishing,super,any,40,Poliwrath,30,77
+55,Oreburgh Gate B1F,fishing,super,any,40,Omastar,40,80
+144,Route 204 North,fishing,super,any,40,Gyarados,30,40
+7,Valley Windworks,fishing,super,any,40,Gyarados,30,55
+145,Route 205 South,fishing,super,any,40,Sharpedo,30,55
+146,Route 205 North,fishing,super,any,40,Bibarel,30,55
+1,Eterna City,fishing,super,any,40,Ludicolo,30,69
+10,Mt. Coronet 1F,fishing,super,any,40,Cloyster,30,55
+149,Route 208,fishing,super,any,40,Blastoise,55,78
+150,Route 209,fishing,super,any,40,Feraligatr,55,78
+163,Route 214,fishing,super,any,40,Muk,55,78
+162,Route 213,fishing,super,any,40,Shellder,60,90
+2,Pastoria City,fishing,super,any,40,Seadra,65,85
+24,Great Marsh,fishing,super,any,40,Croagunk,30,55
+25,Great Marsh,fishing,super,any,40,Gyarados,30,55
+28,Great Marsh,fishing,super,any,40,Gyarados,30,55
+9,Fuego Ironworks,fishing,super,any,40,Gyarados,30,55
+157,Clamberclaw Cliffs,fishing,super,any,40,Staryu,30,55
+177,Celestic Town,fishing,super,any,40,Blastoise,70,80
+21,Mt. Coronet,fishing,super,any,40,Staryu,66,78
+0,Canalave City,fishing,super,any,40,Staryu,30,55
+198,Underground,fishing,super,any,40,Relicanth,25,65
+199,Underground,fishing,super,any,40,Relicanth,25,65
+200,Underground,fishing,super,any,40,Relicanth,25,65
+201,Underground,fishing,super,any,40,Relicanth,25,65
+179,Route 220,fishing,super,any,40,Qwilfish,30,98
+20,Mt. Coronet,fishing,super,any,40,Staryu,66,78
+21,Mt. Coronet,fishing,super,any,40,Staryu,66,78
+189,Snowpoint City,fishing,super,any,40,Kingler,45,75
+172,Route 225,fishing,super,any,40,Whiscash,30,99
+173,Route 227,fishing,super,any,40,Politoed,30,99
+174,Route 228,fishing,super,any,40,Shellos,30,97
+175,Route 229,fishing,super,any,40,Anorith,30,97
+178,Resort Area,fishing,super,any,40,Ditto,100,100
+181,Route 226,fishing,super,any,40,Grimer,30,99
+182,Route 230,fishing,super,any,40,Horsea,30,99
+170,Route 222,fishing,super,any,40,Azumarill,84,87
+3,Sunyshore City,fishing,super,any,40,Shellder,88,90
+180,Route 223,fishing,super,any,40,Octillery,30,55
+169,Route 221,fishing,super,any,40,Gastly,100,100
+161,Route 212,fishing,super,any,40,Qwilfish,30,40
+137,Lake Acuity,fishing,super,any,40,Krabby,20,45
+190,Distortion World Area 1,fishing,super,any,40,Dratini,100,100
+59,Sendoff Spring,fishing,super,any,40,Phione,70,100
+59,Sendoff Spring,fishing,super,any,40,Phione,70,100
+49,Victory Road,fishing,super,any,40,Gyarados,100,100
+50,Victory Road,fishing,super,any,40,Gyarados,100,100
+171,Route 224,fishing,super,any,40,Lanturn,20,100
+136,Lake Valor,fishing,super,any,40,Qwilfish,5,100
+4,Pokémon League,fishing,super,any,40,Blastoise,97,99
+176,Twinleaf Town,fishing,super,any,40,Lotad,30,40
+134,Lake Verity,fishing,super,any,40,Cloyster,30,40
+135,Lake Verity,fishing,super,any,40,Cloyster,30,40
+168,Route 219,fishing,super,any,40,Lumineon,30,40
+143,Route 204 South,fishing,super,any,40,Seaking,30,40
+53,Ravaged Path,fishing,super,any,40,Whiscash,30,40
+167,Route 218,fishing,super,any,40,Lumineon,30,40
+142,Route 203,fishing,super,any,40,Politoed,30,77
+55,Oreburgh Gate B1F,fishing,super,any,40,Kabutops,40,80
+144,Route 204 North,fishing,super,any,40,Seaking,30,40
+7,Valley Windworks,fishing,super,any,40,Lumineon,30,40
+145,Route 205 South,fishing,super,any,40,Lanturn,30,40
+146,Route 205 North,fishing,super,any,40,Floatzel,30,40
+1,Eterna City,fishing,super,any,40,Ludicolo,30,68
+10,Mt. Coronet 1F,fishing,super,any,40,Staryu,30,40
+149,Route 208,fishing,super,any,40,Feraligatr,55,78
+150,Route 209,fishing,super,any,40,Croconaw,55,78
+163,Route 214,fishing,super,any,40,Seaking,55,78
+162,Route 213,fishing,super,any,40,Gastrodon,60,90
+2,Pastoria City,fishing,super,any,40,Octillery,65,85
+24,Great Marsh,fishing,super,any,40,Carvanha,30,40
+25,Great Marsh,fishing,super,any,40,Toxicroak,30,40
+28,Great Marsh,fishing,super,any,40,Carvanha,30,40
+9,Fuego Ironworks,fishing,super,any,40,Lumineon,30,40
+157,Clamberclaw Cliffs,fishing,super,any,40,Corsola,30,55
+177,Celestic Town,fishing,super,any,40,Whiscash,70,80
+21,Mt. Coronet,fishing,super,any,40,Omastar,66,78
+0,Canalave City,fishing,super,any,40,Clamperl,30,40
+198,Underground,fishing,super,any,40,Relicanth,25,65
+199,Underground,fishing,super,any,40,Relicanth,25,65
+200,Underground,fishing,super,any,40,Relicanth,25,65
+201,Underground,fishing,super,any,40,Relicanth,25,65
+179,Route 220,fishing,super,any,40,Qwilfish,30,98
+20,Mt. Coronet,fishing,super,any,40,Omastar,66,78
+21,Mt. Coronet,fishing,super,any,40,Omastar,66,78
+189,Snowpoint City,fishing,super,any,40,Piplup,15,75
+172,Route 225,fishing,super,any,40,Lanturn,30,99
+173,Route 227,fishing,super,any,40,Poliwrath,30,99
+174,Route 228,fishing,super,any,40,Gastrodon,30,97
+175,Route 229,fishing,super,any,40,Anorith,30,97
+178,Resort Area,fishing,super,any,40,Ditto,100,100
+181,Route 226,fishing,super,any,40,Seadra,30,99
+182,Route 230,fishing,super,any,40,Seadra,30,99
+170,Route 222,fishing,super,any,40,Sharpedo,84,87
+3,Sunyshore City,fishing,super,any,40,Seadra,88,90
+180,Route 223,fishing,super,any,40,Misdreavus,30,40
+169,Route 221,fishing,super,any,40,Kingler,100,100
+161,Route 212,fishing,super,any,40,Qwilfish,40,50
+137,Lake Acuity,fishing,super,any,40,Kingler,30,55
+190,Distortion World Area 1,fishing,super,any,40,Dratini,100,100
+59,Sendoff Spring,fishing,super,any,40,Relicanth,70,100
+59,Sendoff Spring,fishing,super,any,40,Relicanth,70,100
+49,Victory Road,fishing,super,any,40,Gyarados,100,100
+50,Victory Road,fishing,super,any,40,Gyarados,100,100
+171,Route 224,fishing,super,any,40,Dewgong,20,100
+136,Lake Valor,fishing,super,any,40,Qwilfish,25,100
+4,Pokémon League,fishing,super,any,40,Feraligatr,97,99
+176,Twinleaf Town,fishing,super,any,15,Lombre,40,55
+134,Lake Verity,fishing,super,any,15,Staryu,40,55
+135,Lake Verity,fishing,super,any,15,Staryu,40,55
+168,Route 219,fishing,super,any,15,Gyarados,40,55
+143,Route 204 South,fishing,super,any,15,Lombre,40,55
+53,Ravaged Path,fishing,super,any,15,Gyarados,40,55
+167,Route 218,fishing,super,any,15,Starmie,40,55
+142,Route 203,fishing,super,any,15,Raticate,40,77
+55,Oreburgh Gate B1F,fishing,super,any,15,Relicanth,40,80
+144,Route 204 North,fishing,super,any,15,Lombre,40,55
+7,Valley Windworks,fishing,super,any,15,Shellder,20,50
+145,Route 205 South,fishing,super,any,15,Shellder,20,50
+146,Route 205 North,fishing,super,any,15,Shellder,20,50
+1,Eterna City,fishing,super,any,15,Ludicolo,40,68
+10,Mt. Coronet 1F,fishing,super,any,15,Relicanth,20,55
+149,Route 208,fishing,super,any,15,Feraligatr,55,78
+150,Route 209,fishing,super,any,15,Croconaw,55,78
+163,Route 214,fishing,super,any,15,Carvanha,55,78
+162,Route 213,fishing,super,any,15,Walrein,60,90
+2,Pastoria City,fishing,super,any,15,Gorebyss,65,85
+24,Great Marsh,fishing,super,any,15,Whiscash,20,50
+25,Great Marsh,fishing,super,any,15,Whiscash,20,50
+28,Great Marsh,fishing,super,any,15,Whiscash,20,50
+9,Fuego Ironworks,fishing,super,any,15,Shellder,20,50
+157,Clamberclaw Cliffs,fishing,super,any,15,Starmie,40,65
+177,Celestic Town,fishing,super,any,15,Politoed,70,80
+21,Mt. Coronet,fishing,super,any,15,Kabutops,66,78
+0,Canalave City,fishing,super,any,15,Starmie,55,65
+198,Underground,fishing,super,any,15,Relicanth,25,65
+199,Underground,fishing,super,any,15,Relicanth,25,65
+200,Underground,fishing,super,any,15,Relicanth,25,65
+201,Underground,fishing,super,any,15,Relicanth,25,65
+179,Route 220,fishing,super,any,15,Qwilfish,20,98
+20,Mt. Coronet,fishing,super,any,15,Kabutops,66,78
+21,Mt. Coronet,fishing,super,any,15,Kabutops,66,78
+189,Snowpoint City,fishing,super,any,15,Lapras,75,85
+172,Route 225,fishing,super,any,15,Swampert,40,99
+173,Route 227,fishing,super,any,15,Gyarados,40,99
+174,Route 228,fishing,super,any,15,Octillery,40,97
+175,Route 229,fishing,super,any,15,Armaldo,40,97
+178,Resort Area,fishing,super,any,15,Ditto,100,100
+181,Route 226,fishing,super,any,15,Relicanth,20,99
+182,Route 230,fishing,super,any,15,Kingdra,20,99
+170,Route 222,fishing,super,any,15,Starmie,84,87
+3,Sunyshore City,fishing,super,any,15,Staryu,88,90
+180,Route 223,fishing,super,any,15,Octillery,20,50
+169,Route 221,fishing,super,any,15,Wailord,100,100
+161,Route 212,fishing,super,any,15,Phione,20,45
+137,Lake Acuity,fishing,super,any,15,Kingler,40,65
+190,Distortion World Area 1,fishing,super,any,15,Dratini,100,100
+59,Sendoff Spring,fishing,super,any,15,Kabutops,70,100
+59,Sendoff Spring,fishing,super,any,15,Kabutops,70,100
+49,Victory Road,fishing,super,any,15,Gyarados,100,100
+50,Victory Road,fishing,super,any,15,Gyarados,100,100
+171,Route 224,fishing,super,any,15,Horsea,20,100
+136,Lake Valor,fishing,super,any,15,Qwilfish,35,100
+4,Pokémon League,fishing,super,any,15,Swampert,97,99
+176,Twinleaf Town,fishing,super,any,4,Lombre,40,55
+134,Lake Verity,fishing,super,any,4,Piplup,40,55
+135,Lake Verity,fishing,super,any,4,Piplup,40,55
+168,Route 219,fishing,super,any,4,Lumineon,40,55
+143,Route 204 South,fishing,super,any,4,Seaking,40,55
+53,Ravaged Path,fishing,super,any,4,Whiscash,40,55
+167,Route 218,fishing,super,any,4,Whiscash,40,55
+142,Route 203,fishing,super,any,4,Toxicroak,40,77
+55,Oreburgh Gate B1F,fishing,super,any,4,Relicanth,40,80
+144,Route 204 North,fishing,super,any,4,Seaking,40,55
+7,Valley Windworks,fishing,super,any,4,Lumineon,40,55
+145,Route 205 South,fishing,super,any,4,Lumineon,40,55
+146,Route 205 North,fishing,super,any,4,Lumineon,40,55
+1,Eterna City,fishing,super,any,4,Misdreavus,40,67
+10,Mt. Coronet 1F,fishing,super,any,4,Relicanth,40,55
+149,Route 208,fishing,super,any,4,Gyarados,55,78
+150,Route 209,fishing,super,any,4,Floatzel,55,78
+163,Route 214,fishing,super,any,4,Feraligatr,55,78
+162,Route 213,fishing,super,any,4,Wailmer,60,90
+2,Pastoria City,fishing,super,any,4,Huntail,65,85
+24,Great Marsh,fishing,super,any,4,Crawdaunt,40,55
+25,Great Marsh,fishing,super,any,4,Swampert,40,55
+28,Great Marsh,fishing,super,any,4,Carvanha,40,55
+9,Fuego Ironworks,fishing,super,any,4,Lumineon,40,55
+157,Clamberclaw Cliffs,fishing,super,any,4,Vaporeon,40,65
+177,Celestic Town,fishing,super,any,4,Quagsire,70,80
+21,Mt. Coronet,fishing,super,any,4,Armaldo,66,78
+0,Canalave City,fishing,super,any,4,Mantine,40,55
+198,Underground,fishing,super,any,4,Relicanth,25,65
+199,Underground,fishing,super,any,4,Relicanth,25,65
+200,Underground,fishing,super,any,4,Relicanth,25,65
+201,Underground,fishing,super,any,4,Relicanth,25,65
+179,Route 220,fishing,super,any,4,Qwilfish,40,98
+20,Mt. Coronet,fishing,super,any,4,Armaldo,66,78
+21,Mt. Coronet,fishing,super,any,4,Armaldo,66,78
+189,Snowpoint City,fishing,super,any,4,Dewgong,25,65
+172,Route 225,fishing,super,any,4,Vaporeon,40,99
+173,Route 227,fishing,super,any,4,Krabby,40,99
+174,Route 228,fishing,super,any,4,Feraligatr,40,97
+175,Route 229,fishing,super,any,4,Armaldo,40,97
+178,Resort Area,fishing,super,any,4,Ditto,100,100
+181,Route 226,fishing,super,any,4,Lanturn,40,99
+182,Route 230,fishing,super,any,4,Wailmer,95,100
+170,Route 222,fishing,super,any,4,Lanturn,84,87
+3,Sunyshore City,fishing,super,any,4,Octillery,88,90
+180,Route 223,fishing,super,any,4,Kingdra,40,55
+169,Route 221,fishing,super,any,4,Wailord,100,100
+161,Route 212,fishing,super,any,4,Phione,35,65
+137,Lake Acuity,fishing,super,any,4,Kingler,50,85
+190,Distortion World Area 1,fishing,super,any,4,Dratini,100,100
+59,Sendoff Spring,fishing,super,any,4,Omastar,70,100
+59,Sendoff Spring,fishing,super,any,4,Omastar,70,100
+49,Victory Road,fishing,super,any,4,Gyarados,100,100
+50,Victory Road,fishing,super,any,4,Gyarados,100,100
+171,Route 224,fishing,super,any,4,Vaporeon,20,100
+136,Lake Valor,fishing,super,any,4,Qwilfish,55,100
+4,Pokémon League,fishing,super,any,4,Empoleon,97,99
+176,Twinleaf Town,fishing,super,any,1,Ludicolo,40,55
+134,Lake Verity,fishing,super,any,1,Dratini,100,100
+135,Lake Verity,fishing,super,any,1,Gyarados,40,55
+168,Route 219,fishing,super,any,1,Lumineon,40,55
+143,Route 204 South,fishing,super,any,1,Ludicolo,40,55
+53,Ravaged Path,fishing,super,any,1,Whiscash,40,55
+167,Route 218,fishing,super,any,1,Blastoise,40,55
+142,Route 203,fishing,super,any,1,Crawdaunt,40,77
+55,Oreburgh Gate B1F,fishing,super,any,1,Relicanth,40,80
+144,Route 204 North,fishing,super,any,1,Ludicolo,40,55
+7,Valley Windworks,fishing,super,any,1,Lumineon,40,55
+145,Route 205 South,fishing,super,any,1,Chinchou,40,55
+146,Route 205 North,fishing,super,any,1,Lumineon,40,55
+1,Eterna City,fishing,super,any,1,Misdreavus,40,67
+10,Mt. Coronet 1F,fishing,super,any,1,Relicanth,40,55
+149,Route 208,fishing,super,any,1,Totodile,55,78
+150,Route 209,fishing,super,any,1,Buizel,55,78
+163,Route 214,fishing,super,any,1,Floatzel,55,78
+162,Route 213,fishing,super,any,1,Mantine,60,90
+2,Pastoria City,fishing,super,any,1,Cloyster,65,100
+24,Great Marsh,fishing,super,any,1,Carvanha,40,55
+25,Great Marsh,fishing,super,any,1,Swampert,40,55
+28,Great Marsh,fishing,super,any,1,Mudkip,40,55
+9,Fuego Ironworks,fishing,super,any,1,Lumineon,40,55
+157,Clamberclaw Cliffs,fishing,super,any,1,Haunter,40,65
+177,Celestic Town,fishing,super,any,1,Quagsire,70,80
+21,Mt. Coronet,fishing,super,any,1,Relicanth,66,78
+0,Canalave City,fishing,super,any,1,Wailmer,40,55
+198,Underground,fishing,super,any,1,Relicanth,25,100
+199,Underground,fishing,super,any,1,Relicanth,25,100
+200,Underground,fishing,super,any,1,Relicanth,25,100
+201,Underground,fishing,super,any,1,Relicanth,25,100
+179,Route 220,fishing,super,any,1,Qwilfish,40,98
+20,Mt. Coronet,fishing,super,any,1,Relicanth,66,78
+21,Mt. Coronet,fishing,super,any,1,Relicanth,66,78
+189,Snowpoint City,fishing,super,any,1,Wailmer,65,90
+172,Route 225,fishing,super,any,1,Mudkip,40,99
+173,Route 227,fishing,super,any,1,Feebas,40,99
+174,Route 228,fishing,super,any,1,Mudkip,40,97
+175,Route 229,fishing,super,any,1,Armaldo,40,97
+178,Resort Area,fishing,super,any,1,Ditto,100,100
+181,Route 226,fishing,super,any,1,Kingdra,40,99
+182,Route 230,fishing,super,any,1,Wailord,100,100
+170,Route 222,fishing,super,any,1,Chinchou,84,87
+3,Sunyshore City,fishing,super,any,1,Cloyster,88,90
+180,Route 223,fishing,super,any,1,Wailord,40,55
+169,Route 221,fishing,super,any,1,Krabby,99,100
+161,Route 212,fishing,super,any,1,Mudkip,5,10
+137,Lake Acuity,fishing,super,any,1,Kingler,90,100
+190,Distortion World Area 1,fishing,super,any,1,Dratini,100,100
+59,Sendoff Spring,fishing,super,any,1,Starmie,70,100
+59,Sendoff Spring,fishing,super,any,1,Starmie,70,100
+49,Victory Road,fishing,super,any,1,Gyarados,100,100
+50,Victory Road,fishing,super,any,1,Gyarados,100,100
+171,Route 224,fishing,super,any,1,Wailord,95,100
+136,Lake Valor,fishing,super,any,1,Qwilfish,75,100
+4,Pokémon League,fishing,super,any,1,Empoleon,97,99
+140,Route 201,swarm,,any,20,Doduo,4,4
+140,Verity Lakefront,swarm,,any,20,Doduo,4,4
+134,Lake Verity,swarm,,any,20,Starly,3,3
+187,Sandgem Town,swarm,,any,20,Squirtle,5,5
+141,Route 202,swarm,,any,20,Zigzagoon,5,5
+143,Route 204 South,swarm,,any,20,Starly,9,9
+53,Ravaged Path,swarm,,any,20,Zubat,7,7
+167,Route 218,swarm,,any,20,Voltorb,30,30
+142,Route 203,swarm,,any,20,Cubone,8,8
+54,Oreburgh Gate 1F,swarm,,any,20,Zubat,5,5
+55,Oreburgh Gate B1F,swarm,,any,20,Zubat,15,15
+183,Oreburgh City,swarm,,any,20,Torkoal,10,10
+148,Route 207,swarm,,any,20,Phanpy,11,11
+5,Oreburgh Mine,swarm,,any,20,Geodude,10,10
+144,Route 204 North,swarm,,any,20,Starly,14,14
+185,Floaroma Town,swarm,,any,20,Silcoon,15,15
+7,Valley Windworks,swarm,,any,20,Electrike,17,17
+145,Route 205 South,swarm,,any,20,Shellos,15,15
+8,Eterna Forest,swarm,,any,20,Slakoth,23,23
+146,Route 205 North,swarm,,any,20,Shellos,20,20
+158,Route 211 West,swarm,,any,20,Meditite,17,17
+147,Route 206,swarm,,any,20,Larvitar,23,23
+10,Mt. Coronet 1F,swarm,,any,20,Bronzor,24,24
+149,Route 208,swarm,,any,20,Dunsparce,18,18
+150,Route 209,swarm,,any,20,Tauros,36,36
+188,Solaceon Town,swarm,,any,20,Tauros,38,38
+31,Solaceon Ruins,swarm,,any,20,Baltoy,37,37
+156,Route 210 South,swarm,,any,20,Tauros,41,41
+164,Route 215,swarm,,any,20,Drowzee,42,42
+163,Route 214,swarm,,any,20,Spoink,45,45
+116,Maniac Tunnel,swarm,,any,20,Geodude,45,45
+138,Valor Lakefront,swarm,,any,20,Girafarig,47,47
+162,Route 213,swarm,,any,20,Shellos,100,100
+23,Great Marsh,swarm,,any,20,Wooper,50,50
+24,Great Marsh,swarm,,any,20,Wooper,50,50
+25,Great Marsh,swarm,,any,20,Wooper,50,50
+26,Great Marsh,swarm,,any,20,Wooper,50,50
+27,Great Marsh,swarm,,any,20,Wooper,50,50
+28,Great Marsh,swarm,,any,20,Wooper,50,50
+9,Fuego Ironworks,swarm,,any,20,Magmar,55,55
+157,Clamberclaw Cliffs,swarm,,any,20,Swablu,45,45
+177,Celestic Town,swarm,,any,20,Mr. Mime,55,55
+159,Route 211,swarm,,any,20,Meditite,55,55
+21,Mt. Coronet,swarm,,any,20,Bronzor,65,65
+122,Iron Island,swarm,,any,20,Onix,56,56
+123,Iron Island,swarm,,any,20,Onix,56,56
+124,Iron Island,swarm,,any,20,Onix,56,56
+125,Old Chateau,swarm,,any,20,Gastly,46,46
+126,Old Chateau,swarm,,any,20,Gastly,46,46
+127,Old Chateau,swarm,,any,20,Gastly,36,36
+128,Old Chateau,swarm,,any,20,Gastly,46,46
+129,Old Chateau,swarm,,any,20,Gastly,14,14
+130,Old Chateau,swarm,,any,20,Gastly,46,46
+131,Old Chateau,swarm,,any,20,Gastly,46,46
+132,Old Chateau,swarm,,any,20,Gastly,46,46
+133,Old Chateau,swarm,,any,20,Gastly,46,46
+151,Lost Tower 1F,swarm,,any,20,Gastly,24,24
+152,Lost Tower 2F,swarm,,any,20,Gastly,46,46
+153,Lost Tower 3F,swarm,,any,20,Gastly,66,66
+154,Lost Tower 4F,swarm,,any,20,Gastly,78,78
+155,Lost Tower 5F,swarm,,any,20,Duskull,86,86
+20,Mt. Coronet,swarm,,any,20,Bronzor,65,65
+21,Mt. Coronet,swarm,,any,20,Bronzor,65,65
+165,Route 216,swarm,,any,20,Snover,65,65
+166,Route 217,swarm,,any,20,Delibird,70,70
+139,Acuity Lakefront,swarm,,any,20,Snover,65,65
+107,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+108,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+109,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+110,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+111,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+172,Route 225,swarm,,any,20,Makuhita,65,65
+173,Route 227,swarm,,any,20,Spinda,55,55
+174,Route 228,swarm,,any,20,Beldum,55,55
+175,Route 229,swarm,,any,20,Pinsir,65,65
+181,Route 226,swarm,,any,20,Krabby,55,55
+182,Route 230,swarm,,any,20,Corsola,55,55
+56,Stark Mountain,swarm,,any,20,Camerupt,95,95
+57,Stark Mountain,swarm,,any,20,Magcargo,90,90
+170,Route 222,swarm,,any,20,Skitty,50,50
+3,Sunyshore City,swarm,,any,20,Exeggutor,85,85
+169,Route 221,swarm,,any,20,Farfetch’d,90,90
+161,Route 212,swarm,,any,20,Shellos,55,55
+11,Mt Coronet 2f,swarm,,any,20,Rhyperior,90,90
+12,Mt Coronet 3f,swarm,,any,20,Bronzong,90,90
+13,Coronet Highlands,swarm,,any,20,Snover,100,100
+14,Coronet Highlands,swarm,,any,20,Snover,100,100
+15,Coronet Highlands,swarm,,any,20,Bronzong,100,100
+16,Coronet Highlands,swarm,,any,20,Bronzong,100,100
+19,Celestica Ruins,swarm,,any,20,Graveler,65,65
+17,Coronet Highlands,swarm,,any,20,Bronzong,100,100
+18,Coronet Highlands,swarm,,any,20,Bronzong,100,100
+59,Sendoff Spring,swarm,,any,20,Graveler,65,65
+63,Turnback Cave,swarm,,any,20,Gastly,66,66
+79,Turnback Cave,swarm,,any,20,Haunter,66,66
+59,Sendoff Spring,swarm,,any,20,Graveler,65,65
+47,Victory Road,swarm,,any,20,Graveler,97,97
+48,Victory Road,swarm,,any,20,Magneton,100,100
+49,Victory Road,swarm,,any,20,Floatzel,100,100
+50,Victory Road,swarm,,any,20,Floatzel,100,100
+51,Victory Road,swarm,,any,20,Graveler,100,100
+52,Victory Road,swarm,,any,20,Graveler,100,100
+171,Route 224,swarm,,any,20,Espeon,65,65
+136,Lake Valor,swarm,,any,20,Staravia,75,75
+140,Route 201,swarm,,any,20,Doduo,4,4
+140,Verity Lakefront,swarm,,any,20,Doduo,4,4
+134,Lake Verity,swarm,,any,20,Bidoof,3,3
+187,Sandgem Town,swarm,,any,20,Magneton,5,5
+141,Route 202,swarm,,any,20,Zigzagoon,5,5
+143,Route 204 South,swarm,,any,20,Bidoof,9,9
+53,Ravaged Path,swarm,,any,20,Psyduck,7,7
+167,Route 218,swarm,,any,20,Voltorb,30,30
+142,Route 203,swarm,,any,20,Cubone,8,8
+54,Oreburgh Gate 1F,swarm,,any,20,Psyduck,5,5
+55,Oreburgh Gate B1F,swarm,,any,20,Psyduck,5,5
+183,Oreburgh City,swarm,,any,20,Torkoal,10,10
+148,Route 207,swarm,,any,20,Phanpy,11,11
+5,Oreburgh Mine,swarm,,any,20,Geodude,10,10
+144,Route 204 North,swarm,,any,20,Bidoof,14,14
+185,Floaroma Town,swarm,,any,20,Dustox,15,15
+7,Valley Windworks,swarm,,any,20,Electrike,17,17
+145,Route 205 South,swarm,,any,20,Shellos,15,15
+8,Eterna Forest,swarm,,any,20,Slakoth,23,23
+146,Route 205 North,swarm,,any,20,Shellos,20,20
+158,Route 211 West,swarm,,any,20,Bidoof,17,17
+147,Route 206,swarm,,any,20,Larvitar,23,23
+10,Mt. Coronet 1F,swarm,,any,20,Geodude,24,24
+149,Route 208,swarm,,any,20,Dunsparce,18,18
+150,Route 209,swarm,,any,20,Tauros,36,36
+188,Solaceon Town,swarm,,any,20,Tauros,38,38
+31,Solaceon Ruins,swarm,,any,20,Mawile,37,37
+156,Route 210 South,swarm,,any,20,Tauros,41,41
+164,Route 215,swarm,,any,20,Drowzee,42,42
+163,Route 214,swarm,,any,20,Spoink,45,45
+116,Maniac Tunnel,swarm,,any,20,Geodude,45,45
+138,Valor Lakefront,swarm,,any,20,Bibarel,47,47
+162,Route 213,swarm,,any,20,Buizel,100,100
+23,Great Marsh,swarm,,any,20,Bibarel,50,50
+24,Great Marsh,swarm,,any,20,Bibarel,50,50
+25,Great Marsh,swarm,,any,20,Bibarel,50,50
+26,Great Marsh,swarm,,any,20,Bibarel,50,50
+27,Great Marsh,swarm,,any,20,Bibarel,50,50
+28,Great Marsh,swarm,,any,20,Bibarel,50,50
+9,Fuego Ironworks,swarm,,any,20,Magnemite,55,55
+157,Clamberclaw Cliffs,swarm,,any,20,Bibarel,45,45
+177,Celestic Town,swarm,,any,20,Mr. Mime,55,55
+159,Route 211,swarm,,any,20,Graveler,55,55
+21,Mt. Coronet,swarm,,any,20,Graveler,65,65
+122,Iron Island,swarm,,any,20,Graveler,56,56
+123,Iron Island,swarm,,any,20,Graveler,56,56
+124,Iron Island,swarm,,any,20,Graveler,56,56
+125,Old Chateau,swarm,,any,20,Gastly,16,16
+126,Old Chateau,swarm,,any,20,Gastly,16,16
+127,Old Chateau,swarm,,any,20,Gastly,36,36
+128,Old Chateau,swarm,,any,20,Gastly,16,16
+129,Old Chateau,swarm,,any,20,Gastly,15,15
+130,Old Chateau,swarm,,any,20,Gastly,16,16
+131,Old Chateau,swarm,,any,20,Gastly,16,16
+132,Old Chateau,swarm,,any,20,Gastly,16,16
+133,Old Chateau,swarm,,any,20,Gastly,16,16
+151,Lost Tower 1F,swarm,,any,20,Zubat,24,24
+152,Lost Tower 2F,swarm,,any,20,Zubat,46,46
+153,Lost Tower 3F,swarm,,any,20,Zubat,66,66
+154,Lost Tower 4F,swarm,,any,20,Zubat,78,78
+155,Lost Tower 5F,swarm,,any,20,Dusclops,86,86
+20,Mt. Coronet,swarm,,any,20,Graveler,65,65
+21,Mt. Coronet,swarm,,any,20,Graveler,65,65
+165,Route 216,swarm,,any,20,Sneasel,65,65
+166,Route 217,swarm,,any,20,Delibird,70,70
+139,Acuity Lakefront,swarm,,any,20,Swinub,65,65
+107,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+108,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+109,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+110,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+111,Snowpoint Temple,swarm,,any,20,Golbat,75,75
+172,Route 225,swarm,,any,20,Makuhita,65,65
+173,Route 227,swarm,,any,20,Spinda,55,55
+174,Route 228,swarm,,any,20,Beldum,55,55
+175,Route 229,swarm,,any,20,Pinsir,65,65
+181,Route 226,swarm,,any,20,Krabby,55,55
+182,Route 230,swarm,,any,20,Corsola,55,55
+56,Stark Mountain,swarm,,any,20,Rhydon,95,95
+57,Stark Mountain,swarm,,any,20,Rhydon,90,90
+170,Route 222,swarm,,any,20,Skitty,50,50
+3,Sunyshore City,swarm,,any,20,Exeggutor,85,85
+169,Route 221,swarm,,any,20,Farfetch’d,90,90
+161,Route 212,swarm,,any,20,Quagsire,55,55
+11,Mt Coronet 2f,swarm,,any,20,Rhyperior,90,90
+12,Mt Coronet 3f,swarm,,any,20,Graveler,90,90
+13,Coronet Highlands,swarm,,any,20,Abomasnow,100,100
+14,Coronet Highlands,swarm,,any,20,Abomasnow,100,100
+15,Coronet Highlands,swarm,,any,20,Graveler,100,100
+16,Coronet Highlands,swarm,,any,20,Graveler,100,100
+19,Celestica Ruins,swarm,,any,20,Graveler,65,65
+17,Coronet Highlands,swarm,,any,20,Graveler,100,100
+18,Coronet Highlands,swarm,,any,20,Graveler,100,100
+59,Sendoff Spring,swarm,,any,20,Bibarel,65,65
+63,Turnback Cave,swarm,,any,20,Bronzor,66,66
+79,Turnback Cave,swarm,,any,20,Bronzong,66,66
+59,Sendoff Spring,swarm,,any,20,Bibarel,65,65
+47,Victory Road,swarm,,any,20,Rhyhorn,97,97
+48,Victory Road,swarm,,any,20,Steelix,100,100
+49,Victory Road,swarm,,any,20,Azumarill,100,100
+50,Victory Road,swarm,,any,20,Azumarill,100,100
+51,Victory Road,swarm,,any,20,Floatzel,100,100
+52,Victory Road,swarm,,any,20,Floatzel,100,100
+171,Route 224,swarm,,any,20,Umbreon,65,65
+136,Lake Valor,swarm,,any,20,Bibarel,80,80

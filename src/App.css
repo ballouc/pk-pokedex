@@ -323,6 +323,50 @@
   line-height: 1.6;
 }
 
+.locations-table {
+  width: 90%;
+  margin: 0 5%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.locations-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.locations-table tbody tr:hover {
+  background: #f0f0ff;
+}
+
+.locations-table td {
+  padding: 4px 12px;
+  color: #333;
+}
+
+.loc-rate {
+  width: 48px;
+  text-align: right;
+  color: #888;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.loc-name {
+  color: #333;
+}
+
+.loc-level {
+  width: 56px;
+  text-align: center;
+  color: #888;
+  font-variant-numeric: tabular-nums;
+}
+
+.loc-method {
+  color: #999;
+  font-size: 11px;
+}
+
 /* Move table */
 .move-table-wrap {
   padding: 0 5%;

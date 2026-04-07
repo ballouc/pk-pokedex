@@ -2,6 +2,7 @@ import csvText from '../assets/docs/Personal.csv?raw'
 import evoCsvText from '../assets/docs/Evolutions.csv?raw'
 import learnsetCsvText from '../assets/docs/Learnsets.csv?raw'
 import movesCsvText from '../assets/docs/Moves.csv?raw'
+import encountersCsvText from '../assets/docs/Encounters.csv?raw'
 
 // Type sprites — keyed by lowercase type name
 const typeModules = import.meta.glob('../assets/sprites/types/*.png', { eager: true })
@@ -386,6 +387,76 @@ learnsetCsvText
 
 export function getLearnset(pokemonId) {
   return learnsetById[pokemonId] ?? []
+}
+
+// --- Encounters ---
+
+// lowercase pokemon name → [{ locationName, rate, minLevel, maxLevel, method }]
+const encountersByName = {}
+
+{
+  const rows = encountersCsvText
+    .trim()
+    .split('\n')
+    .slice(1)
+    .map(line => {
+      const p = parseCsvLine(line)
+      return {
+        locationId:   p[0]?.trim() ?? '',
+        locationName: p[1]?.trim() ?? '',
+        method:       p[2]?.trim() ?? '',
+        rod:          p[3]?.trim() ?? '',
+        timeOfDay:    p[4]?.trim() ?? '',
+        rate:         parseInt(p[5]) || 0,
+        pokemon:      p[6]?.trim() ?? '',
+        minLevel:     parseInt(p[7]) || 0,
+        maxLevel:     parseInt(p[8]) || 0,
+      }
+    })
+    .filter(e => e.pokemon && e.method !== 'swarm')
+
+  // Build set of (locationId|pokemon) pairs that appear at night or any time,
+  // used to decide whether a day-only grass entry is grass_day or just grass.
+  const appearsAtNight = new Set()
+  for (const e of rows) {
+    if (e.method === 'grass' && (e.timeOfDay === 'night' || e.timeOfDay === 'any')) {
+      appearsAtNight.add(`${e.locationId}|${e.pokemon.toLowerCase()}`)
+    }
+  }
+
+  for (const e of rows) {
+    const name = e.pokemon.toLowerCase()
+    let displayMethod
+
+    if (e.method === 'grass') {
+      if (e.timeOfDay === 'night') {
+        displayMethod = 'grass_night'
+      } else if (e.timeOfDay === 'day') {
+        displayMethod = appearsAtNight.has(`${e.locationId}|${name}`) ? 'grass' : 'grass_day'
+      } else {
+        displayMethod = 'grass'
+      }
+    } else if (e.method === 'surf') {
+      displayMethod = 'surfing'
+    } else if (e.method === 'fishing') {
+      displayMethod = `fishing_${e.rod}`
+    } else {
+      continue
+    }
+
+    if (!encountersByName[name]) encountersByName[name] = []
+    encountersByName[name].push({
+      locationName: e.locationName,
+      rate:         e.rate,
+      minLevel:     e.minLevel,
+      maxLevel:     e.maxLevel,
+      method:       displayMethod,
+    })
+  }
+}
+
+export function getEncounters(baseName) {
+  return encountersByName[baseName.toLowerCase()] ?? []
 }
 
 export function search(query) {
